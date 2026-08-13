@@ -267,10 +267,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-12T17:36:14Z",
+            "last_commit": "2026-08-13T11:13:13Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 28949
+            "stars": 28956
           }
         },
         {
@@ -512,7 +512,7 @@
             "last_commit": "2026-06-29T18:07:40Z",
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 197
+            "stars": 198
           }
         },
         {
@@ -834,7 +834,7 @@
             "last_commit": "2026-04-08T02:44:24Z",
             "owner": "zegevlier",
             "repo": "send-to-remarkable",
-            "stars": 7
+            "stars": 8
           }
         },
         {
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:03:14.866Z",
+    "last_updated": "2026-08-13T11:13:25.403Z",
     "original_repository": "reHackable/awesome-reMarkable",
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
     "enhanced_repository": "enhansome/enhansome-reMarkable",
