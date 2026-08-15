@@ -34,7 +34,7 @@
             "last_commit": "2026-07-10T12:56:24Z",
             "owner": "ddvk",
             "repo": "rmfakecloud",
-            "stars": 1313
+            "stars": 1315
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-06-01T11:37:17Z",
             "owner": "ddvk",
             "repo": "rmapi",
-            "stars": 305
+            "stars": 306
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-04-05T15:16:15Z",
             "owner": "ricklupton",
             "repo": "rmscene",
-            "stars": 151
+            "stars": 152
           }
         },
         {
@@ -194,7 +194,7 @@
             "last_commit": "2021-11-06T15:10:14Z",
             "owner": "rschroll",
             "repo": "rmrl",
-            "stars": 140
+            "stars": 139
           }
         },
         {
@@ -267,10 +267,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-14T02:46:08Z",
+            "last_commit": "2026-08-15T07:48:01Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 28984
+            "stars": 29010
           }
         },
         {
@@ -509,10 +509,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T11:05:16Z",
+            "last_commit": "2026-08-14T23:50:31Z",
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 198
+            "stars": 199
           }
         },
         {
@@ -675,7 +675,7 @@
           "description": "Sync PDFs from Zotero to reMarkable.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "language": "Python",
             "last_commit": "2020-12-03T13:38:56Z",
             "owner": "dnlbauer",
@@ -1146,7 +1146,7 @@
             "last_commit": "2026-08-11T01:45:12Z",
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 335
+            "stars": 336
           }
         },
         {
@@ -1415,7 +1415,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-22T20:23:29Z",
+            "last_commit": "2026-08-14T20:54:51Z",
             "owner": "asivery",
             "repo": "rm-appload",
             "stars": 94
@@ -1704,7 +1704,7 @@
             "last_commit": "2026-08-13T19:28:06Z",
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 340
+            "stars": 341
           }
         },
         {
@@ -2424,7 +2424,7 @@
             "last_commit": "2025-10-08T14:35:55Z",
             "owner": "bordaigorl",
             "repo": "rmview",
-            "stars": 828
+            "stars": 829
           }
         },
         {
@@ -2452,7 +2452,7 @@
             "last_commit": "2021-08-29T13:39:12Z",
             "owner": "matteodelabre",
             "repo": "vnsee",
-            "stars": 297
+            "stars": 298
           }
         },
         {
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T11:11:05.636Z",
+    "last_updated": "2026-08-15T10:43:27.831Z",
     "original_repository": "reHackable/awesome-reMarkable",
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
     "enhanced_repository": "enhansome/enhansome-reMarkable",
