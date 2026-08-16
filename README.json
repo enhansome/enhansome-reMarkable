@@ -267,10 +267,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-15T07:48:01Z",
+            "last_commit": "2026-08-15T22:10:07Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29010
+            "stars": 29048
           }
         },
         {
@@ -399,7 +399,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T02:54:08Z",
+            "last_commit": "2026-08-15T17:39:19Z",
             "owner": "hafaio",
             "repo": "repub",
             "stars": 92
@@ -512,7 +512,7 @@
             "last_commit": "2026-08-14T23:50:31Z",
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 199
+            "stars": 200
           }
         },
         {
@@ -1415,7 +1415,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T20:54:51Z",
+            "last_commit": "2026-08-15T14:05:55Z",
             "owner": "asivery",
             "repo": "rm-appload",
             "stars": 94
@@ -1639,7 +1639,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-05-11T07:18:44Z",
+            "last_commit": "2026-08-16T04:05:06Z",
             "owner": "Samarkin",
             "repo": "rm-hacks-xovi-qmd",
             "stars": 3
@@ -1673,7 +1673,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-14T21:13:52Z",
+            "last_commit": "2026-08-15T19:30:15Z",
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
             "stars": 632
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T10:43:27.831Z",
+    "last_updated": "2026-08-16T10:43:54.129Z",
     "original_repository": "reHackable/awesome-reMarkable",
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
     "enhanced_repository": "enhansome/enhansome-reMarkable",
