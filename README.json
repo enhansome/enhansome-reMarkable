@@ -34,7 +34,7 @@
             "last_commit": "2026-07-10T12:56:24Z",
             "owner": "ddvk",
             "repo": "rmfakecloud",
-            "stars": 1315
+            "stars": 1316
           }
         },
         {
@@ -267,10 +267,10 @@
           "repo_info": {
             "archived": false,
             "language": "Lua",
-            "last_commit": "2026-08-15T22:10:07Z",
+            "last_commit": "2026-08-17T06:44:24Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29048
+            "stars": 29075
           }
         },
         {
@@ -281,7 +281,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-24T09:28:01Z",
+            "last_commit": "2026-08-17T05:43:07Z",
             "owner": "fenollp",
             "repo": "reMarkable-tools",
             "stars": 234
@@ -436,7 +436,7 @@
             "last_commit": "2025-09-16T16:11:16Z",
             "owner": "LinusCDE",
             "repo": "chessmarkable",
-            "stars": 133
+            "stars": 134
           }
         },
         {
@@ -509,7 +509,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T23:50:31Z",
+            "last_commit": "2026-08-17T09:38:56Z",
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
             "stars": 200
@@ -1146,7 +1146,7 @@
             "last_commit": "2026-08-11T01:45:12Z",
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 336
+            "stars": 338
           }
         },
         {
@@ -1314,7 +1314,7 @@
             "last_commit": "2026-05-16T16:54:06Z",
             "owner": "NohamR",
             "repo": "RMHook-Win",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -1348,7 +1348,7 @@
             "last_commit": "2024-06-11T21:06:52Z",
             "owner": "mb1986",
             "repo": "rm-hacks",
-            "stars": 661
+            "stars": 662
           }
         },
         {
@@ -1704,7 +1704,7 @@
             "last_commit": "2026-08-13T19:28:06Z",
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 341
+            "stars": 342
           }
         },
         {
@@ -2530,7 +2530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T10:43:54.129Z",
+    "last_updated": "2026-08-17T10:51:08.535Z",
     "original_repository": "reHackable/awesome-reMarkable",
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
     "enhanced_repository": "enhansome/enhansome-reMarkable",
