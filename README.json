@@ -272,10 +272,10 @@
             "archived": false,
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-19T05:31:43Z",
+            "last_commit": "2026-08-19T11:44:08Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29105
+            "stars": 29107
           }
         },
         {
@@ -2596,7 +2596,7 @@
             "last_commit": "2026-04-18T09:41:43Z",
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 745
+            "stars": 746
           }
         },
         {
@@ -2694,8 +2694,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T10:49:27.233Z",
+    "last_updated": "2026-08-19T12:48:51.262Z",
     "original_repository": "reHackable/awesome-reMarkable",
+    "original_repository_id": 118118940,
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
     "enhanced_repository": "enhansome/enhansome-reMarkable",
     "enhanced_repository_description": null,
