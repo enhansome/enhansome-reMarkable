@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-10T12:56:24Z",
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1317
+                "stars": 1318
               }
             },
             {
@@ -272,10 +272,10 @@
             "archived": false,
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-22T07:21:45Z",
+            "last_commit": "2026-08-23T09:00:44Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29180
+            "stars": 29203
           }
         },
         {
@@ -392,7 +392,7 @@
             "archived": false,
             "id": 1282542291,
             "language": "Go",
-            "last_commit": "2026-08-22T09:28:13Z",
+            "last_commit": "2026-08-22T20:18:53Z",
             "owner": "bjornte",
             "repo": "Writerdeck-for-reMarkable",
             "stars": 2
@@ -565,7 +565,7 @@
             "last_commit": "2020-12-23T01:16:57Z",
             "owner": "after-eight",
             "repo": "regitable",
-            "stars": 113
+            "stars": 114
           }
         },
         {
@@ -595,7 +595,7 @@
             "last_commit": "2021-02-26T07:06:41Z",
             "owner": "simonschllng",
             "repo": "rm-sync",
-            "stars": 87
+            "stars": 88
           }
         },
         {
@@ -625,7 +625,7 @@
             "last_commit": "2026-08-22T07:32:54Z",
             "owner": "RedTTGMoss",
             "repo": "moss-desktop",
-            "stars": 77
+            "stars": 78
           }
         },
         {
@@ -1459,7 +1459,7 @@
             "last_commit": "2026-04-08T21:08:09Z",
             "owner": "asivery",
             "repo": "rm-hacks-qmd",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -1509,6 +1509,21 @@
         },
         {
           "node_type": "item",
+          "title": "xovi-extensions (FouzR)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 918612096,
+            "language": null,
+            "last_commit": "2026-08-23T10:12:57Z",
+            "owner": "FouzR",
+            "repo": "xovi-extensions",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Crazy Cow",
           "description": "Typewriter input from USB keyboard directly into reMarkable interface.",
           "children": [],
@@ -1519,21 +1534,6 @@
             "last_commit": "2021-09-15T11:01:34Z",
             "owner": "machinelevel",
             "repo": "sp425-crazy-cow",
-            "stars": 88
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xovi-extensions (FouzR)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 918612096,
-            "language": null,
-            "last_commit": "2026-07-09T06:38:47Z",
-            "owner": "FouzR",
-            "repo": "xovi-extensions",
             "stars": 88
           }
         },
@@ -2167,7 +2167,7 @@
             "archived": false,
             "id": 487516230,
             "language": "Python",
-            "last_commit": "2026-08-13T00:33:05Z",
+            "last_commit": "2026-08-22T12:41:22Z",
             "owner": "Scrybbling-together",
             "repo": "remarks",
             "stars": 62
@@ -2694,7 +2694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T10:44:09.079Z",
+    "last_updated": "2026-08-23T10:44:24.395Z",
     "original_repository": "reHackable/awesome-reMarkable",
     "original_repository_id": 118118940,
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
