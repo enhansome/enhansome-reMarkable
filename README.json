@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 178061398,
                 "language": "Go",
-                "last_commit": "2026-08-19T17:00:26Z",
+                "last_commit": "2026-08-23T17:18:00Z",
                 "owner": "ddvk",
                 "repo": "rmapi",
                 "stars": 309
@@ -272,10 +272,10 @@
             "archived": false,
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-23T09:00:44Z",
+            "last_commit": "2026-08-24T10:56:05Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29203
+            "stars": 29232
           }
         },
         {
@@ -535,7 +535,7 @@
             "last_commit": "2026-08-17T09:38:56Z",
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 208
+            "stars": 209
           }
         },
         {
@@ -610,7 +610,7 @@
             "last_commit": "2026-08-22T03:57:15Z",
             "owner": "fishy",
             "repo": "url2epub",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -946,7 +946,7 @@
             "last_commit": "2026-05-03T09:35:56Z",
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1522
+            "stars": 1523
           }
         },
         {
@@ -1459,7 +1459,7 @@
             "last_commit": "2026-04-08T21:08:09Z",
             "owner": "asivery",
             "repo": "rm-hacks-qmd",
-            "stars": 228
+            "stars": 229
           }
         },
         {
@@ -1744,7 +1744,7 @@
             "last_commit": "2026-08-16T04:05:06Z",
             "owner": "Samarkin",
             "repo": "rm-hacks-xovi-qmd",
-            "stars": 3
+            "stars": 4
           }
         },
         {
@@ -2167,7 +2167,7 @@
             "archived": false,
             "id": 487516230,
             "language": "Python",
-            "last_commit": "2026-08-22T12:41:22Z",
+            "last_commit": "2026-08-24T10:30:06Z",
             "owner": "Scrybbling-together",
             "repo": "remarks",
             "stars": 62
@@ -2566,7 +2566,7 @@
             "last_commit": "2026-06-10T08:18:17Z",
             "owner": "rien",
             "repo": "reStream",
-            "stars": 865
+            "stars": 866
           }
         },
         {
@@ -2694,7 +2694,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T10:44:24.395Z",
+    "last_updated": "2026-08-24T10:56:25.857Z",
     "original_repository": "reHackable/awesome-reMarkable",
     "original_repository_id": 118118940,
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
