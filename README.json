@@ -256,6 +256,28 @@
           "description": null,
           "node_type": "group",
           "title": "Lines Format"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libreMarkable",
+              "description": "A framework for developing applications with native refresh support for reMarkable Tablet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121907554,
+                "language": "C",
+                "last_commit": "2026-06-16T23:18:13Z",
+                "owner": "canselcik",
+                "repo": "libremarkable",
+                "stars": 700
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other APIs"
         }
       ],
       "title": "APIs"
@@ -275,7 +297,7 @@
             "last_commit": "2026-08-24T10:56:05Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29232
+            "stars": 29234
           }
         },
         {
@@ -501,6 +523,28 @@
           "description": null,
           "node_type": "group",
           "title": "Games"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "draft-reMarkable",
+              "description": "A launcher for the reMarkable tablet, which wraps around the standard interface.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113916958,
+                "language": "C++",
+                "last_commit": "2022-02-09T10:11:02Z",
+                "owner": "dixonary",
+                "repo": "draft-reMarkable",
+                "stars": 153
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Launchers"
         }
       ],
       "title": "Applications"
@@ -1213,7 +1257,7 @@
             "last_commit": "2026-08-11T01:45:12Z",
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 346
+            "stars": 347
           }
         },
         {
@@ -2694,7 +2738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:56:25.857Z",
+    "last_updated": "2026-08-24T13:51:06.925Z",
     "original_repository": "reHackable/awesome-reMarkable",
     "original_repository_id": 118118940,
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
