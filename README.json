@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-10T12:56:24Z",
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1319
+                "stars": 1320
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-23T17:18:00Z",
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 309
+                "stars": 310
               }
             },
             {
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-24T18:06:33Z",
+            "last_commit": "2026-08-26T05:03:13Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29250
+            "stars": 29276
           }
         },
         {
@@ -554,6 +554,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "remarkable-mcp",
+          "description": "Model Context Protocol server enabling AI assistants to read and browse your reMarkable documents via SSH (no subscription required) or Cloud API. Blog post.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1105221013,
+            "language": "Python",
+            "last_commit": "2026-08-17T09:38:56Z",
+            "owner": "SamMorrowDrums",
+            "repo": "remarkable-mcp",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
           "title": "reMarkable_syncthing",
           "description": "Syncthing on reMarkable.",
           "children": [],
@@ -565,21 +580,6 @@
             "owner": "Evidlo",
             "repo": "remarkable_syncthing",
             "stars": 210
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "remarkable-mcp",
-          "description": "Model Context Protocol server enabling AI assistants to read and browse your reMarkable documents via SSH (no subscription required) or Cloud API. Blog post.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1105221013,
-            "language": "Python",
-            "last_commit": "2026-08-17T09:38:56Z",
-            "owner": "SamMorrowDrums",
-            "repo": "remarkable-mcp",
-            "stars": 209
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2026-05-03T09:35:56Z",
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1523
+            "stars": 1524
           }
         },
         {
@@ -1419,7 +1419,7 @@
             "archived": false,
             "id": 1082138733,
             "language": "C++",
-            "last_commit": "2026-08-20T14:33:59Z",
+            "last_commit": "2026-08-25T22:04:13Z",
             "owner": "NohamR",
             "repo": "RMHook",
             "stars": 9
@@ -1434,7 +1434,7 @@
             "archived": false,
             "id": 1231970498,
             "language": "C++",
-            "last_commit": "2026-08-20T14:58:45Z",
+            "last_commit": "2026-08-25T22:02:56Z",
             "owner": "NohamR",
             "repo": "RMHook-Win",
             "stars": 4
@@ -1449,7 +1449,7 @@
             "archived": false,
             "id": 1164043414,
             "language": "Logos",
-            "last_commit": "2026-08-20T15:31:28Z",
+            "last_commit": "2026-08-25T22:03:44Z",
             "owner": "NohamR",
             "repo": "RMHook-iOS",
             "stars": 0
@@ -1545,7 +1545,7 @@
             "archived": false,
             "id": 909517437,
             "language": "C++",
-            "last_commit": "2026-08-20T15:30:42Z",
+            "last_commit": "2026-08-26T03:43:53Z",
             "owner": "asivery",
             "repo": "rm-appload",
             "stars": 95
@@ -1563,7 +1563,7 @@
             "last_commit": "2026-08-23T10:12:57Z",
             "owner": "FouzR",
             "repo": "xovi-extensions",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -2139,7 +2139,7 @@
             "last_commit": "2026-08-20T18:19:25Z",
             "owner": "cloudsftp",
             "repo": "reSnap",
-            "stars": 79
+            "stars": 80
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2026-06-10T08:18:17Z",
             "owner": "rien",
             "repo": "reStream",
-            "stars": 866
+            "stars": 864
           }
         },
         {
@@ -2738,7 +2738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:53:26.578Z",
+    "last_updated": "2026-08-26T10:53:55.460Z",
     "original_repository": "reHackable/awesome-reMarkable",
     "original_repository_id": 118118940,
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
