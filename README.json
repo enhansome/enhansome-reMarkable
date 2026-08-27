@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-10T12:56:24Z",
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1320
+                "stars": 1323
               }
             },
             {
@@ -294,10 +294,10 @@
             "archived": false,
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-26T05:03:13Z",
+            "last_commit": "2026-08-27T10:21:34Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29276
+            "stars": 29297
           }
         },
         {
@@ -726,7 +726,7 @@
             "archived": false,
             "id": 987719515,
             "language": "Go",
-            "last_commit": "2026-07-31T21:02:03Z",
+            "last_commit": "2026-08-26T21:15:30Z",
             "owner": "rmitchellscott",
             "repo": "Aviary",
             "stars": 57
@@ -914,6 +914,21 @@
         },
         {
           "node_type": "item",
+          "title": "rm-brain",
+          "description": "Turns your reMarkable notebooks into a local-first, searchable second brain you query through Claude Desktop.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1295664380,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T21:08:19Z",
+            "owner": "gabrielanhaia",
+            "repo": "remarkable-brain",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
           "title": "send-to-remarkable",
           "description": "Upload documents to the reMarkable from an email, like send to Kindle.",
           "children": [],
@@ -925,21 +940,6 @@
             "owner": "zegevlier",
             "repo": "send-to-remarkable",
             "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rm-brain",
-          "description": "Turns your reMarkable notebooks into a local-first, searchable second brain you query through Claude Desktop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1295664380,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T21:08:19Z",
-            "owner": "gabrielanhaia",
-            "repo": "remarkable-brain",
-            "stars": 7
           }
         },
         {
@@ -990,7 +990,7 @@
             "last_commit": "2026-05-03T09:35:56Z",
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1524
+            "stars": 1525
           }
         },
         {
@@ -1254,7 +1254,7 @@
             "archived": false,
             "id": 1134595696,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T01:45:12Z",
+            "last_commit": "2026-08-27T03:20:32Z",
             "owner": "rmitchellscott",
             "repo": "reManager",
             "stars": 348
@@ -1839,7 +1839,7 @@
             "last_commit": "2025-02-16T21:42:28Z",
             "owner": "GjjvdBurg",
             "repo": "paper2remarkable",
-            "stars": 383
+            "stars": 384
           }
         },
         {
@@ -2154,7 +2154,7 @@
             "last_commit": "2020-12-21T10:30:54Z",
             "owner": "ddvk",
             "repo": "remarkable-touchgestures",
-            "stars": 69
+            "stars": 70
           }
         },
         {
@@ -2189,6 +2189,21 @@
         },
         {
           "node_type": "item",
+          "title": "remarks",
+          "description": "Extract highlights, scribbles, and annotations from PDFs. Export to Markdown, PNG, and SVG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 487516230,
+            "language": "Python",
+            "last_commit": "2026-08-27T10:31:02Z",
+            "owner": "Scrybbling-together",
+            "repo": "remarks",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Epistolary",
           "description": "Emails on the reMarkable. Read and respond to your email inbox in handwriting (auto-converts to text before sending).",
           "children": [],
@@ -2199,21 +2214,6 @@
             "last_commit": "2025-02-06T21:32:42Z",
             "owner": "j6k4m8",
             "repo": "epistolary",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "remarks",
-          "description": "Extract highlights, scribbles, and annotations from PDFs. Export to Markdown, PNG, and SVG.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 487516230,
-            "language": "Python",
-            "last_commit": "2026-08-25T10:35:52Z",
-            "owner": "Scrybbling-together",
-            "repo": "remarks",
             "stars": 62
           }
         },
@@ -2529,7 +2529,7 @@
             "last_commit": "2026-03-05T20:16:09Z",
             "owner": "Penguin-Guru",
             "repo": "remarkable-ssh",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -2610,7 +2610,7 @@
             "last_commit": "2026-06-10T08:18:17Z",
             "owner": "rien",
             "repo": "reStream",
-            "stars": 864
+            "stars": 865
           }
         },
         {
@@ -2625,7 +2625,7 @@
             "last_commit": "2025-10-08T14:35:55Z",
             "owner": "bordaigorl",
             "repo": "rmview",
-            "stars": 828
+            "stars": 829
           }
         },
         {
@@ -2640,7 +2640,7 @@
             "last_commit": "2026-08-21T15:30:03Z",
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 747
+            "stars": 748
           }
         },
         {
@@ -2738,9 +2738,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:53:55.460Z",
-    "original_repository": "reHackable/awesome-reMarkable",
-    "original_repository_id": 118118940,
+    "last_updated": "2026-08-27T12:04:12.027Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 118118940,
+      "language": null,
+      "last_commit": "2026-07-28T00:25:12Z",
+      "owner": "reHackable",
+      "repo": "awesome-reMarkable",
+      "stars": 7659
+    },
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
     "enhanced_repository": "enhansome/enhansome-reMarkable",
     "enhanced_repository_description": null,
