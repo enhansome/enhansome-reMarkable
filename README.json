@@ -294,10 +294,10 @@
             "archived": false,
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-27T10:21:34Z",
+            "last_commit": "2026-08-27T17:29:24Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29297
+            "stars": 29304
           }
         },
         {
@@ -1419,7 +1419,7 @@
             "archived": false,
             "id": 1082138733,
             "language": "C++",
-            "last_commit": "2026-08-25T22:04:13Z",
+            "last_commit": "2026-08-27T14:26:05Z",
             "owner": "NohamR",
             "repo": "RMHook",
             "stars": 9
@@ -1449,7 +1449,7 @@
             "archived": false,
             "id": 1164043414,
             "language": "Logos",
-            "last_commit": "2026-08-25T22:03:44Z",
+            "last_commit": "2026-08-27T13:38:16Z",
             "owner": "NohamR",
             "repo": "RMHook-iOS",
             "stars": 0
@@ -2738,7 +2738,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:12.027Z",
+    "last_updated": "2026-08-27T20:34:48.520Z",
     "original_repository_info": {
       "archived": false,
       "id": 118118940,
