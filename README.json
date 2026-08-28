@@ -17,8 +17,9 @@
                 "last_commit": "2026-07-10T12:56:24Z",
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1323
-              }
+                "stars": 1324
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "splitbrain",
                 "repo": "ReMarkableAPI",
                 "stars": 423
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "ddvk",
                 "repo": "rmapi",
                 "stars": 310
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "subutux",
                 "repo": "rmapy",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "bsdz",
                 "repo": "google-drive-remarkable-sync",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "benoitsepe",
                 "repo": "reMarkable-typescript",
                 "stars": 105
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "theogf",
                 "repo": "Remarkable.jl",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "rschroll",
                 "repo": "rmcl",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "jlarriba",
                 "repo": "jrmapi",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "hansegucker",
                 "repo": "remarkdav",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             }
           ],
           "description": null,
@@ -175,7 +185,8 @@
                 "owner": "ricklupton",
                 "repo": "rmscene",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "rschroll",
                 "repo": "rmrl",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "bsdz",
                 "repo": "remarkable-layers",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "ax3l",
                 "repo": "lines-are-beautiful",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "ax3l",
                 "repo": "lines-are-rusty",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "matomatical",
                 "repo": "reMarkable-kaitai",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             }
           ],
           "description": null,
@@ -272,7 +288,8 @@
                 "owner": "canselcik",
                 "repo": "libremarkable",
                 "stars": 700
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             }
           ],
           "description": null,
@@ -294,11 +311,12 @@
             "archived": false,
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-27T17:29:24Z",
+            "last_commit": "2026-08-28T20:58:42Z",
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29304
-          }
+            "stars": 29330
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -313,7 +331,8 @@
             "owner": "fenollp",
             "repo": "reMarkable-tools",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -328,7 +347,8 @@
             "owner": "dps",
             "repo": "remarkable-keywriter",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -343,7 +363,8 @@
             "owner": "dps",
             "repo": "remarkable-wikipedia",
             "stars": 174
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -358,7 +379,8 @@
             "owner": "darvin",
             "repo": "plato",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -373,7 +395,8 @@
             "owner": "fsniper",
             "repo": "ReBook",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -388,7 +411,8 @@
             "owner": "tenJirka",
             "repo": "reGenda",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -403,7 +427,8 @@
             "owner": "Davide95",
             "repo": "remarkaBot",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -418,7 +443,8 @@
             "owner": "bjornte",
             "repo": "Writerdeck-for-reMarkable",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "children": [
@@ -435,7 +461,8 @@
                 "owner": "hafaio",
                 "repo": "repub",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -450,7 +477,8 @@
                 "owner": "jrockwar",
                 "repo": "repubfox",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             }
           ],
           "description": null,
@@ -472,7 +500,8 @@
                 "owner": "LinusCDE",
                 "repo": "chessmarkable",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -487,7 +516,8 @@
                 "owner": "sandsmark",
                 "repo": "recrossable",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -502,7 +532,8 @@
                 "owner": "LinusCDE",
                 "repo": "doomarkable",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             },
             {
               "node_type": "item",
@@ -517,7 +548,8 @@
                 "owner": "LinusCDE",
                 "repo": "retris",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             }
           ],
           "description": null,
@@ -539,7 +571,8 @@
                 "owner": "dixonary",
                 "repo": "draft-reMarkable",
                 "stars": 153
-              }
+              },
+              "first_seen": "2026-08-28T21:11:43.125Z"
             }
           ],
           "description": null,
@@ -564,8 +597,9 @@
             "last_commit": "2026-08-17T09:38:56Z",
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 210
-          }
+            "stars": 212
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -580,7 +614,8 @@
             "owner": "Evidlo",
             "repo": "remarkable_syncthing",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -595,7 +630,8 @@
             "owner": "michaelmior",
             "repo": "zotero-remarkable",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -610,7 +646,8 @@
             "owner": "after-eight",
             "repo": "regitable",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -625,7 +662,8 @@
             "owner": "rschroll",
             "repo": "rmfuse",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -640,7 +678,8 @@
             "owner": "simonschllng",
             "repo": "rm-sync",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -655,7 +694,8 @@
             "owner": "fishy",
             "repo": "url2epub",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -670,7 +710,8 @@
             "owner": "RedTTGMoss",
             "repo": "moss-desktop",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -685,7 +726,8 @@
             "owner": "lapwat",
             "repo": "reCatchable",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -700,7 +742,8 @@
             "owner": "sabidib",
             "repo": "remarking",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -715,7 +758,8 @@
             "owner": "teticio",
             "repo": "pdf2remarkable",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -730,7 +774,8 @@
             "owner": "rmitchellscott",
             "repo": "Aviary",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -745,7 +790,8 @@
             "owner": "hmenzagh",
             "repo": "reMarkable-Sink",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -760,7 +806,8 @@
             "owner": "dnlbauer",
             "repo": "sync_zotero_remarkable",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -775,7 +822,8 @@
             "owner": "ofosos",
             "repo": "scratch",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -790,7 +838,8 @@
             "owner": "opal06",
             "repo": "zotero2remarkable_bridge",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -805,7 +854,8 @@
             "owner": "jwoglom",
             "repo": "remarkable-substack",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -820,7 +870,8 @@
             "owner": "artes-flux",
             "repo": "remarkable-zapier",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -835,7 +886,8 @@
             "owner": "anilkyelam",
             "repo": "mendeley-rMsync",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -850,7 +902,8 @@
             "owner": "skius",
             "repo": "rm-pdf-tools",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -865,7 +918,8 @@
             "owner": "eksubin",
             "repo": "Remarkable-RSS-Feed",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -880,7 +934,8 @@
             "owner": "eksubin",
             "repo": "AgentNews-RemarkableRSSReader",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -895,7 +950,8 @@
             "owner": "paviro",
             "repo": "Syncthing-for-reMarkable",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -910,7 +966,8 @@
             "owner": "bgribble",
             "repo": "remarkable_simplenote",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -924,8 +981,9 @@
             "last_commit": "2026-08-12T21:08:19Z",
             "owner": "gabrielanhaia",
             "repo": "remarkable-brain",
-            "stars": 8
-          }
+            "stars": 9
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -940,7 +998,8 @@
             "owner": "zegevlier",
             "repo": "send-to-remarkable",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -955,7 +1014,8 @@
             "owner": "usuallycwdillon",
             "repo": "remarkable-calendar",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -970,7 +1030,8 @@
             "owner": "ktibr0",
             "repo": "Remarkable_morning_news_2",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         }
       ],
       "title": "Cloud Tools"
@@ -991,7 +1052,8 @@
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
             "stars": 1525
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1006,7 +1068,8 @@
             "owner": "klimeryk",
             "repo": "recalendar",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1021,7 +1084,8 @@
             "owner": "msencer",
             "repo": "remarkable_templates",
             "stars": 138
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1036,7 +1100,8 @@
             "owner": "BartKeulen",
             "repo": "remarkable-gtd-templates",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1051,7 +1116,8 @@
             "owner": "vonneudeck",
             "repo": "remarkable-bujo",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1066,7 +1132,8 @@
             "owner": "DanielRunningen",
             "repo": "rM2Mods",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1081,7 +1148,8 @@
             "owner": "sowcow",
             "repo": "blank_slate_pdf",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1096,7 +1164,8 @@
             "owner": "steka",
             "repo": "reMarkable_templates",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1111,7 +1180,8 @@
             "owner": "equivocates",
             "repo": "remarkabletemplates",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1126,7 +1196,8 @@
             "owner": "PepikVaio",
             "repo": "reMarkable_re-Planner",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1141,7 +1212,8 @@
             "owner": "Martes-Delta-Co",
             "repo": "Remarkable-Mobile-Prototyping-Templates",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         }
       ],
       "title": "Custom Templates"
@@ -1162,7 +1234,8 @@
             "owner": "rmitchellscott",
             "repo": "rm-version-switcher",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1177,7 +1250,8 @@
             "owner": "aflusche",
             "repo": "paginator",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1192,7 +1266,8 @@
             "owner": "plan5",
             "repo": "remarvin",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1207,7 +1282,8 @@
             "owner": "rmitchellscott",
             "repo": "rmtree",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1222,7 +1298,8 @@
             "owner": "Slenderman00",
             "repo": "reExecute",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1237,7 +1314,8 @@
             "owner": "zer0trip",
             "repo": "rmtemplate",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         }
       ],
       "title": "Device Tools"
@@ -1257,8 +1335,9 @@
             "last_commit": "2026-08-27T03:20:32Z",
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 348
-          }
+            "stars": 349
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1273,7 +1352,8 @@
             "owner": "bordaigorl",
             "repo": "remy",
             "stars": 310
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1288,7 +1368,8 @@
             "owner": "peerdavid",
             "repo": "remapy",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1303,7 +1384,8 @@
             "owner": "richeymichael",
             "repo": "remarkable-assistant",
             "stars": 180
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1318,7 +1400,8 @@
             "owner": "furesoft",
             "repo": "Slithin",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1333,7 +1416,8 @@
             "owner": "moovida",
             "repo": "remarkable-hyutilities",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1348,7 +1432,8 @@
             "owner": "bruot",
             "repo": "pyrmexplorer",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1363,7 +1448,8 @@
             "owner": "lobre",
             "repo": "rmuploader",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1378,7 +1464,8 @@
             "owner": "ds160",
             "repo": "remarkable-remember",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1393,7 +1480,8 @@
             "owner": "jlarriba",
             "repo": "astounding",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1408,7 +1496,8 @@
             "owner": "chopikus",
             "repo": "rm-exporter",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1423,7 +1512,8 @@
             "owner": "NohamR",
             "repo": "RMHook",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1438,7 +1528,8 @@
             "owner": "NohamR",
             "repo": "RMHook-Win",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1453,7 +1544,8 @@
             "owner": "NohamR",
             "repo": "RMHook-iOS",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         }
       ],
       "title": "GUI Clients"
@@ -1474,7 +1566,8 @@
             "owner": "mb1986",
             "repo": "rm-hacks",
             "stars": 662
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1489,7 +1582,8 @@
             "owner": "isaacwisdom",
             "repo": "RemarkableLamyEraser",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1504,7 +1598,8 @@
             "owner": "asivery",
             "repo": "rm-hacks-qmd",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1519,7 +1614,8 @@
             "owner": "funkey",
             "repo": "recept",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1630,8 @@
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
             "stars": 130
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1549,7 +1646,8 @@
             "owner": "asivery",
             "repo": "rm-appload",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1564,7 +1662,8 @@
             "owner": "FouzR",
             "repo": "xovi-extensions",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1579,7 +1678,8 @@
             "owner": "machinelevel",
             "repo": "sp425-crazy-cow",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1594,7 +1694,8 @@
             "owner": "rM-self-serve",
             "repo": "webinterface-onboot",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1609,7 +1710,8 @@
             "owner": "rM-self-serve",
             "repo": "webinterface-wifi",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1624,7 +1726,8 @@
             "owner": "rmitchellscott",
             "repo": "xovi-tripletap",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1639,7 +1742,8 @@
             "owner": "ingatellent",
             "repo": "xovi-qmd-extensions",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1650,11 +1754,12 @@
             "archived": false,
             "id": 1080565105,
             "language": "Shell",
-            "last_commit": "2026-07-20T03:02:20Z",
+            "last_commit": "2026-08-28T19:24:20Z",
             "owner": "rmitchellscott",
             "repo": "xovi-qmd-extensions",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1669,7 +1774,8 @@
             "owner": "Barabazs",
             "repo": "rM-signature-patch",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1684,7 +1790,8 @@
             "owner": "unreMarkableLabs",
             "repo": "reLuminate",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1699,7 +1806,8 @@
             "owner": "rM-self-serve",
             "repo": "webinterface-upload-button",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1714,7 +1822,8 @@
             "owner": "StarNumber12046",
             "repo": "xovi-qmd-extensions",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1729,7 +1838,8 @@
             "owner": "yara-blue",
             "repo": "Book-safe",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1744,7 +1854,8 @@
             "owner": "martinetd",
             "repo": "remarkable-shortcuts",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1759,7 +1870,8 @@
             "owner": "rM-self-serve",
             "repo": "signature-rM",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1774,7 +1886,8 @@
             "owner": "NohamR",
             "repo": "xovi-qmd-extensions",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1789,7 +1902,8 @@
             "owner": "Samarkin",
             "repo": "rm-hacks-xovi-qmd",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1804,7 +1918,8 @@
             "owner": "t3rminalV",
             "repo": "webinterface-rmpp",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         }
       ],
       "title": "Interface Customization"
@@ -1825,7 +1940,8 @@
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
             "stars": 633
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1840,7 +1956,8 @@
             "owner": "GjjvdBurg",
             "repo": "paper2remarkable",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1855,7 +1972,8 @@
             "owner": "j6k4m8",
             "repo": "goosepaper",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1870,7 +1988,8 @@
             "owner": "Evidlo",
             "repo": "remarkable_news",
             "stars": 299
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1885,7 +2004,8 @@
             "owner": "Evidlo",
             "repo": "remarkable_printer",
             "stars": 299
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1900,7 +2020,8 @@
             "owner": "kevinconway",
             "repo": "remouseable",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1915,7 +2036,8 @@
             "owner": "reHackable",
             "repo": "scripts",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1930,7 +2052,8 @@
             "owner": "jessfraz",
             "repo": "morningpaper2remarkable",
             "stars": 231
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1945,7 +2068,8 @@
             "owner": "GliderGeek",
             "repo": "pocket2rm",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1960,7 +2084,8 @@
             "owner": "Evidlo",
             "repo": "remarkable_entware",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1975,7 +2100,8 @@
             "owner": "jamesf91",
             "repo": "reMarkableSync",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -1990,7 +2116,8 @@
             "owner": "reHackable",
             "repo": "maxio",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2005,7 +2132,8 @@
             "owner": "nov1n",
             "repo": "RemarkablePocket",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2020,7 +2148,8 @@
             "owner": "remailable",
             "repo": "remailable",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2035,7 +2164,8 @@
             "owner": "hersle",
             "repo": "rmirro",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2050,7 +2180,8 @@
             "owner": "lschwetlick",
             "repo": "rMsync",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2065,7 +2196,8 @@
             "owner": "cherti",
             "repo": "remarkable-cli-tooling",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2080,7 +2212,8 @@
             "owner": "Evidlo",
             "repo": "remarkable_pdflets",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2095,7 +2228,8 @@
             "owner": "naclander",
             "repo": "Calibre-Remarkable-Device-Driver-Plugin",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2110,7 +2244,8 @@
             "owner": "nick8325",
             "repo": "remarkable-fs",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2125,7 +2260,8 @@
             "owner": "jmpinit",
             "repo": "rm-dl-annotated",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2140,7 +2276,8 @@
             "owner": "cloudsftp",
             "repo": "reSnap",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2155,7 +2292,8 @@
             "owner": "ddvk",
             "repo": "remarkable-touchgestures",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2170,7 +2308,8 @@
             "owner": "JCN-9000",
             "repo": "pdf2rmnotebook",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2185,7 +2324,8 @@
             "owner": "LinusCDE",
             "repo": "rmWacomToMouse",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2200,7 +2340,8 @@
             "owner": "Scrybbling-together",
             "repo": "remarks",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2215,7 +2356,8 @@
             "owner": "j6k4m8",
             "repo": "epistolary",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2230,7 +2372,8 @@
             "owner": "rmitchellscott",
             "repo": "Ephemeris",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2245,7 +2388,8 @@
             "owner": "siraben",
             "repo": "nix-remarkable",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2260,7 +2404,8 @@
             "owner": "fabianmu",
             "repo": "instapaper-as-pdf-to-remarkable",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2275,7 +2420,8 @@
             "owner": "Neurone",
             "repo": "reMarkable",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2290,7 +2436,8 @@
             "owner": "LinusCDE",
             "repo": "rmWebUiTools",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2305,7 +2452,8 @@
             "owner": "Evidlo",
             "repo": "remarkable_keyboard",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2320,7 +2468,8 @@
             "owner": "LinusCDE",
             "repo": "rmTabletDriver",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2335,7 +2484,8 @@
             "owner": "nmoran",
             "repo": "landscape-pdf",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2350,7 +2500,8 @@
             "owner": "funcky-be",
             "repo": "Funcky.Remarkable.Exporter",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2365,7 +2516,8 @@
             "owner": "hmenzagh",
             "repo": "rmpp-entware",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2380,7 +2532,8 @@
             "owner": "morngrar",
             "repo": "remarkable-tweak",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2395,7 +2548,8 @@
             "owner": "shapeshed",
             "repo": "remarkable-crosswords",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2410,7 +2564,8 @@
             "owner": "FreeCap23",
             "repo": "reMarkable-tablet-driver",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2425,7 +2580,8 @@
             "owner": "LisaGlaser",
             "repo": "send_by_rmapi",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2440,7 +2596,8 @@
             "owner": "stelzch",
             "repo": "rm2anki",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2455,7 +2612,8 @@
             "owner": "suntorytimed",
             "repo": "epub_to_remarkable",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2470,7 +2628,8 @@
             "owner": "glatzor",
             "repo": "mail2rm",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2485,7 +2644,8 @@
             "owner": "Samdney",
             "repo": "rmathlab",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2500,7 +2660,8 @@
             "owner": "rM-self-serve",
             "repo": "neofetch-rM",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2515,7 +2676,8 @@
             "owner": "tenJirka",
             "repo": "rm-pySAS",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2530,7 +2692,8 @@
             "owner": "Penguin-Guru",
             "repo": "remarkable-ssh",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2545,7 +2708,8 @@
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2560,7 +2724,8 @@
             "owner": "Penguin-Guru",
             "repo": "remarkable-api",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2575,7 +2740,8 @@
             "owner": "gitman-101111",
             "repo": "chiappa",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2590,7 +2756,8 @@
             "owner": "zer0trip",
             "repo": "reCalibre",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         }
       ],
       "title": "Other"
@@ -2611,7 +2778,8 @@
             "owner": "rien",
             "repo": "reStream",
             "stars": 865
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2626,7 +2794,8 @@
             "owner": "bordaigorl",
             "repo": "rmview",
             "stars": 829
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2641,7 +2810,8 @@
             "owner": "owulveryck",
             "repo": "goMarkableStream",
             "stars": 748
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2656,7 +2826,8 @@
             "owner": "matteodelabre",
             "repo": "vnsee",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2671,7 +2842,8 @@
             "owner": "Merovius",
             "repo": "srvfb",
             "stars": 246
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2686,7 +2858,8 @@
             "owner": "pl-semiotics",
             "repo": "rM-vnc-server",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2701,7 +2874,8 @@
             "owner": "AnyTimeTraveler",
             "repo": "pipes-and-rust",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2716,7 +2890,8 @@
             "owner": "Pyrrhu5",
             "repo": "pipes-and-paper-enhanced",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         },
         {
           "node_type": "item",
@@ -2731,14 +2906,15 @@
             "owner": "asivery",
             "repo": "appload-rmstream",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
         }
       ],
       "title": "Screen Sharing/Streaming"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:34:48.520Z",
+    "last_updated": "2026-08-28T21:11:43.125Z",
     "original_repository_info": {
       "archived": false,
       "id": 118118940,
@@ -2746,7 +2922,7 @@
       "last_commit": "2026-07-28T00:25:12Z",
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7659
+      "stars": 7660
     },
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
     "enhanced_repository": "enhansome/enhansome-reMarkable",
