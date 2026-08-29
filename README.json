@@ -12,12 +12,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "host your own cloud for the remarkable",
+                "homepage": null,
                 "id": 251136180,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T12:56:24Z",
+                "open_issues": 35,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1324
+                "stars": 1324,
+                "topics": [
+                  "remarkable-tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -28,12 +35,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Docs and implementation of the reMarkable file sync API",
+                "homepage": "https://www.splitbrain.org/blog/2018-02/02_file_sync_for_remarkable_tablet",
                 "id": 119441410,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2023-04-24T03:45:32Z",
+                "open_issues": 13,
                 "owner": "splitbrain",
                 "repo": "ReMarkableAPI",
-                "stars": 423
+                "stars": 423,
+                "topics": [
+                  "api",
+                  "remarkable-tablet",
+                  "sync"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -44,12 +60,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go app that allows you to access your reMarkable tablet files through the Cloud API",
+                "homepage": null,
                 "id": 178061398,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-23T17:18:00Z",
+                "open_issues": 17,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 310
+                "stars": 310,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -60,12 +81,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A unofficial python module for interacting with the Remarkable Cloud",
+                "homepage": "http://rmapy.readthedocs.io/",
                 "id": 209219956,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-10-29T20:37:31Z",
+                "open_issues": 11,
                 "owner": "subutux",
                 "repo": "rmapy",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "api",
+                  "cloud",
+                  "remarkable-tablet",
+                  "requests"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -76,12 +107,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Apps Script library for synchronising Google Drive folder with Remarkable reader.",
+                "homepage": null,
                 "id": 262605849,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-11-28T19:44:44Z",
+                "open_issues": 0,
                 "owner": "bsdz",
                 "repo": "google-drive-remarkable-sync",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -92,12 +128,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A typescript reMarkable Cloud API",
+                "homepage": null,
                 "id": 234638620,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-09-05T19:06:54Z",
+                "open_issues": 10,
                 "owner": "benoitsepe",
                 "repo": "reMarkable-typescript",
-                "stars": 105
+                "stars": 105,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -108,12 +149,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Julia API to the Remarkable cloud",
+                "homepage": null,
                 "id": 309833958,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2024-02-02T15:08:52Z",
+                "open_issues": 3,
                 "owner": "theogf",
                 "repo": "Remarkable.jl",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "remarkable",
+                  "remarkable-tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -124,12 +173,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "reMarkable Cloud Library for Python",
+                "homepage": null,
                 "id": 336684459,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-30T16:39:05Z",
+                "open_issues": 7,
                 "owner": "rschroll",
                 "repo": "rmcl",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "remarkable-tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -140,12 +196,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Java API for the reMarkable Cloud",
+                "homepage": null,
                 "id": 184015417,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-09-27T13:44:03Z",
+                "open_issues": 8,
                 "owner": "jlarriba",
                 "repo": "jrmapi",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "java",
+                  "remarkable-tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -156,12 +220,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to sync webdav files (only PDF) to the reMarkable cloud",
+                "homepage": null,
                 "id": 315721738,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-23T14:00:15Z",
+                "open_issues": 5,
                 "owner": "hansegucker",
                 "repo": "remarkdav",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             }
@@ -179,12 +248,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Read v6 .rm files from the reMarkable tablet",
+                "homepage": null,
                 "id": 587047322,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-05T15:16:15Z",
+                "open_issues": 4,
                 "owner": "ricklupton",
                 "repo": "rmscene",
-                "stars": 152
+                "stars": 152,
+                "topics": [
+                  "remarkable-tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -195,12 +271,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Render reMarkable documents to PDF",
+                "homepage": null,
                 "id": 332635937,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-11-06T15:10:14Z",
+                "open_issues": 14,
                 "owner": "rschroll",
                 "repo": "rmrl",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "remarkable-tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -211,12 +294,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python module for reading and writing Remarkable Lines files",
+                "homepage": null,
                 "id": 266784808,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-12T07:27:02Z",
+                "open_issues": 0,
                 "owner": "bsdz",
                 "repo": "remarkable-layers",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "pdf",
+                  "python",
+                  "remarkable-tablet",
+                  "svg"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -227,12 +320,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ File API for the reMarkable tablet",
+                "homepage": null,
                 "id": 115517059,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2019-11-04T18:30:14Z",
+                "open_issues": 9,
                 "owner": "ax3l",
                 "repo": "lines-are-beautiful",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "eink",
+                  "file-format",
+                  "remarkable-tablet",
+                  "tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -243,12 +346,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust File API for the reMarkable tablet",
+                "homepage": null,
                 "id": 150038552,
                 "language": "Rust",
+                "license": "ISC",
                 "last_commit": "2021-12-12T17:42:55Z",
+                "open_issues": 4,
                 "owner": "ax3l",
                 "repo": "lines-are-rusty",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "eink",
+                  "file-format",
+                  "remarkable-tablet",
+                  "tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -259,12 +372,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kaitai Struct specifications for reMarkable binary .rm format",
+                "homepage": null,
                 "id": 389043874,
                 "language": "Kaitai Struct",
+                "license": "MIT",
                 "last_commit": "2021-09-19T21:19:40Z",
+                "open_issues": 2,
                 "owner": "matomatical",
                 "repo": "reMarkable-kaitai",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "kaitai-struct",
+                  "remarkable-tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             }
@@ -282,12 +403,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The only public framework for developing applications with native refresh support for Remarkable Tablet",
+                "homepage": null,
                 "id": 121907554,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-06-16T23:18:13Z",
+                "open_issues": 11,
                 "owner": "canselcik",
                 "repo": "libremarkable",
-                "stars": 700
+                "stars": 700,
+                "topics": [
+                  "digitizer",
+                  "framebuffer",
+                  "freescale",
+                  "imx6",
+                  "mxcfb",
+                  "remarkable-tablet",
+                  "rust",
+                  "wacom-digitizer"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             }
@@ -309,12 +444,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+            "homepage": "http://koreader.rocks/",
             "id": 8986217,
             "language": "Lua",
-            "last_commit": "2026-08-28T20:58:42Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:23:31Z",
+            "open_issues": 1326,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29330
+            "stars": 29334,
+            "topics": [
+              "cbz",
+              "djvu",
+              "djvu-reflow",
+              "ebook",
+              "ebook-reader",
+              "eink",
+              "epub",
+              "ereader",
+              "fb2",
+              "kindle",
+              "kobo",
+              "luajit",
+              "opds",
+              "pdf",
+              "pdf-reflow",
+              "pocketbook",
+              "reader",
+              "reflow",
+              "remarkable-tablet",
+              "ubuntu-touch"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -325,12 +486,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for the reMarkable paper tablet",
+            "homepage": null,
             "id": 256574460,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-17T05:43:07Z",
+            "open_issues": 30,
             "owner": "fenollp",
             "repo": "reMarkable-tools",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "hacktoberfest",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -341,12 +510,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 195752412,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2024-01-13T04:22:42Z",
+            "open_issues": 17,
             "owner": "dps",
             "repo": "remarkable-keywriter",
-            "stars": 227
+            "stars": 227,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -357,12 +531,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 187961606,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2022-03-16T04:07:05Z",
+            "open_issues": 13,
             "owner": "dps",
             "repo": "remarkable-wikipedia",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -373,12 +552,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Document reader",
+            "homepage": null,
             "id": 133433728,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2019-01-12T04:19:55Z",
+            "open_issues": 8,
             "owner": "darvin",
             "repo": "plato",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "djvu",
+              "e-reader",
+              "epub",
+              "pdf",
+              "reader",
+              "remarkable"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -389,12 +580,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The missing book store for remarkable. ",
+            "homepage": null,
             "id": 334787226,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-08-29T15:47:48Z",
+            "open_issues": 1,
             "owner": "fsniper",
             "repo": "ReBook",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -405,12 +603,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple agenda app for reMarkable tablets",
+            "homepage": null,
             "id": 681611972,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-20T07:55:49Z",
+            "open_issues": 2,
             "owner": "tenJirka",
             "repo": "reGenda",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "caldav-client",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -421,12 +627,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fetch your documents from Telegram to your Remarkable 2!",
+            "homepage": "https://gitlab.com/mollofrollo/remarkabot",
             "id": 412829678,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2021-11-03T20:44:31Z",
+            "open_issues": 0,
             "owner": "Davide95",
             "repo": "remarkaBot",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "golang",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -437,12 +654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A text editor for the reMarkable 1, with a bridge for a physical keyboard.",
+            "homepage": null,
             "id": 1282542291,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-22T20:18:53Z",
+            "open_issues": 0,
             "owner": "bjornte",
             "repo": "Writerdeck-for-reMarkable",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -455,12 +677,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "reMarkable ePub generator",
+                "homepage": "https://chrome.google.com/webstore/detail/repub/blkjpagbjaekkpojgcgdapmikoaolpbl",
                 "id": 453542805,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-15T17:39:19Z",
+                "open_issues": 2,
                 "owner": "hafaio",
                 "repo": "repub",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "chrome-extension",
+                  "remarkable-tablet",
+                  "typescript",
+                  "wasm"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -471,12 +703,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firefox version of rePub - reMarkable ePub generator",
+                "homepage": null,
                 "id": 893074915,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-11-24T19:12:26Z",
+                "open_issues": 5,
                 "owner": "jrockwar",
                 "repo": "repubfox",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             }
@@ -494,12 +731,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chess for the reMarkable using the rust pleco lib",
+                "homepage": null,
                 "id": 301052646,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-09-16T16:11:16Z",
+                "open_issues": 3,
                 "owner": "LinusCDE",
                 "repo": "chessmarkable",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "pleco",
+                  "remarkable-tablet",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -510,12 +756,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "crossword game with simplistic handwriting recognition and automatic generation of crosswords",
+                "homepage": null,
                 "id": 164699132,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2021-01-15T12:58:23Z",
+                "open_issues": 6,
                 "owner": "sandsmark",
                 "repo": "recrossable",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "crossword",
+                  "crossword-game",
+                  "crossword-generator",
+                  "crossword-puzzle",
+                  "handwriting-recognition",
+                  "handwritten-text-recognition",
+                  "remarkable",
+                  "remarkable-tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -526,12 +786,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DOOM on the reMarkable",
+                "homepage": null,
                 "id": 419808437,
                 "language": "Rust",
+                "license": "GPL-2.0",
                 "last_commit": "2025-09-16T16:11:53Z",
+                "open_issues": 2,
                 "owner": "LinusCDE",
                 "repo": "doomarkable",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "dithering",
+                  "doom",
+                  "remarkable"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             },
@@ -542,12 +811,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of rust tetris_core on the reMarkable using libremarkable",
+                "homepage": null,
                 "id": 287577865,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2025-09-16T16:11:02Z",
+                "open_issues": 0,
                 "owner": "LinusCDE",
                 "repo": "retris",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "game",
+                  "remarkable-tablet",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             }
@@ -565,12 +843,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A launcher for the reMarkable tablet, which wraps around the standard interface.",
+                "homepage": null,
                 "id": 113916958,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2022-02-09T10:11:02Z",
+                "open_issues": 17,
                 "owner": "dixonary",
                 "repo": "draft-reMarkable",
-                "stars": 153
+                "stars": 153,
+                "topics": [
+                  "remarkable-tablet"
+                ]
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
             }
@@ -592,12 +877,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MCP server for accessing reMarkable tablet data - sync files, extract text from highlights, and browse your reMarkable cloud",
+            "homepage": null,
             "id": 1105221013,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T09:38:56Z",
+            "open_issues": 8,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 212
+            "stars": 212,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -608,12 +900,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Self-hosted backup solution for reMarkable",
+            "homepage": null,
             "id": 167911501,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2023-07-18T03:37:18Z",
+            "open_issues": 2,
             "owner": "Evidlo",
             "repo": "remarkable_syncthing",
-            "stars": 210
+            "stars": 210,
+            "topics": [
+              "remarkable-tablet",
+              "syncthing"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -624,12 +924,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync papers from Zotero to a reMarkable tablet",
+            "homepage": "https://michael.mior.ca/blog/zotero-remarkable-sync/",
             "id": 125681517,
             "language": "PHP",
+            "license": null,
             "last_commit": "2020-06-01T16:05:13Z",
+            "open_issues": 5,
             "owner": "michaelmior",
             "repo": "zotero-remarkable",
-            "stars": 191
+            "stars": 191,
+            "topics": [
+              "remarkable-tablet",
+              "zotero",
+              "zotero-api"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -640,12 +949,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reGitable - backup your reMarkable using git.",
+            "homepage": null,
             "id": 322599690,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-12-23T01:16:57Z",
+            "open_issues": 5,
             "owner": "after-eight",
             "repo": "regitable",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "entware",
+              "git",
+              "git-lfs",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -656,12 +975,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FUSE access to the reMarkable Cloud",
+            "homepage": null,
             "id": 336712904,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-08T11:49:18Z",
+            "open_issues": 22,
             "owner": "rschroll",
             "repo": "rmfuse",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -672,12 +998,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync script for reMarkable paper tablet.",
+            "homepage": null,
             "id": 118123172,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-02-26T07:06:41Z",
+            "open_issues": 6,
             "owner": "simonschllng",
             "repo": "rm-sync",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -688,12 +1021,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create ePub files from URLs",
+            "homepage": null,
             "id": 323155047,
             "language": "Go",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-22T03:57:15Z",
+            "open_issues": 2,
             "owner": "fishy",
             "repo": "url2epub",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "appengine",
+              "appengine-go",
+              "go",
+              "golang",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -704,12 +1048,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reMarkable open source desktop app build with python, pygameextra and extism",
+            "homepage": null,
             "id": 872785248,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-22T07:32:54Z",
+            "open_issues": 6,
             "owner": "RedTTGMoss",
             "repo": "moss-desktop",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -720,12 +1069,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Turn a site into a book. Download a whole website and upload it to your reMarkable.",
+            "homepage": "https://papeer.tech",
             "id": 332835637,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-09-14T20:27:50Z",
+            "open_issues": 0,
             "owner": "lapwat",
             "repo": "reCatchable",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "ebook",
+              "epub",
+              "remarkable",
+              "remarkable-tablet",
+              "remarkable-tablets",
+              "scrape",
+              "scraper"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -736,12 +1098,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remarking is an unofficial command line tool for extracting highlights from documents on your reMarkable tablet.",
+            "homepage": null,
             "id": 388488492,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-05-29T02:42:18Z",
+            "open_issues": 14,
             "owner": "sabidib",
             "repo": "remarking",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "highlighting",
+              "python",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -752,12 +1123,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Upload PDFs to the reMarkable Cloud, which is particularly useful on Linux as the official desktop application is not available.",
+            "homepage": null,
             "id": 782857047,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-04-02T15:06:54Z",
+            "open_issues": 1,
             "owner": "teticio",
             "repo": "pdf2remarkable",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "pdf",
+              "remarkable",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -768,12 +1148,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A document uploader that automatically downloads and sends PDFs to your reMarkable cloud through a web interface or API. Supports PDF conversion, compression, and organized file management.",
+            "homepage": null,
             "id": 987719515,
             "language": "Go",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T21:15:30Z",
+            "open_issues": 0,
             "owner": "rmitchellscott",
             "repo": "Aviary",
-            "stars": 57
+            "stars": 57,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -784,12 +1171,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ultra-simple node app that uploads files from a folder to your ReMarkable Tablet thanks to RmApi & watchman.",
+            "homepage": null,
             "id": 313399097,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2020-11-21T12:11:32Z",
+            "open_issues": 0,
             "owner": "hmenzagh",
             "repo": "reMarkable-Sink",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "pdf",
+              "remarkable",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -800,12 +1198,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "sync zotero collections to a remarkable tablet",
+            "homepage": null,
             "id": 263924924,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-12-03T13:38:56Z",
+            "open_issues": 4,
             "owner": "dnlbauer",
             "repo": "sync_zotero_remarkable",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -816,12 +1219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "public scratchpad",
+            "homepage": "http://ofosos.org",
             "id": 2357745,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-06-18T10:41:21Z",
+            "open_issues": 5,
             "owner": "ofosos",
             "repo": "scratch",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -832,12 +1240,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 475771895,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-05T13:25:06Z",
+            "open_issues": 7,
             "owner": "opal06",
             "repo": "zotero2remarkable_bridge",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "remarkable-tablet",
+              "sync",
+              "zotero"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -848,12 +1265,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 626229147,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-28T02:59:58Z",
+            "open_issues": 2,
             "owner": "jwoglom",
             "repo": "remarkable-substack",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -864,12 +1288,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zapier Integration for the reMarkable Tablet",
+            "homepage": null,
             "id": 352766259,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-04-02T03:28:16Z",
+            "open_issues": 3,
             "owner": "artes-flux",
             "repo": "remarkable-zapier",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "remarkable-tablet",
+              "zapier"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -880,12 +1312,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Script to sync papers from Mendeley to reMarkable tablet",
+            "homepage": null,
             "id": 327553689,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-09-22T00:13:33Z",
+            "open_issues": 4,
             "owner": "anilkyelam",
             "repo": "mendeley-rMsync",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -896,12 +1333,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PDF tools for reMarkable tablets",
+            "homepage": null,
             "id": 407890642,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-12-01T16:32:10Z",
+            "open_issues": 5,
             "owner": "skius",
             "repo": "rm-pdf-tools",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "hacktoberfest",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -912,12 +1357,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically sending RSS feed to remarkable via google drive",
+            "homepage": null,
             "id": 867229410,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-12T01:31:00Z",
+            "open_issues": 0,
             "owner": "eksubin",
             "repo": "Remarkable-RSS-Feed",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -928,12 +1378,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an Python script that efficiently fetches news from any RSS website, processes the information to read, analyze, and summarize the content for human readers",
+            "homepage": null,
             "id": 1036371989,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-12T01:34:12Z",
+            "open_issues": 0,
             "owner": "eksubin",
             "repo": "AgentNews-RemarkableRSSReader",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -944,12 +1399,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Appload app to easily install and monitor Syncthing.",
+            "homepage": null,
             "id": 1099427920,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-07T21:04:10Z",
+            "open_issues": 0,
             "owner": "paviro",
             "repo": "Syncthing-for-reMarkable",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "remarkable",
+              "remarkable-paper-pro",
+              "remarkable-tablet",
+              "rm-appload",
+              "xovi"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -960,12 +1426,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync tool to connect reMarkable tablet to Simplenote",
+            "homepage": null,
             "id": 343221276,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-03-06T22:23:29Z",
+            "open_issues": 1,
             "owner": "bgribble",
             "repo": "remarkable_simplenote",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "remarkable-tablet",
+              "simplenote"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -976,12 +1450,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Local-first second brain for your handwritten reMarkable notebooks, searched through Claude Desktop.",
+            "homepage": "https://xgabriel.com",
             "id": 1295664380,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T21:08:19Z",
+            "open_issues": 14,
             "owner": "gabrielanhaia",
             "repo": "remarkable-brain",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "claude",
+              "cli",
+              "handwriting",
+              "local-first",
+              "mcp",
+              "model-context-protocol",
+              "notes",
+              "remarkable",
+              "remarkable-tablet",
+              "second-brain",
+              "sqlite"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -992,12 +1483,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Send email to upload document to remarkable",
+            "homepage": null,
             "id": 1031525931,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-08T02:44:24Z",
+            "open_issues": 5,
             "owner": "zegevlier",
             "repo": "send-to-remarkable",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1008,12 +1506,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python app to automate populating a daily planning journal with events from Google Calendars and Todoist tasks",
+            "homepage": null,
             "id": 1136515301,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-02T16:41:42Z",
+            "open_issues": 0,
             "owner": "usuallycwdillon",
             "repo": "remarkable-calendar",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "google-calendar",
+              "remarkable-tablet",
+              "todoist-api"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1024,12 +1531,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reliable self-hosted RSS-to-PDF delivery for reMarkable tablets.",
+            "homepage": null,
             "id": 1300883894,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-14T20:50:57Z",
+            "open_issues": 0,
             "owner": "ktibr0",
             "repo": "Remarkable_morning_news_2",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "remarkable-tablet",
+              "remarkable-tablets"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         }
@@ -1046,12 +1561,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Digital planner for Supernote and ReMarkable // Support Ukraine 🇺🇦 https://savelife.in.ua/en/",
+            "homepage": "https://github.com/kudrykv/latex-yearly-planner/discussions",
             "id": 391835119,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-03T09:35:56Z",
+            "open_issues": 22,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1525
+            "stars": 1525,
+            "topics": [
+              "digital-planner",
+              "digitalplanner",
+              "pdf-planner",
+              "planner",
+              "remarkable-planner",
+              "supernote-planner"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1062,12 +1589,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ReCalendar - highly customizable calendar for ReMarkable tablets",
+            "homepage": null,
             "id": 382416926,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-21T16:41:40Z",
+            "open_issues": 0,
             "owner": "klimeryk",
             "repo": "recalendar",
-            "stars": 214
+            "stars": 214,
+            "topics": [
+              "php",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1078,12 +1613,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The productivity templates that I use on my reMarkable 2",
+            "homepage": null,
             "id": 439952632,
             "language": "Makefile",
+            "license": "MIT",
             "last_commit": "2024-01-18T08:05:58Z",
+            "open_issues": 0,
             "owner": "msencer",
             "repo": "remarkable_templates",
-            "stars": 138
+            "stars": 138,
+            "topics": [
+              "remarkable-2",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1094,12 +1637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remarkable Gettings Things Done Templates",
+            "homepage": null,
             "id": 325366559,
             "language": "TeX",
+            "license": "Apache-2.0",
             "last_commit": "2021-09-11T15:31:41Z",
+            "open_issues": 0,
             "owner": "BartKeulen",
             "repo": "remarkable-gtd-templates",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1110,12 +1658,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bullet Journal templates for the reMarkable (2) paper tablet",
+            "homepage": null,
             "id": 316025684,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-02-20T23:08:13Z",
+            "open_issues": 0,
             "owner": "vonneudeck",
             "repo": "remarkable-bujo",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1126,12 +1681,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of scripts and assets to personalize a reMarkable2 ",
+            "homepage": null,
             "id": 320932929,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-05-03T15:55:14Z",
+            "open_issues": 0,
             "owner": "DanielRunningen",
             "repo": "rM2Mods",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1142,12 +1702,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Abstract and simplistic PDFs for RM from Rust code. There are random experimental PDFs in older releases and Ruby code in older commits.",
+            "homepage": "https://sowcow.github.io/blank_slate_pdf/",
             "id": 723322191,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-14T07:45:53Z",
+            "open_issues": 11,
             "owner": "sowcow",
             "repo": "blank_slate_pdf",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "calendars",
+              "organizers",
+              "pdf",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1158,12 +1730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 289661367,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-03-07T20:02:46Z",
+            "open_issues": 0,
             "owner": "steka",
             "repo": "reMarkable_templates",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1174,12 +1751,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Custom Templates for the Remarkable Tablet",
+            "homepage": null,
             "id": 317972531,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2024-10-07T16:40:42Z",
+            "open_issues": 0,
             "owner": "equivocates",
             "repo": "remarkabletemplates",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1190,12 +1772,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a template for reMarkable 1 and 2 in PDF format that can be modified or used as is completely free of charge.  If you are interested in customization, feel free to contact me. Please pay attention to the license terms for further information and payment terms.",
+            "homepage": null,
             "id": 736712517,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-12-27T08:58:19Z",
+            "open_issues": 4,
             "owner": "PepikVaio",
             "repo": "reMarkable_re-Planner",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "calendar",
+              "kalendar",
+              "pdf",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1206,12 +1798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of templates for drawing and annotating mobile prototypes on Remarkable 2 and Remarkable Paper Pro devices",
+            "homepage": null,
             "id": 1259770374,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-10T18:19:51Z",
+            "open_issues": 0,
             "owner": "Martes-Delta-Co",
             "repo": "Remarkable-Mobile-Prototyping-Templates",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         }
@@ -1228,12 +1825,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive interface for switching between installed reMarkable OS versions.",
+            "homepage": null,
             "id": 1009978340,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-11T20:01:50Z",
+            "open_issues": 1,
             "owner": "rmitchellscott",
             "repo": "rm-version-switcher",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1244,12 +1848,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reMarkable tablets need a hardware foot pedal page turner for sheet music",
+            "homepage": null,
             "id": 758312001,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2024-03-11T00:26:40Z",
+            "open_issues": 1,
             "owner": "aflusche",
             "repo": "paginator",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1260,12 +1869,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multi-account and device encryption manager for remarkable",
+            "homepage": null,
             "id": 360228557,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-04-16T08:47:17Z",
+            "open_issues": 5,
             "owner": "plan5",
             "repo": "remarvin",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1276,12 +1892,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tree-style display tool for the reMarkable tablet's document filesystem, showing the hierarchical structure of documents and folders.",
+            "homepage": null,
             "id": 1063571595,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-02T04:24:41Z",
+            "open_issues": 1,
             "owner": "rmitchellscott",
             "repo": "rmtree",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1292,12 +1915,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "On boot shell execution for the reMarkable paper pro move",
+            "homepage": null,
             "id": 1231120960,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-05-08T14:26:14Z",
+            "open_issues": 0,
             "owner": "Slenderman00",
             "repo": "reExecute",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1308,12 +1938,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python CLI tool for installing templates on the Remarkable tablets.",
+            "homepage": null,
             "id": 1307275447,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-21T05:25:17Z",
+            "open_issues": 0,
             "owner": "zer0trip",
             "repo": "rmtemplate",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         }
@@ -1330,12 +1967,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets",
+            "homepage": "https://remanager.io",
             "id": 1134595696,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T03:20:32Z",
+            "open_issues": 8,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 349
+            "stars": 349,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1346,12 +1990,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remy, an online&offline manager for the reMarkable tablet",
+            "homepage": null,
             "id": 277657353,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-11T20:23:18Z",
+            "open_issues": 25,
             "owner": "bordaigorl",
             "repo": "remy",
-            "stars": 310
+            "stars": 310,
+            "topics": [
+              "gplv3",
+              "pyqt5",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1362,12 +2015,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open source explorer for your remarkable tablet to  show, upload or delete files via the remarkable cloud.",
+            "homepage": null,
             "id": 249178910,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-07-29T09:19:56Z",
+            "open_issues": 12,
             "owner": "peerdavid",
             "repo": "remapy",
-            "stars": 182
+            "stars": 182,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1378,12 +2038,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage templates, splash screens, and settings on your reMarkable tablet",
+            "homepage": null,
             "id": 119289343,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-29T00:36:41Z",
+            "open_issues": 16,
             "owner": "richeymichael",
             "repo": "remarkable-assistant",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "remarkable-tablet",
+              "remarkable-tablets"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1394,12 +2062,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A management application for the remarkable tablet",
+            "homepage": null,
             "id": 374126074,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-27T06:05:46Z",
+            "open_issues": 16,
             "owner": "furesoft",
             "repo": "Slithin",
-            "stars": 153
+            "stars": 153,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1410,12 +2085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A few utilities to interact with your reMarkable device",
+            "homepage": null,
             "id": 140404669,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-14T17:13:06Z",
+            "open_issues": 6,
             "owner": "moovida",
             "repo": "remarkable-hyutilities",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1426,12 +2106,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GUI explorer for Remarkable tablets",
+            "homepage": null,
             "id": 167823408,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-09-11T13:56:33Z",
+            "open_issues": 9,
             "owner": "bruot",
             "repo": "pyrmexplorer",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1442,12 +2129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web app to upload files to the Remarkable Tablet",
+            "homepage": null,
             "id": 194420136,
             "language": "Go",
+            "license": null,
             "last_commit": "2020-02-23T18:50:25Z",
+            "open_issues": 5,
             "owner": "lobre",
             "repo": "rmuploader",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1458,12 +2150,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A cross-platform management application for your reMarkable tablet.",
+            "homepage": null,
             "id": 732350970,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-07-14T13:16:33Z",
+            "open_issues": 0,
             "owner": "ds160",
             "repo": "remarkable-remember",
-            "stars": 56
+            "stars": 56,
+            "topics": [
+              "cross-platform",
+              "desktop",
+              "myscript",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1474,12 +2176,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multiplatform GUI for the reMarkable tablet",
+            "homepage": null,
             "id": 270964070,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-04T16:44:50Z",
+            "open_issues": 5,
             "owner": "jlarriba",
             "repo": "astounding",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1490,12 +2197,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export large notes & folders from reMarkable",
+            "homepage": null,
             "id": 909509523,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-01-07T12:31:48Z",
+            "open_issues": 2,
             "owner": "chopikus",
             "repo": "rm-exporter",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "golang",
+              "pdf",
+              "remarkable-tablet",
+              "svelte",
+              "wails"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1506,12 +2224,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dynamic library injection tool for the reMarkable Desktop macOS application",
+            "homepage": null,
             "id": 1082138733,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-27T14:26:05Z",
+            "open_issues": 2,
             "owner": "NohamR",
             "repo": "RMHook",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "remarkable",
+              "remarkable-tablet",
+              "rmfakecloud"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1522,12 +2249,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A hooking tool for the reMarkable Desktop Windows application",
+            "homepage": null,
             "id": 1231970498,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-25T22:02:56Z",
+            "open_issues": 0,
             "owner": "NohamR",
             "repo": "RMHook-Win",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "remarkable",
+              "remarkable-tablet",
+              "rmfakecloud"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1538,12 +2274,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dynamic library injection tool for the reMarkable iOS application",
+            "homepage": null,
             "id": 1164043414,
             "language": "Logos",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:38:16Z",
+            "open_issues": 1,
             "owner": "NohamR",
             "repo": "RMHook-iOS",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "remarkable",
+              "remarkable-tablet",
+              "rmfakecloud"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         }
@@ -1560,12 +2305,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small improvements and tweaks for rM devices, covering both rM1 and rM2.",
+            "homepage": null,
             "id": 697873973,
             "language": "Shell",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-11T21:06:52Z",
+            "open_issues": 166,
             "owner": "mb1986",
             "repo": "rm-hacks",
-            "stars": 662
+            "stars": 662,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1576,12 +2328,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turns the button on the Lamy Pen EMR into an eraser on the reMarkable.",
+            "homepage": null,
             "id": 378295286,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-02T12:02:01Z",
+            "open_issues": 3,
             "owner": "isaacwisdom",
             "repo": "RemarkableLamyEraser",
-            "stars": 305
+            "stars": 305,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1592,12 +2351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small improvements and tweaks for rM devices, covering rM1, rM2, rMPP and rMPPM.",
+            "homepage": null,
             "id": 1012122621,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-08T21:08:09Z",
+            "open_issues": 11,
             "owner": "asivery",
             "repo": "rm-hacks-qmd",
-            "stars": 230
+            "stars": 230,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1608,12 +2372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pen event interception for line smoothing on the reMarkable 2 tablet",
+            "homepage": null,
             "id": 310991434,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2023-05-04T20:25:49Z",
+            "open_issues": 12,
             "owner": "funkey",
             "repo": "recept",
-            "stars": 172
+            "stars": 172,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1624,12 +2393,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A monorepo of extensions for the rM tablets, which utilize the XOVI framework",
+            "homepage": null,
             "id": 882384961,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-23T18:36:19Z",
+            "open_issues": 1,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "remarkable-paper-pro",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1640,12 +2417,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A XOVI extension for the rM tablets, which makes it possible to write windowed and fullscreen apps",
+            "homepage": null,
             "id": 909517437,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T03:43:53Z",
+            "open_issues": 11,
             "owner": "asivery",
             "repo": "rm-appload",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "qml",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1656,12 +2441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Xovi extensions for QoL upgrades",
+            "homepage": null,
             "id": 918612096,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T10:12:57Z",
+            "open_issues": 2,
             "owner": "FouzR",
             "repo": "xovi-extensions",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1672,12 +2462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Add crude keyboard-lettering function to eink tablet",
+            "homepage": null,
             "id": 289928006,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2021-09-15T11:01:34Z",
+            "open_issues": 11,
             "owner": "machinelevel",
             "repo": "sp425-crazy-cow",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1688,12 +2483,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enable the web interface on boot. For the ReMarkable Tablet.",
+            "homepage": null,
             "id": 589349737,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-08-18T07:00:31Z",
+            "open_issues": 5,
             "owner": "rM-self-serve",
             "repo": "webinterface-onboot",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "boot",
+              "hack",
+              "interface",
+              "no-cord",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet",
+              "web",
+              "webinterface"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1704,12 +2514,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "View the web interface over wifi. For the ReMarkable Tablet.",
+            "homepage": null,
             "id": 589450216,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2025-02-04T08:14:38Z",
+            "open_issues": 4,
             "owner": "rM-self-serve",
             "repo": "webinterface-wifi",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "interface",
+              "mobile",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet",
+              "reverse-proxy",
+              "web",
+              "webinterface",
+              "wifi",
+              "wireless"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1720,12 +2546,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Start xovi on a reMarkable tablet with a triple-press of the power button",
+            "homepage": null,
             "id": 1012594100,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-12T01:33:00Z",
+            "open_issues": 1,
             "owner": "rmitchellscott",
             "repo": "xovi-tripletap",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1736,12 +2569,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "QoL qmd extension for xovi",
+            "homepage": null,
             "id": 944724982,
             "language": "QML",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-23T13:49:56Z",
+            "open_issues": 1,
             "owner": "ingatellent",
             "repo": "xovi-qmd-extensions",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "remarkable-2",
+              "remarkable-paper-pro",
+              "remarkable-paper-pro-move",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1752,12 +2595,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My modifications, fixes, and QoL improvements for reMarkable tablets using xovi",
+            "homepage": null,
             "id": 1080565105,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T19:24:20Z",
+            "open_issues": 3,
             "owner": "rmitchellscott",
             "repo": "xovi-qmd-extensions",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1768,12 +2618,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.",
+            "homepage": null,
             "id": 347370987,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-03-29T09:23:08Z",
+            "open_issues": 0,
             "owner": "Barabazs",
             "repo": "rM-signature-patch",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "perl",
+              "rehackable",
+              "remarkable",
+              "remarkable-tablet",
+              "rm1",
+              "rm2"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1784,12 +2646,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enable enhanced screen brightness levels on the reMarkable Paper Pro",
+            "homepage": null,
             "id": 920871377,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-02T02:07:28Z",
+            "open_issues": 1,
             "owner": "unreMarkableLabs",
             "repo": "reLuminate",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "brightness",
+              "brightness-control",
+              "brightness-level",
+              "e-ink",
+              "remarkable",
+              "remarkable-notebooks",
+              "remarkable-paper-pro",
+              "remarkable-plugin",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1800,12 +2677,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Upload button for the web interface, alternative to drag and drop. For the ReMarkable Tablet.",
+            "homepage": null,
             "id": 593828933,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-01T18:24:03Z",
+            "open_issues": 1,
             "owner": "rM-self-serve",
             "repo": "webinterface-upload-button",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "button",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet",
+              "upload",
+              "webinterface"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1816,12 +2705,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Some QMD extensions I made",
+            "homepage": null,
             "id": 934401549,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-12-30T20:18:38Z",
+            "open_issues": 2,
             "owner": "StarNumber12046",
             "repo": "xovi-qmd-extensions",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1832,12 +2728,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for the Remarkable Table to hide books or documents between a given time period.",
+            "homepage": null,
             "id": 460649011,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-23T09:00:15Z",
+            "open_issues": 12,
             "owner": "yara-blue",
             "repo": "Book-safe",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1848,12 +2751,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "add extra shortcuts to reMarkable",
+            "homepage": null,
             "id": 600650282,
             "language": "Python",
+            "license": "WTFPL",
             "last_commit": "2023-05-16T05:55:01Z",
+            "open_issues": 1,
             "owner": "martinetd",
             "repo": "remarkable-shortcuts",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1864,12 +2774,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Remove the signature from the bottom of emails sent from the device. For the ReMarkable Tablet. ",
+            "homepage": null,
             "id": 724934946,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2024-03-14T07:33:44Z",
+            "open_issues": 1,
             "owner": "rM-self-serve",
             "repo": "signature-rM",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "email",
+              "hack",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet",
+              "signature"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1880,12 +2802,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My modifications to QoL improvements for reMarkable tablets using xovi",
+            "homepage": null,
             "id": 1081085151,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-17T13:07:13Z",
+            "open_issues": 0,
             "owner": "NohamR",
             "repo": "xovi-qmd-extensions",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "qt-resource-rebuilder",
+              "xovi",
+              "xovi-qmd-extensions"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1896,12 +2827,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a collection of minor quality-of-life improvements for the reMarkable paper tablets",
+            "homepage": null,
             "id": 1124532406,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T04:05:06Z",
+            "open_issues": 0,
             "owner": "Samarkin",
             "repo": "rm-hacks-xovi-qmd",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "remarkable-paper-pro-move",
+              "remarkable-tablet",
+              "xovi-qmd-extensions"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1912,12 +2852,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1245479183,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-04T13:30:06Z",
+            "open_issues": 0,
             "owner": "t3rminalV",
             "repo": "webinterface-rmpp",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         }
@@ -1934,12 +2881,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "use your reMarkable as a graphics tablet",
+            "homepage": null,
             "id": 172318746,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-15T19:30:15Z",
+            "open_issues": 28,
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
-            "stars": 633
+            "stars": 633,
+            "topics": [
+              "graphics-tablet",
+              "remarkable-tablet",
+              "wacom"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1950,12 +2906,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fetch an academic paper or web article and send it to the reMarkable tablet with a single command",
+            "homepage": null,
             "id": 168977039,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-16T21:42:28Z",
+            "open_issues": 7,
             "owner": "GjjvdBurg",
             "repo": "paper2remarkable",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "arxiv",
+              "remarkable",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1966,12 +2931,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "generate and deliver a daily newspaper to you or your remarkable tablet",
+            "homepage": null,
             "id": 246181153,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T12:46:58Z",
+            "open_issues": 20,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "epub",
+              "frof",
+              "newspaper",
+              "ohp",
+              "pdf",
+              "pdf-generation",
+              "remarkable",
+              "remarkable-tablet",
+              "tablet",
+              "weather"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1982,12 +2963,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Daily news/comics on your reMarkable's suspend screen",
+            "homepage": null,
             "id": 256697317,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-08T17:50:50Z",
+            "open_issues": 4,
             "owner": "Evidlo",
             "repo": "remarkable_news",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1998,12 +2986,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Native printing to reMarkable.",
+            "homepage": null,
             "id": 246491432,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-30T03:51:28Z",
+            "open_issues": 6,
             "owner": "Evidlo",
             "repo": "remarkable_printer",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2014,12 +3009,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use a reMarkable tablet as a mouse.",
+            "homepage": null,
             "id": 216245996,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-09-20T04:38:41Z",
+            "open_issues": 9,
             "owner": "kevinconway",
             "repo": "remouseable",
-            "stars": 251
+            "stars": 251,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2030,12 +3030,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[ THIS PROJECT IS CURRENTLY ON HALT :( ] A set of bash scripts that may enhance your reMarkable experience",
+            "homepage": null,
             "id": 113548739,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2021-06-04T07:59:12Z",
+            "open_issues": 18,
             "owner": "reHackable",
             "repo": "scripts",
-            "stars": 246
+            "stars": 246,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2046,12 +3053,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bot to sync the morning paper to a remarkable tablet.",
+            "homepage": null,
             "id": 162478551,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-02-23T23:56:12Z",
+            "open_issues": 4,
             "owner": "jessfraz",
             "repo": "morningpaper2remarkable",
-            "stars": 231
+            "stars": 231,
+            "topics": [
+              "remarkable",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2062,12 +3077,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "get articles from read-later platform pocket to the remarkable paper tablet",
+            "homepage": null,
             "id": 256817234,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-02-01T19:25:00Z",
+            "open_issues": 12,
             "owner": "GliderGeek",
             "repo": "pocket2rm",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "ereader-tools",
+              "pocket",
+              "remarkable",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2078,12 +3103,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Entware installer modified for reMarkable Tablet",
+            "homepage": null,
             "id": 165754485,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-27T19:29:50Z",
+            "open_issues": 6,
             "owner": "Evidlo",
             "repo": "remarkable_entware",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "entware",
+              "remarkable",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2094,12 +3128,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OneNote AddIn for importing digitized notes from the reMarkable tablet.",
+            "homepage": null,
             "id": 338799048,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2024-11-09T10:42:23Z",
+            "open_issues": 23,
             "owner": "jamesf91",
             "repo": "reMarkableSync",
-            "stars": 178
+            "stars": 178,
+            "topics": [
+              "onenote-addin",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2110,12 +3152,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Companion daemon for the reMarkable™ paper tablet",
+            "homepage": null,
             "id": 111042475,
             "language": "Shell",
+            "license": "LGPL-3.0",
             "last_commit": "2022-05-05T07:07:18Z",
+            "open_issues": 21,
             "owner": "reHackable",
             "repo": "maxio",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2126,12 +3175,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synchronize Pocket articles with the Remarkable tablet.",
+            "homepage": null,
             "id": 422340144,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-05-19T05:03:46Z",
+            "open_issues": 0,
             "owner": "nov1n",
             "repo": "RemarkablePocket",
-            "stars": 163
+            "stars": 163,
+            "topics": [
+              "articles",
+              "downloader",
+              "epub",
+              "pocket",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2142,12 +3204,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Send documents to your ReMarkable device via email, Kindle-style",
+            "homepage": "https://remailable.getneutrality.org/",
             "id": 308958282,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-23T16:10:01Z",
+            "open_issues": 16,
             "owner": "remailable",
             "repo": "remailable",
-            "stars": 139
+            "stars": 139,
+            "topics": [
+              "email",
+              "ohp",
+              "pdf",
+              "remarkable",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2158,12 +3231,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script that synchronizes PDFs of documents between a Remarkable and a computer folder that mirrors its file structure without cloud access",
+            "homepage": null,
             "id": 569352231,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-12T19:45:17Z",
+            "open_issues": 7,
             "owner": "hersle",
             "repo": "rmirro",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2174,12 +3254,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script for synchronizing the reMarkable e-reader",
+            "homepage": null,
             "id": 118236951,
             "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
             "last_commit": "2022-05-06T08:09:10Z",
+            "open_issues": 3,
             "owner": "lschwetlick",
             "repo": "rMsync",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "open-source",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2190,12 +3280,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tooling for the reMarkable paper tablet.",
+            "homepage": null,
             "id": 408981550,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-19T05:45:17Z",
+            "open_issues": 2,
             "owner": "cherti",
             "repo": "remarkable-cli-tooling",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2206,12 +3303,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mini apps for reMarkable inside xochitl",
+            "homepage": null,
             "id": 171111440,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2021-02-26T00:56:15Z",
+            "open_issues": 0,
             "owner": "Evidlo",
             "repo": "remarkable_pdflets",
-            "stars": 93
+            "stars": 93,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2222,12 +3326,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Work in progress Calibre plugin to send files to a Remarkable Tablet",
+            "homepage": null,
             "id": 335825611,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-09-17T01:06:17Z",
+            "open_issues": 8,
             "owner": "naclander",
             "repo": "Calibre-Remarkable-Device-Driver-Plugin",
-            "stars": 87
+            "stars": 87,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2238,12 +3349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A FUSE filesystem wrapper for the reMarkable tablet",
+            "homepage": null,
             "id": 117696731,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-05T23:35:06Z",
+            "open_issues": 14,
             "owner": "nick8325",
             "repo": "remarkable-fs",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2254,12 +3370,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export annotated PDFs from ReMarkable tablets",
+            "homepage": null,
             "id": 132032768,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-10-04T17:16:59Z",
+            "open_issues": 3,
             "owner": "jmpinit",
             "repo": "rm-dl-annotated",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "remarkable-tablet",
+              "remarkable-tablets"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2270,12 +3394,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Take screnshots of your reMarkable tablet over SSH",
+            "homepage": null,
             "id": 314607971,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-20T18:19:25Z",
+            "open_issues": 4,
             "owner": "cloudsftp",
             "repo": "reSnap",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "remarkable-tablet",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2286,12 +3418,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "touch gestures for reMarkable",
+            "homepage": null,
             "id": 179811463,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2020-12-21T10:30:54Z",
+            "open_issues": 2,
             "owner": "ddvk",
             "repo": "remarkable-touchgestures",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2302,12 +3441,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create reMarkable notebook file from multiple PDFs",
+            "homepage": null,
             "id": 371070618,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-31T18:35:49Z",
+            "open_issues": 6,
             "owner": "JCN-9000",
             "repo": "pdf2rmnotebook",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2318,12 +3464,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Using the pen input (wacom) of the reMarkable to move your mouse on a pc.",
+            "homepage": null,
             "id": 169694832,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-11-17T02:01:00Z",
+            "open_issues": 0,
             "owner": "LinusCDE",
             "repo": "rmWacomToMouse",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2334,12 +3487,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Extract highlights, scribbles, and annotations from PDFs marked with the reMarkable tablet. Export to Markdown and PDF",
+            "homepage": "https://scrybble.ink",
             "id": 487516230,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T10:31:02Z",
+            "open_issues": 20,
             "owner": "Scrybbling-together",
             "repo": "remarks",
-            "stars": 63
+            "stars": 63,
+            "topics": [
+              "remarkable-paper-pro",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2350,12 +3511,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hand-written email client on a reMarkable or tablet of your choice",
+            "homepage": null,
             "id": 743241379,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-06T21:32:42Z",
+            "open_issues": 2,
             "owner": "j6k4m8",
             "repo": "epistolary",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2366,12 +3532,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python-based tool that generates clean, daily schedules using ICS calendar data. Designed with e-ink tablets like reMarkable or Kindle Scribe in mind.",
+            "homepage": null,
             "id": 970899648,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-31T21:00:27Z",
+            "open_issues": 1,
             "owner": "rmitchellscott",
             "repo": "Ephemeris",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2382,12 +3555,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nix expressions for the reMarkable tablet leveraging the company's toolchain.",
+            "homepage": null,
             "id": 308550359,
             "language": "Nix",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-16T19:07:56Z",
+            "open_issues": 1,
             "owner": "siraben",
             "repo": "nix-remarkable",
-            "stars": 54
+            "stars": 54,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2398,12 +3578,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exports Instapaper-Articles to PDF and potentially send them to a connected remarkable tablet",
+            "homepage": null,
             "id": 115089800,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-03-18T09:13:21Z",
+            "open_issues": 2,
             "owner": "fabianmu",
             "repo": "instapaper-as-pdf-to-remarkable",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "instapaper",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2414,12 +3602,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Customizations for reMarkable Paper Tablet",
+            "homepage": null,
             "id": 234815981,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-06-20T20:57:11Z",
+            "open_issues": 0,
             "owner": "Neurone",
             "repo": "reMarkable",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "customization",
+              "linux",
+              "remarkable",
+              "remarkable-tablet",
+              "remarkable2",
+              "splashscreen"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2430,12 +3630,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilize the USB webinterface of your remarkable paper tablet. Export all files or use this to make your own scripts.",
+            "homepage": null,
             "id": 158899410,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-04T10:55:14Z",
+            "open_issues": 6,
             "owner": "LinusCDE",
             "repo": "rmWebUiTools",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2446,12 +3653,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use a reMarkable tablet as a wireless mouse and keyboard",
+            "homepage": null,
             "id": 176221792,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-14T20:50:42Z",
+            "open_issues": 2,
             "owner": "Evidlo",
             "repo": "remarkable_keyboard",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2462,12 +3676,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A userspace tablet driver on Linux for the reMarkable Paper Tablet",
+            "homepage": null,
             "id": 178287004,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2020-01-28T03:15:30Z",
+            "open_issues": 0,
             "owner": "LinusCDE",
             "repo": "rmTabletDriver",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2478,12 +3699,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility to convert a pdf for viewing in landscape mode",
+            "homepage": null,
             "id": 325014617,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-07T21:48:29Z",
+            "open_issues": 2,
             "owner": "nmoran",
             "repo": "landscape-pdf",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2494,12 +3722,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Export notes from a reMarkable Tablet to File System, Evernote, ...",
+            "homepage": null,
             "id": 141676561,
             "language": "C#",
+            "license": "LGPL-3.0",
             "last_commit": "2018-07-20T09:43:47Z",
+            "open_issues": 0,
             "owner": "funcky-be",
             "repo": "Funcky.Remarkable.Exporter",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "csharp",
+              "dotnet",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2510,12 +3747,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RMPP Entware allows you to install additional software packages from the Entware repositories on your reMarkable device.",
+            "homepage": null,
             "id": 907047242,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-03-24T15:56:01Z",
+            "open_issues": 1,
             "owner": "hmenzagh",
             "repo": "rmpp-entware",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2526,12 +3770,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tweak tool for the reMarkable paper tablet. Lets you organize your templates with no fuss.",
+            "homepage": null,
             "id": 115788892,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-08-25T08:46:42Z",
+            "open_issues": 4,
             "owner": "morngrar",
             "repo": "remarkable-tweak",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2542,12 +3793,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get crosswords freshly delivered to your reMarkable every morning.",
+            "homepage": null,
             "id": 464881002,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-03-07T11:20:24Z",
+            "open_issues": 1,
             "owner": "shapeshed",
             "repo": "remarkable-crosswords",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "crosswords",
+              "remarkable",
+              "systemd"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2558,12 +3818,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A userspace tablet driver on Linux for the reMarkable Paper Tablet",
+            "homepage": null,
             "id": 1011592044,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-05-06T15:32:12Z",
+            "open_issues": 2,
             "owner": "FreeCap23",
             "repo": "reMarkable-tablet-driver",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2574,12 +3839,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 584368339,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-02T09:39:27Z",
+            "open_issues": 0,
             "owner": "LisaGlaser",
             "repo": "send_by_rmapi",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2590,12 +3860,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert remarkable notebooks into Anki packages (.apkg)",
+            "homepage": "https://ch-st.de/remarkable-anki/",
             "id": 722205724,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2024-01-14T17:56:44Z",
+            "open_issues": 0,
             "owner": "stelzch",
             "repo": "rm2anki",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "anki",
+              "cli",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2606,12 +3885,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 957897287,
             "language": "Python",
+            "license": "EUPL-1.2",
             "last_commit": "2025-04-01T13:32:49Z",
+            "open_issues": 1,
             "owner": "suntorytimed",
             "repo": "epub_to_remarkable",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2622,12 +3908,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mail PDF documents to you reMarkable notebook",
+            "homepage": null,
             "id": 324724084,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-05-03T06:30:11Z",
+            "open_issues": 3,
             "owner": "glatzor",
             "repo": "mail2rm",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2638,12 +3929,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Linux toolset for the Remarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.",
+            "homepage": null,
             "id": 937752751,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-07T21:03:01Z",
+            "open_issues": 0,
             "owner": "Samdney",
             "repo": "rmathlab",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "equation",
+              "handwriting-recognition",
+              "latex",
+              "math",
+              "mathematics",
+              "mathpix",
+              "notebook",
+              "notes",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet",
+              "tex"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2654,12 +3963,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neofetch fork. For the ReMarkable Tablet.",
+            "homepage": null,
             "id": 598468804,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2024-03-14T08:04:09Z",
+            "open_issues": 0,
             "owner": "rM-self-serve",
             "repo": "neofetch-rM",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "neofetch",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet",
+              "system",
+              "system-information"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2670,12 +3991,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for easy development of apps for reMarkable tablet in Python.",
+            "homepage": null,
             "id": 681178576,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-25T11:24:34Z",
+            "open_issues": 0,
             "owner": "tenJirka",
             "repo": "rm-pySAS",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2686,12 +4014,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Bash script to manage files on Remarkable devices via C.L.I. and S.S.H.",
+            "homepage": null,
             "id": 1161217172,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-05T20:16:09Z",
+            "open_issues": 0,
             "owner": "Penguin-Guru",
             "repo": "remarkable-ssh",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "bash-script",
+              "cli",
+              "cli-app",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2702,12 +4040,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NixOS on the reMarkable Pro (Paper Move for now, others possible)",
+            "homepage": null,
             "id": 1295282743,
             "language": "Nix",
+            "license": "MIT",
             "last_commit": "2026-07-28T15:48:19Z",
+            "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "nixos",
+              "remarkable-paper-pro-move",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2718,12 +4065,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Bash script to interact with Remarkable devices' local A.P.I. via C.L.I.",
+            "homepage": null,
             "id": 1158846789,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-19T00:18:28Z",
+            "open_issues": 1,
             "owner": "Penguin-Guru",
             "repo": "remarkable-api",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2734,12 +4088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "e-Ink bridge and tooling to get another OS running on a reMarkable Pro Paper Move; Claude helped",
+            "homepage": null,
             "id": 1295893972,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-07-28T15:47:42Z",
+            "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "chiappa",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2750,12 +4109,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1307899582,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-27T18:18:26Z",
+            "open_issues": 0,
             "owner": "zer0trip",
             "repo": "reCalibre",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         }
@@ -2772,12 +4138,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stream your reMarkable screen over SSH.",
+            "homepage": null,
             "id": 240004795,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-10T08:18:17Z",
+            "open_issues": 10,
             "owner": "rien",
             "repo": "reStream",
-            "stars": 865
+            "stars": 865,
+            "topics": [
+              "ffmpeg",
+              "framebuffer",
+              "remarkable-tablet",
+              "video4linux-loopback"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2788,12 +4164,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A live viewer for reMarkable written in PyQt5",
+            "homepage": null,
             "id": 260553403,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-08T14:35:55Z",
+            "open_issues": 47,
             "owner": "bordaigorl",
             "repo": "rmview",
-            "stars": 829
+            "stars": 829,
+            "topics": [
+              "pyqt5",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2804,12 +4188,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stream your reMarkable screen to any browser - no hacks, no dependencies, just install and go",
+            "homepage": "https://owulveryck.github.io/goMarkableStream/",
             "id": 323294781,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-21T15:30:03Z",
+            "open_issues": 26,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 748
+            "stars": 748,
+            "topics": [
+              "golang",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2820,12 +4212,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VNC client for the reMarkable tablet allowing you to use the device as a second screen",
+            "homepage": null,
             "id": 254500272,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2021-08-29T13:39:12Z",
+            "open_issues": 24,
             "owner": "matteodelabre",
             "repo": "vnsee",
-            "stars": 300
+            "stars": 300,
+            "topics": [
+              "remarkable-tablet",
+              "vnc-client"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2836,12 +4236,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stream a framebuffer device over HTTP",
+            "homepage": null,
             "id": 160181609,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-03T14:14:32Z",
+            "open_issues": 8,
             "owner": "Merovius",
             "repo": "srvfb",
-            "stars": 246
+            "stars": 246,
+            "topics": [
+              "golang",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2852,12 +4260,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damage-tracking VNC server for the reMarkable tablet",
+            "homepage": null,
             "id": 260651558,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2021-07-06T01:51:10Z",
+            "open_issues": 9,
             "owner": "pl-semiotics",
             "repo": "rM-vnc-server",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2868,12 +4283,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A small program that runs on your reMarkable 2 and reads the pen movements and paints them on a small website hosted on the tablet itself. No need to install anything else.",
+            "homepage": null,
             "id": 304838629,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2021-12-04T19:44:48Z",
+            "open_issues": 4,
             "owner": "AnyTimeTraveler",
             "repo": "pipes-and-rust",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "drawing",
+              "remarkable-tablet",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2884,12 +4308,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Live share to a browser the drawing made on a ReMarkable tablet",
+            "homepage": null,
             "id": 582561981,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-06T08:40:40Z",
+            "open_issues": 2,
             "owner": "Pyrrhu5",
             "repo": "pipes-and-paper-enhanced",
-            "stars": 56
+            "stars": 56,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2900,12 +4329,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AppLoad application for streaming your reMarkable tablet over HTTP",
+            "homepage": null,
             "id": 952570109,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-26T19:48:09Z",
+            "open_issues": 2,
             "owner": "asivery",
             "repo": "appload-rmstream",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         }
@@ -2914,15 +4348,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:11:43.125Z",
+    "last_updated": "2026-08-29T04:14:07.674Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of projects related to the reMarkable tablet",
+      "homepage": "https://github.com/topics/remarkable-tablet",
       "id": 118118940,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-28T00:25:12Z",
+      "open_issues": 10,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7660
+      "stars": 7660,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "remarkable-tablet"
+      ]
     },
     "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
     "enhanced_repository": "enhansome/enhansome-reMarkable",
