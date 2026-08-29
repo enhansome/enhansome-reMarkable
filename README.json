@@ -449,11 +449,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T00:23:31Z",
-            "open_issues": 1326,
+            "last_commit": "2026-08-29T13:44:04Z",
+            "open_issues": 1327,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29334,
+            "stars": 29349,
             "topics": [
               "cbz",
               "djvu",
@@ -4348,7 +4348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:14:07.674Z",
+    "last_updated": "2026-08-29T15:06:43.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
