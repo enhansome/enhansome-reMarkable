@@ -69,7 +69,7 @@
                 "open_issues": 17,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 310,
+                "stars": 311,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -449,11 +449,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T13:44:04Z",
-            "open_issues": 1327,
+            "last_commit": "2026-08-30T11:17:42Z",
+            "open_issues": 1328,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29349,
+            "stars": 29373,
             "topics": [
               "cbz",
               "djvu",
@@ -540,7 +540,7 @@
             "open_issues": 13,
             "owner": "dps",
             "repo": "remarkable-wikipedia",
-            "stars": 174,
+            "stars": 175,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -886,7 +886,7 @@
             "open_issues": 8,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 212,
+            "stars": 213,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2337,7 +2337,7 @@
             "open_issues": 3,
             "owner": "isaacwisdom",
             "repo": "RemarkableLamyEraser",
-            "stars": 305,
+            "stars": 306,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4045,7 +4045,7 @@
             "id": 1295282743,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-07-28T15:48:19Z",
+            "last_commit": "2026-08-30T14:30:30Z",
             "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
@@ -4221,7 +4221,7 @@
             "open_issues": 24,
             "owner": "matteodelabre",
             "repo": "vnsee",
-            "stars": 300,
+            "stars": 301,
             "topics": [
               "remarkable-tablet",
               "vnc-client"
@@ -4348,7 +4348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:06:43.108Z",
+    "last_updated": "2026-08-30T14:53:31.181Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4357,7 +4357,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-28T00:25:12Z",
-      "open_issues": 10,
+      "open_issues": 12,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
       "stars": 7660,
