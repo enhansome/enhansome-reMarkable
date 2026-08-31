@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1324,
+                "stars": 1327,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -381,7 +381,7 @@
                 "open_issues": 2,
                 "owner": "matomatical",
                 "repo": "reMarkable-kaitai",
-                "stars": 14,
+                "stars": 15,
                 "topics": [
                   "kaitai-struct",
                   "remarkable-tablet"
@@ -449,11 +449,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T11:17:42Z",
-            "open_issues": 1328,
+            "last_commit": "2026-08-31T14:45:35Z",
+            "open_issues": 1325,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29373,
+            "stars": 29393,
             "topics": [
               "cbz",
               "djvu",
@@ -740,7 +740,7 @@
                 "open_issues": 3,
                 "owner": "LinusCDE",
                 "repo": "chessmarkable",
-                "stars": 134,
+                "stars": 135,
                 "topics": [
                   "pleco",
                   "remarkable-tablet",
@@ -886,7 +886,7 @@
             "open_issues": 8,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 213,
+            "stars": 216,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1057,7 +1057,7 @@
             "open_issues": 6,
             "owner": "RedTTGMoss",
             "repo": "moss-desktop",
-            "stars": 78,
+            "stars": 79,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -1157,7 +1157,7 @@
             "open_issues": 0,
             "owner": "rmitchellscott",
             "repo": "Aviary",
-            "stars": 57,
+            "stars": 58,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1976,7 +1976,7 @@
             "open_issues": 8,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 349,
+            "stars": 350,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2155,7 +2155,7 @@
             "id": 732350970,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-07-14T13:16:33Z",
+            "last_commit": "2026-08-31T11:55:29Z",
             "open_issues": 0,
             "owner": "ds160",
             "repo": "remarkable-remember",
@@ -2940,7 +2940,7 @@
             "open_issues": 20,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "epub",
               "frof",
@@ -3492,7 +3492,7 @@
             "id": 487516230,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T10:31:02Z",
+            "last_commit": "2026-08-31T10:55:06Z",
             "open_issues": 20,
             "owner": "Scrybbling-together",
             "repo": "remarks",
@@ -3938,7 +3938,7 @@
             "open_issues": 0,
             "owner": "Samdney",
             "repo": "rmathlab",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "equation",
               "handwriting-recognition",
@@ -4049,7 +4049,7 @@
             "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "nixos",
               "remarkable-paper-pro-move",
@@ -4147,7 +4147,7 @@
             "open_issues": 10,
             "owner": "rien",
             "repo": "reStream",
-            "stars": 865,
+            "stars": 866,
             "topics": [
               "ffmpeg",
               "framebuffer",
@@ -4194,10 +4194,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-21T15:30:03Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 748,
+            "stars": 749,
             "topics": [
               "golang",
               "remarkable-tablet"
@@ -4221,7 +4221,7 @@
             "open_issues": 24,
             "owner": "matteodelabre",
             "repo": "vnsee",
-            "stars": 301,
+            "stars": 302,
             "topics": [
               "remarkable-tablet",
               "vnc-client"
@@ -4348,7 +4348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:53:31.181Z",
+    "last_updated": "2026-08-31T17:38:30.752Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4360,7 +4360,7 @@
       "open_issues": 12,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7660,
+      "stars": 7665,
       "topics": [
         "awesome",
         "awesome-list",
