@@ -449,11 +449,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T13:32:58Z",
+            "last_commit": "2026-09-02T14:29:23Z",
             "open_issues": 1323,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29414,
+            "stars": 29433,
             "topics": [
               "cbz",
               "djvu",
@@ -491,8 +491,8 @@
             "id": 256574460,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-17T05:43:07Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-02T07:50:14Z",
+            "open_issues": 29,
             "owner": "fenollp",
             "repo": "reMarkable-tools",
             "stars": 235,
@@ -682,7 +682,7 @@
                 "id": 453542805,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-01T05:12:46Z",
+                "last_commit": "2026-09-02T04:52:14Z",
                 "open_issues": 2,
                 "owner": "hafaio",
                 "repo": "repub",
@@ -886,7 +886,7 @@
             "open_issues": 8,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 216,
+            "stars": 217,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1976,7 +1976,7 @@
             "open_issues": 8,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 351,
+            "stars": 352,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2574,7 +2574,7 @@
             "id": 944724982,
             "language": "QML",
             "license": "GPL-2.0",
-            "last_commit": "2026-07-23T13:49:56Z",
+            "last_commit": "2026-09-01T18:15:57Z",
             "open_issues": 1,
             "owner": "ingatellent",
             "repo": "xovi-qmd-extensions",
@@ -3587,7 +3587,7 @@
             "open_issues": 2,
             "owner": "fabianmu",
             "repo": "instapaper-as-pdf-to-remarkable",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "instapaper",
               "remarkable-tablet"
@@ -4045,7 +4045,7 @@
             "id": 1295282743,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T14:30:30Z",
+            "last_commit": "2026-09-01T23:27:56Z",
             "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
@@ -4144,7 +4144,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-06-10T08:18:17Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "rien",
             "repo": "reStream",
             "stars": 866,
@@ -4348,7 +4348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T14:57:21.311Z",
+    "last_updated": "2026-09-02T14:32:49.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4357,10 +4357,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-07-28T00:25:12Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7666,
+      "stars": 7668,
       "topics": [
         "awesome",
         "awesome-list",
