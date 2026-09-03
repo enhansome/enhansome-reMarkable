@@ -352,7 +352,7 @@
                 "language": "Rust",
                 "license": "ISC",
                 "last_commit": "2021-12-12T17:42:55Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "ax3l",
                 "repo": "lines-are-rusty",
                 "stars": 95,
@@ -449,11 +449,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-02T14:29:23Z",
-            "open_issues": 1323,
+            "last_commit": "2026-09-03T08:49:22Z",
+            "open_issues": 1324,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29433,
+            "stars": 29460,
             "topics": [
               "cbz",
               "djvu",
@@ -519,7 +519,7 @@
             "open_issues": 17,
             "owner": "dps",
             "repo": "remarkable-keywriter",
-            "stars": 227,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -886,7 +886,7 @@
             "open_issues": 8,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 217,
+            "stars": 218,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1455,8 +1455,8 @@
             "id": 1295664380,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-12T21:08:19Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-03T12:25:33Z",
+            "open_issues": 15,
             "owner": "gabrielanhaia",
             "repo": "remarkable-brain",
             "stars": 9,
@@ -1570,7 +1570,7 @@
             "open_issues": 22,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1525,
+            "stars": 1526,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -1972,7 +1972,7 @@
             "id": 1134595696,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-27T03:20:32Z",
+            "last_commit": "2026-09-02T23:28:53Z",
             "open_issues": 8,
             "owner": "rmitchellscott",
             "repo": "reManager",
@@ -2446,7 +2446,7 @@
             "id": 918612096,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-08-23T10:12:57Z",
+            "last_commit": "2026-09-03T09:47:33Z",
             "open_issues": 2,
             "owner": "FouzR",
             "repo": "xovi-extensions",
@@ -2600,7 +2600,7 @@
             "id": 1080565105,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T19:24:20Z",
+            "last_commit": "2026-09-02T17:45:32Z",
             "open_issues": 3,
             "owner": "rmitchellscott",
             "repo": "xovi-qmd-extensions",
@@ -2940,7 +2940,7 @@
             "open_issues": 20,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 344,
+            "stars": 342,
             "topics": [
               "epub",
               "frof",
@@ -4194,7 +4194,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-21T15:30:03Z",
-            "open_issues": 27,
+            "open_issues": 28,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
             "stars": 749,
@@ -4278,7 +4278,7 @@
         },
         {
           "node_type": "item",
-          "title": "pipes and rust",
+          "title": "(Unmaintained) pipes and rust",
           "description": "(Made for rM2) Stream pen strokes to browser. A single executable on the reMarkable that hosts a tiny webserver in the local WLAN.",
           "children": [],
           "repo_info": {
@@ -4288,8 +4288,8 @@
             "id": 304838629,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2021-12-04T19:44:48Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-03T10:13:43Z",
+            "open_issues": 0,
             "owner": "AnyTimeTraveler",
             "repo": "pipes-and-rust",
             "stars": 66,
@@ -4348,7 +4348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T14:32:49.856Z",
+    "last_updated": "2026-09-03T14:37:25.256Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4356,18 +4356,18 @@
       "id": 118118940,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-07-28T00:25:12Z",
-      "open_issues": 13,
+      "last_commit": "2026-09-03T10:23:21Z",
+      "open_issues": 12,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7668,
+      "stars": 7671,
       "topics": [
         "awesome",
         "awesome-list",
         "remarkable-tablet"
       ]
     },
-    "original_repository_sha": "79651b28b4240fb4a62d3542688d7ec0f7d94006",
+    "original_repository_sha": "b1d6cf239926a5d96bb68c60027e48142007646b",
     "enhanced_repository": "enhansome/enhansome-reMarkable",
     "enhanced_repository_description": null,
     "title": "Awesome reMarkable with stars"
