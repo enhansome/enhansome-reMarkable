@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1328,
+                "stars": 1327,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -449,11 +449,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T13:19:30Z",
-            "open_issues": 1327,
+            "last_commit": "2026-09-05T05:32:40Z",
+            "open_issues": 1330,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29485,
+            "stars": 29500,
             "topics": [
               "cbz",
               "djvu",
@@ -589,7 +589,7 @@
             "open_issues": 1,
             "owner": "fsniper",
             "repo": "ReBook",
-            "stars": 86,
+            "stars": 87,
             "topics": [
               "remarkable-tablet"
             ]
@@ -740,7 +740,7 @@
                 "open_issues": 3,
                 "owner": "LinusCDE",
                 "repo": "chessmarkable",
-                "stars": 135,
+                "stars": 136,
                 "topics": [
                   "pleco",
                   "remarkable-tablet",
@@ -886,7 +886,7 @@
             "open_issues": 8,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 219,
+            "stars": 218,
             "topics": [
               "remarkable-tablet"
             ]
@@ -909,7 +909,7 @@
             "open_issues": 2,
             "owner": "Evidlo",
             "repo": "remarkable_syncthing",
-            "stars": 210,
+            "stars": 211,
             "topics": [
               "remarkable-tablet",
               "syncthing"
@@ -1118,6 +1118,29 @@
         },
         {
           "node_type": "item",
+          "title": "Aviary",
+          "description": "A webhook-driven document uploader for reMarkable Cloud and rmfakecloud, featuring a static UI and a Go backend. Optional integration for email via AWS SES.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A document uploader that automatically downloads and sends PDFs to your reMarkable cloud through a web interface or API. Supports PDF conversion, compression, and organized file management.",
+            "homepage": null,
+            "id": 987719515,
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-26T21:15:30Z",
+            "open_issues": 0,
+            "owner": "rmitchellscott",
+            "repo": "Aviary",
+            "stars": 59,
+            "topics": [
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "pdf2remarkable",
           "description": "Script to upload PDFs to the reMarkable Cloud.",
           "children": [],
@@ -1136,29 +1159,6 @@
             "topics": [
               "pdf",
               "remarkable",
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Aviary",
-          "description": "A webhook-driven document uploader for reMarkable Cloud and rmfakecloud, featuring a static UI and a Go backend. Optional integration for email via AWS SES.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A document uploader that automatically downloads and sends PDFs to your reMarkable cloud through a web interface or API. Supports PDF conversion, compression, and organized file management.",
-            "homepage": null,
-            "id": 987719515,
-            "language": "Go",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-08-26T21:15:30Z",
-            "open_issues": 0,
-            "owner": "rmitchellscott",
-            "repo": "Aviary",
-            "stars": 58,
-            "topics": [
               "remarkable-tablet"
             ]
           },
@@ -1976,7 +1976,7 @@
             "open_issues": 9,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 353,
+            "stars": 355,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2422,11 +2422,11 @@
             "id": 909517437,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-26T03:43:53Z",
+            "last_commit": "2026-09-04T20:35:40Z",
             "open_issues": 10,
             "owner": "asivery",
             "repo": "rm-appload",
-            "stars": 96,
+            "stars": 97,
             "topics": [
               "qml",
               "remarkable-tablet"
@@ -2471,7 +2471,7 @@
             "open_issues": 11,
             "owner": "machinelevel",
             "repo": "sp425-crazy-cow",
-            "stars": 88,
+            "stars": 89,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2574,7 +2574,7 @@
             "id": 944724982,
             "language": "QML",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-01T18:15:57Z",
+            "last_commit": "2026-09-05T12:10:35Z",
             "open_issues": 1,
             "owner": "ingatellent",
             "repo": "xovi-qmd-extensions",
@@ -4348,7 +4348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:24:11.904Z",
+    "last_updated": "2026-09-05T13:28:14.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4357,10 +4357,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-03T10:23:21Z",
-      "open_issues": 12,
+      "open_issues": 13,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7673,
+      "stars": 7674,
       "topics": [
         "awesome",
         "awesome-list",
