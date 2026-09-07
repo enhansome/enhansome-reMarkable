@@ -21,7 +21,7 @@
                 "open_issues": 35,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1329,
+                "stars": 1332,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -69,7 +69,7 @@
                 "open_issues": 19,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 311,
+                "stars": 313,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -329,7 +329,7 @@
                 "open_issues": 9,
                 "owner": "ax3l",
                 "repo": "lines-are-beautiful",
-                "stars": 112,
+                "stars": 113,
                 "topics": [
                   "eink",
                   "file-format",
@@ -381,7 +381,7 @@
                 "open_issues": 2,
                 "owner": "matomatical",
                 "repo": "reMarkable-kaitai",
-                "stars": 15,
+                "stars": 16,
                 "topics": [
                   "kaitai-struct",
                   "remarkable-tablet"
@@ -412,7 +412,7 @@
                 "open_issues": 11,
                 "owner": "canselcik",
                 "repo": "libremarkable",
-                "stars": 700,
+                "stars": 701,
                 "topics": [
                   "digitizer",
                   "framebuffer",
@@ -449,11 +449,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-06T13:02:49Z",
-            "open_issues": 1335,
+            "last_commit": "2026-09-07T14:28:14Z",
+            "open_issues": 1340,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29520,
+            "stars": 29542,
             "topics": [
               "cbz",
               "djvu",
@@ -589,7 +589,7 @@
             "open_issues": 1,
             "owner": "fsniper",
             "repo": "ReBook",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "remarkable-tablet"
             ]
@@ -795,7 +795,7 @@
                 "open_issues": 2,
                 "owner": "LinusCDE",
                 "repo": "doomarkable",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "dithering",
                   "doom",
@@ -1455,8 +1455,8 @@
             "id": 1295664380,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T12:25:33Z",
-            "open_issues": 15,
+            "last_commit": "2026-09-07T15:26:06Z",
+            "open_issues": 16,
             "owner": "gabrielanhaia",
             "repo": "remarkable-brain",
             "stars": 9,
@@ -1570,7 +1570,7 @@
             "open_issues": 22,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1527,
+            "stars": 1528,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -2314,7 +2314,7 @@
             "open_issues": 166,
             "owner": "mb1986",
             "repo": "rm-hacks",
-            "stars": 662,
+            "stars": 661,
             "topics": [
               "remarkable-tablet"
             ]
@@ -3240,7 +3240,7 @@
             "open_issues": 7,
             "owner": "hersle",
             "repo": "rmirro",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "remarkable-tablet"
             ]
@@ -3903,6 +3903,40 @@
         },
         {
           "node_type": "item",
+          "title": "rmathlab",
+          "description": "A Linux toolset for the reMarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Linux toolset for the Remarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.",
+            "homepage": null,
+            "id": 937752751,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-03-07T21:03:01Z",
+            "open_issues": 0,
+            "owner": "Samdney",
+            "repo": "rmathlab",
+            "stars": 12,
+            "topics": [
+              "equation",
+              "handwriting-recognition",
+              "latex",
+              "math",
+              "mathematics",
+              "mathpix",
+              "notebook",
+              "notes",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet",
+              "tex"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "mail2rm",
           "description": "Mail PDF documents to your reMarkable cloud using your mail transport agent e.g. postfix.",
           "children": [],
@@ -3919,40 +3953,6 @@
             "repo": "mail2rm",
             "stars": 10,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "rmathlab",
-          "description": "A Linux toolset for the reMarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Linux toolset for the Remarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.",
-            "homepage": null,
-            "id": 937752751,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-03-07T21:03:01Z",
-            "open_issues": 0,
-            "owner": "Samdney",
-            "repo": "rmathlab",
-            "stars": 10,
-            "topics": [
-              "equation",
-              "handwriting-recognition",
-              "latex",
-              "math",
-              "mathematics",
-              "mathpix",
-              "notebook",
-              "notes",
-              "remarkable",
-              "remarkable-2",
-              "remarkable-tablet",
-              "tex"
-            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -4348,7 +4348,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:43:14.301Z",
+    "last_updated": "2026-09-07T15:54:24.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4360,7 +4360,7 @@
       "open_issues": 14,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7675,
+      "stars": 7676,
       "topics": [
         "awesome",
         "awesome-list",
