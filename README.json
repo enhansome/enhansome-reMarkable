@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T12:56:24Z",
-                "open_issues": 47,
+                "open_issues": 52,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1335,
+                "stars": 1336,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -303,7 +303,7 @@
                 "open_issues": 0,
                 "owner": "bsdz",
                 "repo": "remarkable-layers",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "pdf",
                   "python",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-09T14:06:14Z",
-            "open_issues": 1343,
+            "last_commit": "2026-09-10T14:25:06Z",
+            "open_issues": 1341,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29598,
+            "stars": 29624,
             "topics": [
               "cbz",
               "djvu",
@@ -584,7 +584,7 @@
             "open_issues": 8,
             "owner": "darvin",
             "repo": "plato",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "djvu",
               "e-reader",
@@ -909,7 +909,7 @@
             "open_issues": 14,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 220,
+            "stars": 224,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1478,7 +1478,7 @@
             "id": 1295664380,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T06:28:03Z",
+            "last_commit": "2026-09-09T23:14:04Z",
             "open_issues": 17,
             "owner": "gabrielanhaia",
             "repo": "remarkable-brain",
@@ -1830,7 +1830,7 @@
             "open_issues": 0,
             "owner": "Martes-Delta-Co",
             "repo": "Remarkable-Mobile-Prototyping-Templates",
-            "stars": 3,
+            "stars": 4,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -1996,7 +1996,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-03T21:39:15Z",
-            "open_issues": 9,
+            "open_issues": 8,
             "owner": "rmitchellscott",
             "repo": "reManager",
             "stars": 361,
@@ -2959,8 +2959,8 @@
             "id": 246181153,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T22:42:18Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-09T22:50:20Z",
+            "open_issues": 18,
             "owner": "j6k4m8",
             "repo": "goosepaper",
             "stars": 342,
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T14:39:12.609Z",
+    "last_updated": "2026-09-10T14:29:45.836Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 14,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7683,
+      "stars": 7684,
       "topics": [
         "awesome",
         "awesome-list",
