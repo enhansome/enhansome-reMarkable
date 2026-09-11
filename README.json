@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T12:56:24Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1336,
+                "stars": 1337,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-10T14:25:06Z",
-            "open_issues": 1341,
+            "last_commit": "2026-09-11T12:47:47Z",
+            "open_issues": 1342,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29624,
+            "stars": 29642,
             "topics": [
               "cbz",
               "djvu",
@@ -584,7 +584,7 @@
             "open_issues": 8,
             "owner": "darvin",
             "repo": "plato",
-            "stars": 125,
+            "stars": 124,
             "topics": [
               "djvu",
               "e-reader",
@@ -909,7 +909,7 @@
             "open_issues": 14,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 224,
+            "stars": 227,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1478,8 +1478,8 @@
             "id": 1295664380,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-09T23:14:04Z",
-            "open_issues": 17,
+            "last_commit": "2026-09-11T02:42:38Z",
+            "open_issues": 18,
             "owner": "gabrielanhaia",
             "repo": "remarkable-brain",
             "stars": 9,
@@ -1593,7 +1593,7 @@
             "open_issues": 22,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1527,
+            "stars": 1528,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -2047,7 +2047,7 @@
             "open_issues": 12,
             "owner": "peerdavid",
             "repo": "remapy",
-            "stars": 182,
+            "stars": 183,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2678,7 +2678,7 @@
             "open_issues": 1,
             "owner": "unreMarkableLabs",
             "repo": "reLuminate",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "brightness",
               "brightness-control",
@@ -2959,11 +2959,11 @@
             "id": 246181153,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T22:50:20Z",
-            "open_issues": 18,
+            "last_commit": "2026-09-10T20:26:46Z",
+            "open_issues": 19,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "epub",
               "frof",
@@ -3344,29 +3344,6 @@
         },
         {
           "node_type": "item",
-          "title": "(Unmaintained) Calibre-Remarkable-Device-Driver-Plugin",
-          "description": "A Calibre Plugin to Manage your Remarkable Books.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "Work in progress Calibre plugin to send files to a Remarkable Tablet",
-            "homepage": null,
-            "id": 335825611,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2022-09-17T01:06:17Z",
-            "open_issues": 8,
-            "owner": "naclander",
-            "repo": "Calibre-Remarkable-Device-Driver-Plugin",
-            "stars": 87,
-            "topics": [
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
           "title": "reMarkable-fs",
           "description": "A FUSE filesystem wrapper for the reMarkable tablet.",
           "children": [],
@@ -3383,6 +3360,29 @@
             "repo": "remarkable-fs",
             "stars": 87,
             "topics": []
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "(Unmaintained) Calibre-Remarkable-Device-Driver-Plugin",
+          "description": "A Calibre Plugin to Manage your Remarkable Books.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "description": "Work in progress Calibre plugin to send files to a Remarkable Tablet",
+            "homepage": null,
+            "id": 335825611,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2022-09-17T01:06:17Z",
+            "open_issues": 8,
+            "owner": "naclander",
+            "repo": "Calibre-Remarkable-Device-Driver-Plugin",
+            "stars": 86,
+            "topics": [
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -4167,7 +4167,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-06-10T08:18:17Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "rien",
             "repo": "reStream",
             "stars": 866,
@@ -4217,7 +4217,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-21T15:30:03Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
             "stars": 749,
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T14:29:45.836Z",
+    "last_updated": "2026-09-11T14:28:47.298Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4380,7 +4380,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-09T06:26:59Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
       "stars": 7684,
