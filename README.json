@@ -21,7 +21,7 @@
                 "open_issues": 53,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1337,
+                "stars": 1336,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 315,
+                "stars": 316,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-11T12:47:47Z",
+            "last_commit": "2026-09-12T12:33:30Z",
             "open_issues": 1342,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29642,
+            "stars": 29658,
             "topics": [
               "cbz",
               "djvu",
@@ -909,7 +909,7 @@
             "open_issues": 14,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 227,
+            "stars": 229,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1116,6 +1116,29 @@
         },
         {
           "node_type": "item",
+          "title": "Aviary",
+          "description": "A webhook-driven document uploader for reMarkable Cloud and rmfakecloud, featuring a static UI and a Go backend. Optional integration for email via AWS SES.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A document uploader that automatically downloads and sends PDFs to your reMarkable cloud through a web interface or API. Supports PDF conversion, compression, and organized file management.",
+            "homepage": null,
+            "id": 987719515,
+            "language": "Go",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-26T21:15:30Z",
+            "open_issues": 0,
+            "owner": "rmitchellscott",
+            "repo": "Aviary",
+            "stars": 60,
+            "topics": [
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "remarking",
           "description": "CLI tool to extract highlights from any document in the reMarkable cloud.",
           "children": [],
@@ -1134,29 +1157,6 @@
             "topics": [
               "highlighting",
               "python",
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Aviary",
-          "description": "A webhook-driven document uploader for reMarkable Cloud and rmfakecloud, featuring a static UI and a Go backend. Optional integration for email via AWS SES.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A document uploader that automatically downloads and sends PDFs to your reMarkable cloud through a web interface or API. Supports PDF conversion, compression, and organized file management.",
-            "homepage": null,
-            "id": 987719515,
-            "language": "Go",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-08-26T21:15:30Z",
-            "open_issues": 0,
-            "owner": "rmitchellscott",
-            "repo": "Aviary",
-            "stars": 59,
-            "topics": [
               "remarkable-tablet"
             ]
           },
@@ -1482,7 +1482,7 @@
             "open_issues": 18,
             "owner": "gabrielanhaia",
             "repo": "remarkable-brain",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "claude",
               "cli",
@@ -2469,7 +2469,7 @@
             "id": 918612096,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-09-07T17:34:11Z",
+            "last_commit": "2026-09-11T14:57:31Z",
             "open_issues": 3,
             "owner": "FouzR",
             "repo": "xovi-extensions",
@@ -2910,7 +2910,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-08-15T19:30:15Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
             "stars": 634,
@@ -4216,8 +4216,8 @@
             "id": 323294781,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-21T15:30:03Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-11T20:24:02Z",
+            "open_issues": 27,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
             "stars": 749,
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:28:47.298Z",
+    "last_updated": "2026-09-12T13:37:55.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 15,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7684,
+      "stars": 7685,
       "topics": [
         "awesome",
         "awesome-list",
