@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T12:56:24Z",
-                "open_issues": 53,
+                "open_issues": 55,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1336,
+                "stars": 1338,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 316,
+                "stars": 319,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-12T12:33:30Z",
-            "open_issues": 1342,
+            "last_commit": "2026-09-13T08:38:23Z",
+            "open_issues": 1341,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29658,
+            "stars": 29679,
             "topics": [
               "cbz",
               "djvu",
@@ -686,7 +686,7 @@
             "open_issues": 0,
             "owner": "bjornte",
             "repo": "Writerdeck-for-reMarkable",
-            "stars": 2,
+            "stars": 3,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -909,7 +909,7 @@
             "open_issues": 14,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1130,7 +1130,7 @@
             "open_issues": 0,
             "owner": "rmitchellscott",
             "repo": "Aviary",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1593,7 +1593,7 @@
             "open_issues": 22,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1528,
+            "stars": 1527,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -2449,7 +2449,7 @@
             "open_issues": 9,
             "owner": "asivery",
             "repo": "rm-appload",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "qml",
               "remarkable-tablet"
@@ -2470,7 +2470,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-09-11T14:57:31Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "FouzR",
             "repo": "xovi-extensions",
             "stars": 91,
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:37:55.736Z",
+    "last_updated": "2026-09-13T14:27:30.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 15,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7685,
+      "stars": 7688,
       "topics": [
         "awesome",
         "awesome-list",
