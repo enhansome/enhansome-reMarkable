@@ -21,7 +21,7 @@
                 "open_issues": 56,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1339,
+                "stars": 1341,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -44,7 +44,7 @@
                 "open_issues": 13,
                 "owner": "splitbrain",
                 "repo": "ReMarkableAPI",
-                "stars": 423,
+                "stars": 422,
                 "topics": [
                   "api",
                   "remarkable-tablet",
@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 323,
+                "stars": 325,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -90,7 +90,7 @@
                 "open_issues": 11,
                 "owner": "subutux",
                 "repo": "rmapy",
-                "stars": 131,
+                "stars": 130,
                 "topics": [
                   "api",
                   "cloud",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-15T14:48:04Z",
-            "open_issues": 1344,
+            "last_commit": "2026-09-16T13:29:33Z",
+            "open_issues": 1346,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29716,
+            "stars": 29732,
             "topics": [
               "cbz",
               "djvu",
@@ -906,7 +906,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-08T22:29:46Z",
-            "open_issues": 17,
+            "open_issues": 18,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
             "stars": 232,
@@ -1178,7 +1178,7 @@
             "open_issues": 1,
             "owner": "teticio",
             "repo": "pdf2remarkable",
-            "stars": 59,
+            "stars": 58,
             "topics": [
               "pdf",
               "remarkable",
@@ -1999,7 +1999,7 @@
             "open_issues": 8,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 361,
+            "stars": 362,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2022,7 +2022,7 @@
             "open_issues": 25,
             "owner": "bordaigorl",
             "repo": "remy",
-            "stars": 310,
+            "stars": 309,
             "topics": [
               "gplv3",
               "pyqt5",
@@ -2337,7 +2337,7 @@
             "open_issues": 166,
             "owner": "mb1986",
             "repo": "rm-hacks",
-            "stars": 664,
+            "stars": 665,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2598,7 +2598,7 @@
             "language": "QML",
             "license": "GPL-2.0",
             "last_commit": "2026-09-05T12:10:35Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "ingatellent",
             "repo": "xovi-qmd-extensions",
             "stars": 30,
@@ -3515,7 +3515,7 @@
             "id": 487516230,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-31T10:55:06Z",
+            "last_commit": "2026-09-15T18:05:51Z",
             "open_issues": 20,
             "owner": "Scrybbling-together",
             "repo": "remarks",
@@ -3539,8 +3539,8 @@
             "id": 743241379,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2025-02-06T21:32:42Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-15T16:09:25Z",
+            "open_issues": 3,
             "owner": "j6k4m8",
             "repo": "epistolary",
             "stars": 62,
@@ -3974,7 +3974,7 @@
             "open_issues": 3,
             "owner": "glatzor",
             "repo": "mail2rm",
-            "stars": 10,
+            "stars": 9,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -4170,7 +4170,7 @@
             "open_issues": 11,
             "owner": "rien",
             "repo": "reStream",
-            "stars": 866,
+            "stars": 865,
             "topics": [
               "ffmpeg",
               "framebuffer",
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T15:04:15.891Z",
+    "last_updated": "2026-09-16T15:00:53.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 15,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7694,
+      "stars": 7698,
       "topics": [
         "awesome",
         "awesome-list",
