@@ -18,7 +18,7 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T12:56:24Z",
-                "open_issues": 56,
+                "open_issues": 63,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
                 "stars": 1341,
@@ -405,7 +405,7 @@
                 "open_issues": 2,
                 "owner": "RedTTGMoss",
                 "repo": "librm_lines",
-                "stars": 9,
+                "stars": 10,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "canselcik",
                 "repo": "libremarkable",
-                "stars": 702,
+                "stars": 703,
                 "topics": [
                   "digitizer",
                   "framebuffer",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T13:29:33Z",
-            "open_issues": 1346,
+            "last_commit": "2026-09-17T12:07:50Z",
+            "open_issues": 1344,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29732,
+            "stars": 29760,
             "topics": [
               "cbz",
               "djvu",
@@ -909,7 +909,7 @@
             "open_issues": 18,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 232,
+            "stars": 234,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1431,7 +1431,7 @@
             "open_issues": 0,
             "owner": "paviro",
             "repo": "Syncthing-for-reMarkable",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "remarkable",
               "remarkable-paper-pro",
@@ -1999,7 +1999,7 @@
             "open_issues": 8,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 362,
+            "stars": 364,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2383,7 +2383,7 @@
             "open_issues": 11,
             "owner": "asivery",
             "repo": "rm-hacks-qmd",
-            "stars": 229,
+            "stars": 228,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2963,7 +2963,7 @@
             "open_issues": 19,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "epub",
               "frof",
@@ -4220,7 +4220,7 @@
             "open_issues": 27,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 749,
+            "stars": 750,
             "topics": [
               "golang",
               "remarkable-tablet"
@@ -4244,7 +4244,7 @@
             "open_issues": 24,
             "owner": "matteodelabre",
             "repo": "vnsee",
-            "stars": 302,
+            "stars": 303,
             "topics": [
               "remarkable-tablet",
               "vnc-client"
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:00:53.638Z",
+    "last_updated": "2026-09-17T15:04:28.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
