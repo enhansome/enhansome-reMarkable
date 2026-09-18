@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T12:56:24Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1341,
+                "stars": 1340,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 325,
+                "stars": 324,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -254,7 +254,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-05T15:16:15Z",
-                "open_issues": 5,
+                "open_issues": 6,
                 "owner": "ricklupton",
                 "repo": "rmscene",
                 "stars": 153,
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-17T12:07:50Z",
-            "open_issues": 1344,
+            "last_commit": "2026-09-18T11:39:52Z",
+            "open_issues": 1345,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29760,
+            "stars": 29769,
             "topics": [
               "cbz",
               "djvu",
@@ -932,7 +932,7 @@
             "open_issues": 2,
             "owner": "Evidlo",
             "repo": "remarkable_syncthing",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "remarkable-tablet",
               "syncthing"
@@ -1007,7 +1007,7 @@
             "open_issues": 22,
             "owner": "rschroll",
             "repo": "rmfuse",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1130,7 +1130,7 @@
             "open_issues": 0,
             "owner": "rmitchellscott",
             "repo": "Aviary",
-            "stars": 61,
+            "stars": 60,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1431,7 +1431,7 @@
             "open_issues": 0,
             "owner": "paviro",
             "repo": "Syncthing-for-reMarkable",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "remarkable",
               "remarkable-paper-pro",
@@ -1482,7 +1482,7 @@
             "open_issues": 18,
             "owner": "gabrielanhaia",
             "repo": "remarkable-brain",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "claude",
               "cli",
@@ -1593,7 +1593,7 @@
             "open_issues": 22,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1527,
+            "stars": 1528,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -2425,7 +2425,7 @@
             "open_issues": 2,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "remarkable-paper-pro",
               "remarkable-tablet"
@@ -2445,8 +2445,8 @@
             "id": 909517437,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-08T13:35:47Z",
-            "open_issues": 10,
+            "last_commit": "2026-09-17T22:56:33Z",
+            "open_issues": 11,
             "owner": "asivery",
             "repo": "rm-appload",
             "stars": 101,
@@ -2913,7 +2913,7 @@
             "open_issues": 29,
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
-            "stars": 634,
+            "stars": 635,
             "topics": [
               "graphics-tablet",
               "remarkable-tablet",
@@ -2938,7 +2938,7 @@
             "open_issues": 7,
             "owner": "GjjvdBurg",
             "repo": "paper2remarkable",
-            "stars": 384,
+            "stars": 383,
             "topics": [
               "arxiv",
               "remarkable",
@@ -2959,11 +2959,11 @@
             "id": 246181153,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T20:26:46Z",
-            "open_issues": 19,
+            "last_commit": "2026-09-18T01:31:43Z",
+            "open_issues": 20,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 344,
+            "stars": 342,
             "topics": [
               "epub",
               "frof",
@@ -2995,7 +2995,7 @@
             "open_issues": 4,
             "owner": "Evidlo",
             "repo": "remarkable_news",
-            "stars": 300,
+            "stars": 299,
             "topics": [
               "remarkable-tablet"
             ]
@@ -3018,7 +3018,7 @@
             "open_issues": 6,
             "owner": "Evidlo",
             "repo": "remarkable_printer",
-            "stars": 299,
+            "stars": 298,
             "topics": [
               "remarkable-tablet"
             ]
@@ -3550,29 +3550,6 @@
         },
         {
           "node_type": "item",
-          "title": "Ephemeris",
-          "description": "A Python-based tool that generates clean, daily schedules using ICS calendar data. Designed with e-ink tablets like reMarkable in mind.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Python-based tool that generates clean, daily schedules using ICS calendar data. Designed with e-ink tablets like reMarkable or Kindle Scribe in mind.",
-            "homepage": null,
-            "id": 970899648,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-07-31T21:00:27Z",
-            "open_issues": 1,
-            "owner": "rmitchellscott",
-            "repo": "Ephemeris",
-            "stars": 54,
-            "topics": [
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
           "title": "nix-remarkable",
           "description": "Nix expressions for the reMarkable tablet leveraging the company's toolchain.",
           "children": [],
@@ -3588,6 +3565,29 @@
             "owner": "siraben",
             "repo": "nix-remarkable",
             "stars": 54,
+            "topics": [
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Ephemeris",
+          "description": "A Python-based tool that generates clean, daily schedules using ICS calendar data. Designed with e-ink tablets like reMarkable in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Python-based tool that generates clean, daily schedules using ICS calendar data. Designed with e-ink tablets like reMarkable or Kindle Scribe in mind.",
+            "homepage": null,
+            "id": 970899648,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-07-31T21:00:27Z",
+            "open_issues": 1,
+            "owner": "rmitchellscott",
+            "repo": "Ephemeris",
+            "stars": 53,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T15:04:28.496Z",
+    "last_updated": "2026-09-18T14:32:57.802Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 15,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7698,
+      "stars": 7700,
       "topics": [
         "awesome",
         "awesome-list",
