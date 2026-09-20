@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-18T22:06:30Z",
+            "last_commit": "2026-09-20T13:21:21Z",
             "open_issues": 1346,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29786,
+            "stars": 29812,
             "topics": [
               "cbz",
               "djvu",
@@ -1247,8 +1247,8 @@
             "id": 2357745,
             "language": "Python",
             "license": null,
-            "last_commit": "2022-06-18T10:41:21Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-20T10:53:57Z",
+            "open_issues": 6,
             "owner": "ofosos",
             "repo": "scratch",
             "stars": 45,
@@ -2445,11 +2445,11 @@
             "id": 909517437,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T13:53:38Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-19T23:11:13Z",
+            "open_issues": 9,
             "owner": "asivery",
             "repo": "rm-appload",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "qml",
               "remarkable-tablet"
@@ -2913,7 +2913,7 @@
             "open_issues": 29,
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
-            "stars": 635,
+            "stars": 634,
             "topics": [
               "graphics-tablet",
               "remarkable-tablet",
@@ -3482,6 +3482,30 @@
         },
         {
           "node_type": "item",
+          "title": "remarks",
+          "description": "Extract highlights, scribbles, and annotations from PDFs. Export to Markdown, PNG, and SVG.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Extract highlights, scribbles, and annotations from PDFs marked with the reMarkable tablet. Export to Markdown and PDF",
+            "homepage": "https://scrybble.ink",
+            "id": 487516230,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-15T18:05:51Z",
+            "open_issues": 20,
+            "owner": "Scrybbling-together",
+            "repo": "remarks",
+            "stars": 64,
+            "topics": [
+              "remarkable-paper-pro",
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "rmWacomToMouse",
           "description": "Use the wacom pen as a mouse to draw on your pc.",
           "children": [],
@@ -3498,30 +3522,6 @@
             "repo": "rmWacomToMouse",
             "stars": 64,
             "topics": [
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "remarks",
-          "description": "Extract highlights, scribbles, and annotations from PDFs. Export to Markdown, PNG, and SVG.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Extract highlights, scribbles, and annotations from PDFs marked with the reMarkable tablet. Export to Markdown and PDF",
-            "homepage": "https://scrybble.ink",
-            "id": 487516230,
-            "language": "Python",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-15T18:05:51Z",
-            "open_issues": 20,
-            "owner": "Scrybbling-together",
-            "repo": "remarks",
-            "stars": 63,
-            "topics": [
-              "remarkable-paper-pro",
               "remarkable-tablet"
             ]
           },
@@ -3634,7 +3634,7 @@
             "open_issues": 0,
             "owner": "Neurone",
             "repo": "reMarkable",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "customization",
               "linux",
@@ -4170,7 +4170,7 @@
             "open_issues": 11,
             "owner": "rien",
             "repo": "reStream",
-            "stars": 865,
+            "stars": 866,
             "topics": [
               "ffmpeg",
               "framebuffer",
@@ -4196,7 +4196,7 @@
             "open_issues": 47,
             "owner": "bordaigorl",
             "repo": "rmview",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "pyqt5",
               "remarkable-tablet"
@@ -4220,7 +4220,7 @@
             "open_issues": 27,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 750,
+            "stars": 749,
             "topics": [
               "golang",
               "remarkable-tablet"
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:56:22.820Z",
+    "last_updated": "2026-09-20T14:16:11.060Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
