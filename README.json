@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1341,
+                "stars": 1342,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -257,7 +257,7 @@
                 "open_issues": 6,
                 "owner": "ricklupton",
                 "repo": "rmscene",
-                "stars": 153,
+                "stars": 151,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T11:41:15Z",
-            "open_issues": 1359,
+            "last_commit": "2026-09-26T14:16:07Z",
+            "open_issues": 1365,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29907,
+            "stars": 29923,
             "topics": [
               "cbz",
               "djvu",
@@ -1130,7 +1130,7 @@
             "open_issues": 0,
             "owner": "rmitchellscott",
             "repo": "Aviary",
-            "stars": 61,
+            "stars": 62,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2022,7 +2022,7 @@
             "open_issues": 25,
             "owner": "bordaigorl",
             "repo": "remy",
-            "stars": 309,
+            "stars": 308,
             "topics": [
               "gplv3",
               "pyqt5",
@@ -2334,10 +2334,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2024-06-11T21:06:52Z",
-            "open_issues": 166,
+            "open_issues": 165,
             "owner": "mb1986",
             "repo": "rm-hacks",
-            "stars": 665,
+            "stars": 664,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2360,7 +2360,7 @@
             "open_issues": 3,
             "owner": "isaacwisdom",
             "repo": "RemarkableLamyEraser",
-            "stars": 306,
+            "stars": 305,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2383,7 +2383,7 @@
             "open_issues": 11,
             "owner": "asivery",
             "repo": "rm-hacks-qmd",
-            "stars": 228,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2404,7 +2404,7 @@
             "open_issues": 12,
             "owner": "funkey",
             "repo": "recept",
-            "stars": 172,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2425,7 +2425,7 @@
             "open_issues": 2,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
-            "stars": 132,
+            "stars": 131,
             "topics": [
               "remarkable-paper-pro",
               "remarkable-tablet"
@@ -2598,7 +2598,7 @@
             "language": "QML",
             "license": "GPL-2.0",
             "last_commit": "2026-09-24T17:42:29Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "ingatellent",
             "repo": "xovi-qmd-extensions",
             "stars": 30,
@@ -2913,7 +2913,7 @@
             "open_issues": 29,
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
-            "stars": 634,
+            "stars": 635,
             "topics": [
               "graphics-tablet",
               "remarkable-tablet",
@@ -3095,32 +3095,6 @@
         },
         {
           "node_type": "item",
-          "title": "pocket2rm",
-          "description": "Synchronize articles from read-later platform pocket in PDF and epub.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "get articles from read-later platform pocket to the remarkable paper tablet",
-            "homepage": null,
-            "id": 256817234,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2023-02-01T19:25:00Z",
-            "open_issues": 12,
-            "owner": "GliderGeek",
-            "repo": "pocket2rm",
-            "stars": 193,
-            "topics": [
-              "ereader-tools",
-              "pocket",
-              "remarkable",
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
           "title": "reMarkable_entware",
           "description": "Package manager for reMarkable. Install common Unix utilities through the command line.",
           "children": [],
@@ -3138,6 +3112,32 @@
             "stars": 193,
             "topics": [
               "entware",
+              "remarkable",
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "pocket2rm",
+          "description": "Synchronize articles from read-later platform pocket in PDF and epub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "get articles from read-later platform pocket to the remarkable paper tablet",
+            "homepage": null,
+            "id": 256817234,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2023-02-01T19:25:00Z",
+            "open_issues": 12,
+            "owner": "GliderGeek",
+            "repo": "pocket2rm",
+            "stars": 192,
+            "topics": [
+              "ereader-tools",
+              "pocket",
               "remarkable",
               "remarkable-tablet"
             ]
@@ -3312,7 +3312,7 @@
             "open_issues": 2,
             "owner": "cherti",
             "repo": "remarkable-cli-tooling",
-            "stars": 95,
+            "stars": 94,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T15:19:42.694Z",
+    "last_updated": "2026-09-26T14:33:01.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4380,7 +4380,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-09T06:26:59Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
       "stars": 7715,
