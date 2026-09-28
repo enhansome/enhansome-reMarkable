@@ -401,7 +401,7 @@
                 "id": 957450127,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-02T06:35:54Z",
+                "last_commit": "2026-09-28T16:20:02Z",
                 "open_issues": 2,
                 "owner": "RedTTGMoss",
                 "repo": "librm_lines",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-27T15:01:51Z",
-            "open_issues": 1365,
+            "last_commit": "2026-09-28T16:58:17Z",
+            "open_issues": 1363,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 29948,
+            "stars": 29980,
             "topics": [
               "cbz",
               "djvu",
@@ -909,7 +909,7 @@
             "open_issues": 19,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 237,
+            "stars": 238,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1593,7 +1593,7 @@
             "open_issues": 22,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1528,
+            "stars": 1529,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -1996,7 +1996,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-03T21:39:15Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "rmitchellscott",
             "repo": "reManager",
             "stars": 371,
@@ -2422,7 +2422,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-08T00:46:33Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
             "stars": 131,
@@ -2831,7 +2831,7 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-07-17T13:07:13Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "NohamR",
             "repo": "xovi-qmd-extensions",
             "stars": 6,
@@ -2963,7 +2963,7 @@
             "open_issues": 21,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 342,
+            "stars": 344,
             "topics": [
               "epub",
               "frof",
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:11:08.196Z",
+    "last_updated": "2026-09-28T18:11:26.105Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 16,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7716,
+      "stars": 7721,
       "topics": [
         "awesome",
         "awesome-list",
