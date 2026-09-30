@@ -21,7 +21,7 @@
                 "open_issues": 66,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1342,
+                "stars": 1343,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -280,7 +280,7 @@
                 "open_issues": 14,
                 "owner": "rschroll",
                 "repo": "rmrl",
-                "stars": 140,
+                "stars": 139,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -401,7 +401,7 @@
                 "id": 957450127,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-28T16:20:02Z",
+                "last_commit": "2026-09-30T15:34:00Z",
                 "open_issues": 2,
                 "owner": "RedTTGMoss",
                 "repo": "librm_lines",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T16:10:43Z",
-            "open_issues": 1362,
+            "last_commit": "2026-09-30T13:23:04Z",
+            "open_issues": 1365,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30003,
+            "stars": 30022,
             "topics": [
               "cbz",
               "djvu",
@@ -542,7 +542,7 @@
             "open_issues": 17,
             "owner": "dps",
             "repo": "remarkable-keywriter",
-            "stars": 228,
+            "stars": 227,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -584,7 +584,7 @@
             "open_issues": 8,
             "owner": "darvin",
             "repo": "plato",
-            "stars": 124,
+            "stars": 123,
             "topics": [
               "djvu",
               "e-reader",
@@ -981,7 +981,7 @@
             "open_issues": 5,
             "owner": "after-eight",
             "repo": "regitable",
-            "stars": 115,
+            "stars": 116,
             "topics": [
               "entware",
               "git",
@@ -1189,33 +1189,6 @@
         },
         {
           "node_type": "item",
-          "title": "reMarkable-Sink",
-          "description": "Turn a folder into a wormhole to your reMarkable.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Ultra-simple node app that uploads files from a folder to your ReMarkable Tablet thanks to RmApi & watchman.",
-            "homepage": null,
-            "id": 313399097,
-            "language": "JavaScript",
-            "license": "GPL-3.0",
-            "last_commit": "2020-11-21T12:11:32Z",
-            "open_issues": 0,
-            "owner": "hmenzagh",
-            "repo": "reMarkable-Sink",
-            "stars": 48,
-            "topics": [
-              "awesome",
-              "awesome-list",
-              "pdf",
-              "remarkable",
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
           "title": "sync_zotero_remarkable",
           "description": "Sync PDFs from Zotero to reMarkable.",
           "children": [],
@@ -1232,6 +1205,33 @@
             "repo": "sync_zotero_remarkable",
             "stars": 48,
             "topics": []
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "reMarkable-Sink",
+          "description": "Turn a folder into a wormhole to your reMarkable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Ultra-simple node app that uploads files from a folder to your ReMarkable Tablet thanks to RmApi & watchman.",
+            "homepage": null,
+            "id": 313399097,
+            "language": "JavaScript",
+            "license": "GPL-3.0",
+            "last_commit": "2020-11-21T12:11:32Z",
+            "open_issues": 0,
+            "owner": "hmenzagh",
+            "repo": "reMarkable-Sink",
+            "stars": 47,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "pdf",
+              "remarkable",
+              "remarkable-tablet"
+            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -2138,7 +2138,7 @@
             "open_issues": 9,
             "owner": "bruot",
             "repo": "pyrmexplorer",
-            "stars": 73,
+            "stars": 72,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2161,7 +2161,7 @@
             "open_issues": 5,
             "owner": "lobre",
             "repo": "rmuploader",
-            "stars": 60,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2913,7 +2913,7 @@
             "open_issues": 29,
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
-            "stars": 635,
+            "stars": 636,
             "topics": [
               "graphics-tablet",
               "remarkable-tablet",
@@ -4244,7 +4244,7 @@
             "open_issues": 24,
             "owner": "matteodelabre",
             "repo": "vnsee",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "remarkable-tablet",
               "vnc-client"
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T16:32:45.586Z",
+    "last_updated": "2026-09-30T16:26:08.791Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 16,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7723,
+      "stars": 7724,
       "topics": [
         "awesome",
         "awesome-list",
