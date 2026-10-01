@@ -21,7 +21,7 @@
                 "open_issues": 66,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1343,
+                "stars": 1344,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -44,7 +44,7 @@
                 "open_issues": 13,
                 "owner": "splitbrain",
                 "repo": "ReMarkableAPI",
-                "stars": 422,
+                "stars": 421,
                 "topics": [
                   "api",
                   "remarkable-tablet",
@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 326,
+                "stars": 327,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -254,7 +254,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-05T15:16:15Z",
-                "open_issues": 6,
+                "open_issues": 11,
                 "owner": "ricklupton",
                 "repo": "rmscene",
                 "stars": 151,
@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "canselcik",
                 "repo": "libremarkable",
-                "stars": 706,
+                "stars": 707,
                 "topics": [
                   "digitizer",
                   "framebuffer",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-30T13:23:04Z",
+            "last_commit": "2026-10-01T16:47:47Z",
             "open_issues": 1365,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30022,
+            "stars": 30043,
             "topics": [
               "cbz",
               "djvu",
@@ -705,8 +705,8 @@
                 "id": 453542805,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-14T23:01:45Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-01T00:40:55Z",
+                "open_issues": 2,
                 "owner": "hafacc",
                 "repo": "repub",
                 "stars": 93,
@@ -1999,7 +1999,7 @@
             "open_issues": 9,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 373,
+            "stars": 374,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2422,7 +2422,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-08T00:46:33Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
             "stars": 131,
@@ -3041,7 +3041,7 @@
             "open_issues": 9,
             "owner": "kevinconway",
             "repo": "remouseable",
-            "stars": 252,
+            "stars": 253,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -3263,7 +3263,7 @@
             "open_issues": 7,
             "owner": "hersle",
             "repo": "rmirro",
-            "stars": 126,
+            "stars": 125,
             "topics": [
               "remarkable-tablet"
             ]
@@ -3917,7 +3917,7 @@
             "open_issues": 0,
             "owner": "Samdney",
             "repo": "rmathlab",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "equation",
               "handwriting-recognition",
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:26:08.791Z",
+    "last_updated": "2026-10-01T17:03:22.651Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 16,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7724,
+      "stars": 7727,
       "topics": [
         "awesome",
         "awesome-list",
