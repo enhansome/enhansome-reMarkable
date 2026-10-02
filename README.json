@@ -44,7 +44,7 @@
                 "open_issues": 13,
                 "owner": "splitbrain",
                 "repo": "ReMarkableAPI",
-                "stars": 421,
+                "stars": 422,
                 "topics": [
                   "api",
                   "remarkable-tablet",
@@ -254,7 +254,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-05T15:16:15Z",
-                "open_issues": 11,
+                "open_issues": 12,
                 "owner": "ricklupton",
                 "repo": "rmscene",
                 "stars": 151,
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T16:47:47Z",
-            "open_issues": 1365,
+            "last_commit": "2026-10-02T10:08:31Z",
+            "open_issues": 1372,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30043,
+            "stars": 30058,
             "topics": [
               "cbz",
               "djvu",
@@ -705,7 +705,7 @@
                 "id": 453542805,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-01T00:40:55Z",
+                "last_commit": "2026-10-02T01:52:11Z",
                 "open_issues": 2,
                 "owner": "hafacc",
                 "repo": "repub",
@@ -905,11 +905,11 @@
             "id": 1105221013,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-08T22:29:46Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-02T09:00:30Z",
+            "open_issues": 19,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 239,
+            "stars": 240,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1482,7 +1482,7 @@
             "open_issues": 18,
             "owner": "gabrielanhaia",
             "repo": "remarkable-brain",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "claude",
               "cli",
@@ -1593,7 +1593,7 @@
             "open_issues": 22,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1529,
+            "stars": 1530,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -1999,7 +1999,7 @@
             "open_issues": 9,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 374,
+            "stars": 375,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2425,7 +2425,7 @@
             "open_issues": 4,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "remarkable-paper-pro",
               "remarkable-tablet"
@@ -2449,7 +2449,7 @@
             "open_issues": 12,
             "owner": "asivery",
             "repo": "rm-appload",
-            "stars": 104,
+            "stars": 106,
             "topics": [
               "qml",
               "remarkable-tablet"
@@ -2578,7 +2578,30 @@
             "open_issues": 1,
             "owner": "rmitchellscott",
             "repo": "xovi-tripletap",
-            "stars": 39,
+            "stars": 40,
+            "topics": [
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "xovi-qmd-extensions (rmitchellscott)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "My modifications, fixes, and QoL improvements for reMarkable tablets using xovi",
+            "homepage": null,
+            "id": 1080565105,
+            "language": "Shell",
+            "license": "GPL-3.0",
+            "last_commit": "2026-09-24T20:20:00Z",
+            "open_issues": 1,
+            "owner": "rmitchellscott",
+            "repo": "xovi-qmd-extensions",
+            "stars": 31,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2606,29 +2629,6 @@
               "remarkable-2",
               "remarkable-paper-pro",
               "remarkable-paper-pro-move",
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "xovi-qmd-extensions (rmitchellscott)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "My modifications, fixes, and QoL improvements for reMarkable tablets using xovi",
-            "homepage": null,
-            "id": 1080565105,
-            "language": "Shell",
-            "license": "GPL-3.0",
-            "last_commit": "2026-09-24T20:20:00Z",
-            "open_issues": 1,
-            "owner": "rmitchellscott",
-            "repo": "xovi-qmd-extensions",
-            "stars": 30,
-            "topics": [
               "remarkable-tablet"
             ]
           },
@@ -3312,7 +3312,7 @@
             "open_issues": 2,
             "owner": "cherti",
             "repo": "remarkable-cli-tooling",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4244,7 +4244,7 @@
             "open_issues": 24,
             "owner": "matteodelabre",
             "repo": "vnsee",
-            "stars": 304,
+            "stars": 303,
             "topics": [
               "remarkable-tablet",
               "vnc-client"
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T17:03:22.651Z",
+    "last_updated": "2026-10-02T16:17:39.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4380,10 +4380,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-09T06:26:59Z",
-      "open_issues": 16,
+      "open_issues": 17,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7727,
+      "stars": 7729,
       "topics": [
         "awesome",
         "awesome-list",
