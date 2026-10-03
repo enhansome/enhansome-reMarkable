@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T04:47:00Z",
-            "open_issues": 1375,
+            "last_commit": "2026-10-03T12:19:11Z",
+            "open_issues": 1374,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30064,
+            "stars": 30071,
             "topics": [
               "cbz",
               "djvu",
@@ -612,7 +612,7 @@
             "open_issues": 1,
             "owner": "fsniper",
             "repo": "ReBook",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2938,7 +2938,7 @@
             "open_issues": 7,
             "owner": "GjjvdBurg",
             "repo": "paper2remarkable",
-            "stars": 383,
+            "stars": 384,
             "topics": [
               "arxiv",
               "remarkable",
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:02:59.224Z",
+    "last_updated": "2026-10-03T14:45:24.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 17,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7730,
+      "stars": 7733,
       "topics": [
         "awesome",
         "awesome-list",
