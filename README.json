@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T12:56:24Z",
-                "open_issues": 66,
+                "open_issues": 65,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1344,
+                "stars": 1345,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 327,
+                "stars": 328,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T10:08:31Z",
-            "open_issues": 1372,
+            "last_commit": "2026-10-03T04:47:00Z",
+            "open_issues": 1375,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30058,
+            "stars": 30064,
             "topics": [
               "cbz",
               "djvu",
@@ -932,7 +932,7 @@
             "open_issues": 2,
             "owner": "Evidlo",
             "repo": "remarkable_syncthing",
-            "stars": 212,
+            "stars": 211,
             "topics": [
               "remarkable-tablet",
               "syncthing"
@@ -1004,7 +1004,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2024-04-08T11:49:18Z",
-            "open_issues": 22,
+            "open_issues": 21,
             "owner": "rschroll",
             "repo": "rmfuse",
             "stars": 103,
@@ -2460,7 +2460,7 @@
         {
           "node_type": "item",
           "title": "xovi-extensions (FouzR)",
-          "description": null,
+          "description": "FouzR/xovi-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2588,7 +2588,7 @@
         {
           "node_type": "item",
           "title": "xovi-qmd-extensions (rmitchellscott)",
-          "description": null,
+          "description": "rmitchellscott/xovi-qmd-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2611,7 +2611,7 @@
         {
           "node_type": "item",
           "title": "xovi-qmd-extensions (ingatellent)",
-          "description": null,
+          "description": "ingatellent/xovi-qmd-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2724,7 +2724,7 @@
         {
           "node_type": "item",
           "title": "xovi-qmd-extensions (StarNumber12046)",
-          "description": null,
+          "description": "StarNumber12046/xovi-qmd-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2821,7 +2821,7 @@
         {
           "node_type": "item",
           "title": "xovi-qmd-extensions (NohamR)",
-          "description": null,
+          "description": "NohamR/xovi-qmd-extensions",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2846,7 +2846,7 @@
         {
           "node_type": "item",
           "title": "rm-hacks-xovi-qmd (Samarkin)",
-          "description": null,
+          "description": "Samarkin/rm-hacks-xovi-qmd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4244,7 +4244,7 @@
             "open_issues": 24,
             "owner": "matteodelabre",
             "repo": "vnsee",
-            "stars": 303,
+            "stars": 304,
             "topics": [
               "remarkable-tablet",
               "vnc-client"
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:17:39.238Z",
+    "last_updated": "2026-10-03T05:02:59.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 17,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7729,
+      "stars": 7730,
       "topics": [
         "awesome",
         "awesome-list",
