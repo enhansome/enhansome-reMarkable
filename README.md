@@ -1,6 +1,6 @@
 # Awesome reMarkable with stars
 
-# [<img src="Awesome.png"></p>](https://github.com/sindresorhus/awesome) ⭐ 513,958 | 🐛 106 | 📅 2026-09-02
+# [<img src="Awesome.png"></p>](https://github.com/sindresorhus/awesome) ⭐ 514,534 | 🐛 107 | 📅 2026-09-02
 
 The [reMarkable](https://www.remarkable.com) is a paper tablet for those who prefer writing on paper. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers.
 
@@ -65,7 +65,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ### Lines Format
 
-* [rmscene](https://github.com/ricklupton/rmscene) ⭐ 151 | 🐛 12 | 🌐 Python | 📅 2026-04-05 - Python library to read v6 files / software version 3.
+* [rmscene](https://github.com/ricklupton/rmscene) ⭐ 151 | 🐛 13 | 🌐 Python | 📅 2026-04-05 - Python library to read v6 files / software version 3.
 * [rmrl](https://github.com/rschroll/rmrl) ⭐ 139 | 🐛 14 | 🌐 Python | 📅 2021-11-06 - The reMarkable Rendering Library for Python converts annotated documents to PDF files.
 * (Unmaintained) [reMarkable-layers](https://github.com/bsdz/remarkable-layers) ⚠️ Archived - Python API for reading & writing reMarkable Lines format. Supports very basic conversion of PDFs and SVGs to Lines format.
 * [lines-are-beautiful](https://github.com/ax3l/lines-are-beautiful) ⭐ 113 | 🐛 9 | 🌐 C++ | 📅 2019-11-04 - C++ File API for the reMarkable tablet.
@@ -79,7 +79,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ## Applications
 
-* [KOReader](https://github.com/koreader/koreader) ⭐ 30,071 | 🐛 1,374 | 🌐 Lua | 📅 2026-10-03 - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.
+* [KOReader](https://github.com/koreader/koreader) ⭐ 30,099 | 🐛 1,375 | 🌐 Lua | 📅 2026-10-04 - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.
 * [whiteboard-hypercard](https://github.com/fenollp/reMarkable-tools) ⭐ 235 | 🐛 29 | 🌐 Rust | 📅 2026-09-09 - Live collaboration, drawing, chat, whiteboarding.
 * [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) ⭐ 227 | 🐛 17 | 🌐 QML | 📅 2024-01-13 - A distraction free keyboard notes app.
 * [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) ⭐ 175 | 🐛 13 | 🌐 QML | 📅 2022-03-16 - Offline wikipedia reader for reMarkable.
@@ -120,7 +120,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 * [url2epub](https://github.com/fishy/url2epub) ⭐ 82 | 🐛 2 | 🌐 Go | 📅 2026-08-22 - Telegram bot to generate ePub out of URL and send directly to reMarkable Cloud.
 * [Moss](https://github.com/RedTTGMoss/moss-desktop) ⭐ 79 | 🐛 6 | 🌐 Python | 📅 2026-08-22 - An app for working with your documents in the reMarkable/rmFakeCloud cloud
 * (Unmaintained) [reCatchable](https://github.com/lapwat/reCatchable) ⚠️ Archived - Turn websites into ebooks, upload them to reMarkable.
-* [Aviary](https://github.com/rmitchellscott/aviary) ⭐ 62 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - A webhook-driven document uploader for reMarkable Cloud and rmfakecloud, featuring a static UI and a Go backend. Optional integration for email via AWS SES.
+* [Aviary](https://github.com/rmitchellscott/aviary) ⭐ 63 | 🐛 0 | 🌐 Go | 📅 2026-08-26 - A webhook-driven document uploader for reMarkable Cloud and rmfakecloud, featuring a static UI and a Go backend. Optional integration for email via AWS SES.
 * [remarking](https://github.com/sabidib/remarking) ⭐ 60 | 🐛 14 | 🌐 Python | 📅 2022-05-29 - CLI tool to extract highlights from any document in the reMarkable cloud.
 * [pdf2remarkable](https://github.com/teticio/pdf2remarkable) ⭐ 58 | 🐛 1 | 🌐 Python | 📅 2025-04-02 - Script to upload PDFs to the reMarkable Cloud.
 * [sync\_zotero\_remarkable](https://github.com/danijoo/sync_zotero_remarkable) ⚠️ Archived - Sync PDFs from Zotero to reMarkable.
@@ -132,8 +132,8 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 * [mendeley-rMsync](https://github.com/anilkyelam/mendeley-rMsync) ⭐ 24 | 🐛 4 | 🌐 Python | 📅 2021-09-22 - Script to sync PDFs (with annotations) from/to a [Mendeley](https://www.mendeley.com/) folder.
 * [rm-pdf-tools](https://github.com/skius/rm-pdf-tools) ⭐ 21 | 🐛 5 | 🌐 Go | 📅 2021-12-01 - Service that allows users to insert and delete pages from annotated PDFs on the device.
 * [reMarkable RSS](https://github.com/eksubin/Remarkable-RSS-Feed) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2025-08-12 - Read RSS feeds on reMarkable via google drive integration. Automated Script to convert RSS-feeds as PDFs and upload to google drive.
+* [Syncthing-for-reMarkable-AppLoad](https://github.com/paviro/Syncthing-for-reMarkable) ⭐ 16 | 🐛 0 | 🌐 Rust | 📅 2026-06-07 - Syncthing appload app for reMarkable (incl. Paper Pro and Paper Pro Move).
 * [AgentNews-RemarkableRSSReader](https://github.com/eksubin/AgentNews-RemarkableRSSReader) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-08-12 - An AI agent for processing RSS news feeds and sending them to reMarkable via Google Drive API.
-* [Syncthing-for-reMarkable-AppLoad](https://github.com/paviro/Syncthing-for-reMarkable) ⭐ 15 | 🐛 0 | 🌐 Rust | 📅 2026-06-07 - Syncthing appload app for reMarkable (incl. Paper Pro and Paper Pro Move).
 * [remarkable\_simplenote](https://github.com/bgribble/remarkable_simplenote) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2021-03-06 - Sync simplenote notes to reMarkable (currently one-way)
 * [rm-brain](https://github.com/gabrielanhaia/remarkable-brain) ⭐ 12 | 🐛 18 | 🌐 TypeScript | 📅 2026-09-29 - Turns your reMarkable notebooks into a local-first, searchable second brain you query through Claude Desktop.
 * [send-to-remarkable](https://github.com/zegevlier/send-to-remarkable) ⭐ 8 | 🐛 5 | 🌐 TypeScript | 📅 2026-04-08 - Upload documents to the reMarkable from an email, like send to Kindle.
@@ -177,7 +177,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ## GUI Clients
 
-* [reManager](https://github.com/rmitchellscott/reManager) ⭐ 375 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-03 - Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets using the [Vellum](https://github.com/vellum-dev/vellum) ⭐ 134 | 🐛 10 | 🌐 Shell | 📅 2026-09-24 package manager.
+* [reManager](https://github.com/rmitchellscott/reManager) ⭐ 376 | 🐛 9 | 🌐 TypeScript | 📅 2026-09-03 - Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets using the [Vellum](https://github.com/vellum-dev/vellum) ⭐ 134 | 🐛 11 | 🌐 Shell | 📅 2026-10-03 package manager.
 * [ReMy](https://github.com/bordaigorl/remy) ⭐ 309 | 🐛 25 | 🌐 Python | 📅 2025-05-11 - A GUI to browse, preview documents, export documents with custom settings, all via SSH (no cloud needed); works from local raw backups too.
 * [RemaPy](https://github.com/peerdavid/remapy) ⭐ 183 | 🐛 12 | 🌐 Python | 📅 2022-07-29 - GUI to browse, download/upload files and backup the tablet (also on Linux) using the cloud.
 * [reMarkable-assistant](https://github.com/richeymichael/remarkable-assistant) ⭐ 180 | 🐛 16 | 🌐 Python | 📅 2021-05-29 - Manage templates, splash screens, and settings on your reMarkable tablet.
@@ -207,7 +207,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   * `random-suspend-screen` - Randomize your reMarkable tablet's suspend screens.
   * `webserver-remote` - Exposes the USB webserver to all interfaces, with a confirmation dialog for inbound connections.
 * [AppLoad](https://github.com/asivery/rm-appload) ⭐ 106 | 🐛 12 | 🌐 C++ | 📅 2026-09-19 - Enables windowed and fullscreen apps inside the reMarkable interface.
-* [xovi-extensions (FouzR)](https://github.com/FouzR/xovi-extensions) ⭐ 92 | 🐛 6 | 📅 2026-09-11
+* [xovi-extensions (FouzR)](https://github.com/FouzR/xovi-extensions) ⭐ 92 | 🐛 7 | 📅 2026-09-11
   * `favTagButton` - Adds quick access buttons for Favourites and Tagged files.
   * `floating` - Adds a floating toolbar.
   * `gestures` - Adds several useful gestures.
@@ -353,4 +353,4 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

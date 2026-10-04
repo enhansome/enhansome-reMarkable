@@ -254,7 +254,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-05T15:16:15Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "ricklupton",
                 "repo": "rmscene",
                 "stars": 151,
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T12:19:11Z",
-            "open_issues": 1374,
+            "last_commit": "2026-10-04T13:24:27Z",
+            "open_issues": 1375,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30071,
+            "stars": 30099,
             "topics": [
               "cbz",
               "djvu",
@@ -1130,7 +1130,7 @@
             "open_issues": 0,
             "owner": "rmitchellscott",
             "repo": "Aviary",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1396,6 +1396,33 @@
         },
         {
           "node_type": "item",
+          "title": "Syncthing-for-reMarkable-AppLoad",
+          "description": "Syncthing appload app for reMarkable (incl. Paper Pro and Paper Pro Move).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Appload app to easily install and monitor Syncthing.",
+            "homepage": null,
+            "id": 1099427920,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-06-07T21:04:10Z",
+            "open_issues": 0,
+            "owner": "paviro",
+            "repo": "Syncthing-for-reMarkable",
+            "stars": 16,
+            "topics": [
+              "remarkable",
+              "remarkable-paper-pro",
+              "remarkable-tablet",
+              "rm-appload",
+              "xovi"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "AgentNews-RemarkableRSSReader",
           "description": "An AI agent for processing RSS news feeds and sending them to reMarkable via Google Drive API.",
           "children": [],
@@ -1412,33 +1439,6 @@
             "repo": "AgentNews-RemarkableRSSReader",
             "stars": 15,
             "topics": []
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Syncthing-for-reMarkable-AppLoad",
-          "description": "Syncthing appload app for reMarkable (incl. Paper Pro and Paper Pro Move).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Appload app to easily install and monitor Syncthing.",
-            "homepage": null,
-            "id": 1099427920,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2026-06-07T21:04:10Z",
-            "open_issues": 0,
-            "owner": "paviro",
-            "repo": "Syncthing-for-reMarkable",
-            "stars": 15,
-            "topics": [
-              "remarkable",
-              "remarkable-paper-pro",
-              "remarkable-tablet",
-              "rm-appload",
-              "xovi"
-            ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
         },
@@ -1999,7 +1999,7 @@
             "open_issues": 9,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 375,
+            "stars": 376,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2470,7 +2470,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-09-11T14:57:31Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "FouzR",
             "repo": "xovi-extensions",
             "stars": 92,
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:45:24.187Z",
+    "last_updated": "2026-10-04T15:24:45.151Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4383,7 +4383,7 @@
       "open_issues": 17,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7733,
+      "stars": 7734,
       "topics": [
         "awesome",
         "awesome-list",
