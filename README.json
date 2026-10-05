@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T12:56:24Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1345,
+                "stars": 1348,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 328,
+                "stars": 329,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-04T13:24:27Z",
-            "open_issues": 1375,
+            "last_commit": "2026-10-05T18:44:07Z",
+            "open_issues": 1370,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30099,
+            "stars": 30123,
             "topics": [
               "cbz",
               "djvu",
@@ -909,7 +909,7 @@
             "open_issues": 19,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 240,
+            "stars": 241,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1593,7 +1593,7 @@
             "open_issues": 22,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1530,
+            "stars": 1531,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -1999,7 +1999,7 @@
             "open_issues": 9,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 376,
+            "stars": 377,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4170,7 +4170,7 @@
             "open_issues": 11,
             "owner": "rien",
             "repo": "reStream",
-            "stars": 869,
+            "stars": 870,
             "topics": [
               "ffmpeg",
               "framebuffer",
@@ -4371,7 +4371,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T15:24:45.151Z",
+    "last_updated": "2026-10-05T19:19:08.205Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4380,10 +4380,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-09T06:26:59Z",
-      "open_issues": 17,
+      "open_issues": 18,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7734,
+      "stars": 7739,
       "topics": [
         "awesome",
         "awesome-list",
