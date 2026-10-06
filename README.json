@@ -21,7 +21,7 @@
                 "open_issues": 66,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1348,
+                "stars": 1349,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 329,
+                "stars": 330,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-05T18:44:07Z",
+            "last_commit": "2026-10-06T09:07:15Z",
             "open_issues": 1370,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30123,
+            "stars": 30129,
             "topics": [
               "cbz",
               "djvu",
@@ -581,7 +581,7 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2019-01-12T04:19:55Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "darvin",
             "repo": "plato",
             "stars": 123,
@@ -690,6 +690,27 @@
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
+          "title": "reMarkable SSH explorer",
+          "description": "An on-device ssh explorer for downloading pdf files from a server to the reMarkable tablet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An on-device ssh explorer for downloading pdf files from a server to the reMarkable tablet",
+            "homepage": "https://valerioiacobucci.com/blog/ipad-3-vs-remarkable-2",
+            "id": 1402446668,
+            "language": "QML",
+            "license": "GPL-2.0",
+            "last_commit": "2026-10-05T22:51:00Z",
+            "open_issues": 0,
+            "owner": "iacobucci",
+            "repo": "rm-ssh-explorer",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-10-06T10:30:18.286Z"
         },
         {
           "children": [
@@ -909,7 +930,7 @@
             "open_issues": 19,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 241,
+            "stars": 242,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2959,8 +2980,8 @@
             "id": 246181153,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T00:38:08Z",
-            "open_issues": 21,
+            "last_commit": "2026-10-05T19:26:59Z",
+            "open_issues": 22,
             "owner": "j6k4m8",
             "repo": "goosepaper",
             "stars": 344,
@@ -4371,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T19:19:08.205Z",
+    "last_updated": "2026-10-06T10:30:18.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4379,18 +4400,18 @@
       "id": 118118940,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-09T06:26:59Z",
-      "open_issues": 18,
+      "last_commit": "2026-10-05T23:03:09Z",
+      "open_issues": 17,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7739,
+      "stars": 7740,
       "topics": [
         "awesome",
         "awesome-list",
         "remarkable-tablet"
       ]
     },
-    "original_repository_sha": "ab74c3520ce44ad5d1f14b81978d23779f38bcb3",
+    "original_repository_sha": "e776e9edbd454b2d945ca047e4bb5923fefe2346",
     "enhanced_repository": "enhansome/enhansome-reMarkable",
     "enhanced_repository_description": null,
     "title": "Awesome reMarkable with stars"
