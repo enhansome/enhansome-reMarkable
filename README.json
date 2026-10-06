@@ -21,7 +21,7 @@
                 "open_issues": 66,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1349,
+                "stars": 1351,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T09:07:15Z",
-            "open_issues": 1370,
+            "last_commit": "2026-10-06T16:33:01Z",
+            "open_issues": 1371,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30129,
+            "stars": 30133,
             "topics": [
               "cbz",
               "djvu",
@@ -703,7 +703,7 @@
             "id": 1402446668,
             "language": "QML",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-05T22:51:00Z",
+            "last_commit": "2026-10-06T16:30:06Z",
             "open_issues": 0,
             "owner": "iacobucci",
             "repo": "rm-ssh-explorer",
@@ -1431,7 +1431,7 @@
             "open_issues": 0,
             "owner": "paviro",
             "repo": "Syncthing-for-reMarkable",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "remarkable",
               "remarkable-paper-pro",
@@ -2466,8 +2466,8 @@
             "id": 909517437,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T23:11:13Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-06T12:02:44Z",
+            "open_issues": 9,
             "owner": "asivery",
             "repo": "rm-appload",
             "stars": 106,
@@ -2984,7 +2984,7 @@
             "open_issues": 22,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "epub",
               "frof",
@@ -3039,7 +3039,7 @@
             "open_issues": 6,
             "owner": "Evidlo",
             "repo": "remarkable_printer",
-            "stars": 298,
+            "stars": 299,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:30:18.286Z",
+    "last_updated": "2026-10-06T16:50:56.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
