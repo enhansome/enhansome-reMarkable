@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T12:56:24Z",
-                "open_issues": 66,
+                "open_issues": 68,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1351,
+                "stars": 1352,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -44,7 +44,7 @@
                 "open_issues": 13,
                 "owner": "splitbrain",
                 "repo": "ReMarkableAPI",
-                "stars": 422,
+                "stars": 421,
                 "topics": [
                   "api",
                   "remarkable-tablet",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T16:33:01Z",
-            "open_issues": 1371,
+            "last_commit": "2026-10-07T15:16:00Z",
+            "open_issues": 1367,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30133,
+            "stars": 30146,
             "topics": [
               "cbz",
               "djvu",
@@ -703,7 +703,7 @@
             "id": 1402446668,
             "language": "QML",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-06T16:30:06Z",
+            "last_commit": "2026-10-06T17:18:22Z",
             "open_issues": 0,
             "owner": "iacobucci",
             "repo": "rm-ssh-explorer",
@@ -2020,7 +2020,7 @@
             "open_issues": 9,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 377,
+            "stars": 379,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2327,7 +2327,7 @@
             "open_issues": 1,
             "owner": "NohamR",
             "repo": "RMHook-iOS",
-            "stars": 0,
+            "stars": 1,
             "topics": [
               "remarkable",
               "remarkable-tablet",
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T16:50:56.251Z",
+    "last_updated": "2026-10-07T17:27:19.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 17,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7740,
+      "stars": 7737,
       "topics": [
         "awesome",
         "awesome-list",
