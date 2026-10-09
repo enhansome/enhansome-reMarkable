@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 331,
+                "stars": 332,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -254,7 +254,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-05T15:16:15Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "ricklupton",
                 "repo": "rmscene",
                 "stars": 152,
@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "canselcik",
                 "repo": "libremarkable",
-                "stars": 707,
+                "stars": 708,
                 "topics": [
                   "digitizer",
                   "framebuffer",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-08T15:47:04Z",
-            "open_issues": 1372,
+            "last_commit": "2026-10-09T16:11:26Z",
+            "open_issues": 1371,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30167,
+            "stars": 30187,
             "topics": [
               "cbz",
               "djvu",
@@ -1070,7 +1070,7 @@
             "id": 323155047,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-22T03:57:15Z",
+            "last_commit": "2026-10-09T15:00:27Z",
             "open_issues": 2,
             "owner": "fishy",
             "repo": "url2epub",
@@ -1825,7 +1825,7 @@
             "open_issues": 4,
             "owner": "PepikVaio",
             "repo": "reMarkable_re-Planner",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "calendar",
               "kalendar",
@@ -2934,7 +2934,7 @@
             "open_issues": 29,
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
-            "stars": 636,
+            "stars": 637,
             "topics": [
               "graphics-tablet",
               "remarkable-tablet",
@@ -2959,7 +2959,7 @@
             "open_issues": 7,
             "owner": "GjjvdBurg",
             "repo": "paper2remarkable",
-            "stars": 384,
+            "stars": 385,
             "topics": [
               "arxiv",
               "remarkable",
@@ -3585,7 +3585,7 @@
             "open_issues": 1,
             "owner": "siraben",
             "repo": "nix-remarkable",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "remarkable-tablet"
             ]
@@ -3655,7 +3655,7 @@
             "open_issues": 0,
             "owner": "Neurone",
             "repo": "reMarkable",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "customization",
               "linux",
@@ -3729,7 +3729,7 @@
             "open_issues": 0,
             "owner": "LinusCDE",
             "repo": "rmTabletDriver",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "remarkable-tablet"
             ]
@@ -3878,6 +3878,40 @@
         },
         {
           "node_type": "item",
+          "title": "rmathlab",
+          "description": "A Linux toolset for the reMarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Linux toolset for the Remarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.",
+            "homepage": null,
+            "id": 937752751,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2025-03-07T21:03:01Z",
+            "open_issues": 0,
+            "owner": "Samdney",
+            "repo": "rmathlab",
+            "stars": 15,
+            "topics": [
+              "equation",
+              "handwriting-recognition",
+              "latex",
+              "math",
+              "mathematics",
+              "mathpix",
+              "notebook",
+              "notes",
+              "remarkable",
+              "remarkable-2",
+              "remarkable-tablet",
+              "tex"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "send_by_rmapi",
           "description": "A Calibre plugin to send books to your reMarkable, making use of rmapi.",
           "children": [],
@@ -3918,40 +3952,6 @@
               "anki",
               "cli",
               "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "rmathlab",
-          "description": "A Linux toolset for the reMarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Linux toolset for the Remarkable 2 tablet, which enables math handwriting recognition and LaTeX generation over USB via Mathpix.",
-            "homepage": null,
-            "id": 937752751,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2025-03-07T21:03:01Z",
-            "open_issues": 0,
-            "owner": "Samdney",
-            "repo": "rmathlab",
-            "stars": 14,
-            "topics": [
-              "equation",
-              "handwriting-recognition",
-              "latex",
-              "math",
-              "mathematics",
-              "mathpix",
-              "notebook",
-              "notes",
-              "remarkable",
-              "remarkable-2",
-              "remarkable-tablet",
-              "tex"
             ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -4093,7 +4093,7 @@
             "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "nixos",
               "remarkable-paper-pro-move",
@@ -4241,7 +4241,7 @@
             "open_issues": 27,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 753,
+            "stars": 754,
             "topics": [
               "golang",
               "remarkable-tablet"
@@ -4361,7 +4361,7 @@
             "open_issues": 2,
             "owner": "Pyrrhu5",
             "repo": "pipes-and-paper-enhanced",
-            "stars": 56,
+            "stars": 57,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -4382,7 +4382,7 @@
             "open_issues": 2,
             "owner": "asivery",
             "repo": "appload-rmstream",
-            "stars": 15,
+            "stars": 16,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:25:55.012Z",
+    "last_updated": "2026-10-09T17:02:09.855Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
