@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-10T12:56:24Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1353,
+                "stars": 1356,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-10T10:15:21Z",
-            "open_issues": 1374,
+            "last_commit": "2026-10-11T15:01:42Z",
+            "open_issues": 1378,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30210,
+            "stars": 30238,
             "topics": [
               "cbz",
               "djvu",
@@ -953,7 +953,7 @@
             "open_issues": 2,
             "owner": "Evidlo",
             "repo": "remarkable_syncthing",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "remarkable-tablet",
               "syncthing"
@@ -1070,7 +1070,7 @@
             "id": 323155047,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T15:00:27Z",
+            "last_commit": "2026-10-11T03:23:04Z",
             "open_issues": 2,
             "owner": "fishy",
             "repo": "url2epub",
@@ -2017,10 +2017,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-03T21:39:15Z",
-            "open_issues": 9,
+            "open_issues": 12,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 381,
+            "stars": 384,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2446,7 +2446,7 @@
             "open_issues": 4,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
-            "stars": 132,
+            "stars": 133,
             "topics": [
               "remarkable-paper-pro",
               "remarkable-tablet"
@@ -2934,7 +2934,7 @@
             "open_issues": 29,
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
-            "stars": 637,
+            "stars": 638,
             "topics": [
               "graphics-tablet",
               "remarkable-tablet",
@@ -2984,7 +2984,7 @@
             "open_issues": 22,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "epub",
               "frof",
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:53:47.756Z",
+    "last_updated": "2026-10-11T16:20:44.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 18,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7740,
+      "stars": 7743,
       "topics": [
         "awesome",
         "awesome-list",
