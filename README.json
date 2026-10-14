@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-13T14:50:29Z",
-            "open_issues": 1387,
+            "last_commit": "2026-10-14T09:56:17Z",
+            "open_issues": 1389,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30290,
+            "stars": 30316,
             "topics": [
               "cbz",
               "djvu",
@@ -726,8 +726,8 @@
                 "id": 453542805,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-02T01:52:11Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-14T13:09:04Z",
+                "open_issues": 2,
                 "owner": "hafacc",
                 "repo": "repub",
                 "stars": 93,
@@ -927,7 +927,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-08T16:06:49Z",
-            "open_issues": 21,
+            "open_issues": 20,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
             "stars": 246,
@@ -1475,8 +1475,8 @@
             "id": 1295664380,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T05:12:15Z",
-            "open_issues": 18,
+            "last_commit": "2026-10-14T08:46:42Z",
+            "open_issues": 19,
             "owner": "gabrielanhaia",
             "repo": "remarkable-brain",
             "stars": 13,
@@ -2068,7 +2068,7 @@
             "open_issues": 12,
             "owner": "peerdavid",
             "repo": "remapy",
-            "stars": 183,
+            "stars": 182,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2404,7 +2404,7 @@
             "open_issues": 11,
             "owner": "asivery",
             "repo": "rm-hacks-qmd",
-            "stars": 227,
+            "stars": 226,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2467,10 +2467,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-06T12:02:44Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "asivery",
             "repo": "rm-appload",
-            "stars": 107,
+            "stars": 108,
             "topics": [
               "qml",
               "remarkable-tablet"
@@ -2813,6 +2813,31 @@
         },
         {
           "node_type": "item",
+          "title": "xovi-qmd-extensions (NohamR)",
+          "description": "NohamR/xovi-qmd-extensions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "My modifications to QoL improvements for reMarkable tablets using xovi",
+            "homepage": null,
+            "id": 1081085151,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-07-17T13:07:13Z",
+            "open_issues": 1,
+            "owner": "NohamR",
+            "repo": "xovi-qmd-extensions",
+            "stars": 7,
+            "topics": [
+              "qt-resource-rebuilder",
+              "xovi",
+              "xovi-qmd-extensions"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "Signature-rM",
           "description": "Remove the signature from the bottom of emails sent from the device.",
           "children": [],
@@ -2835,31 +2860,6 @@
               "remarkable-2",
               "remarkable-tablet",
               "signature"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "xovi-qmd-extensions (NohamR)",
-          "description": "NohamR/xovi-qmd-extensions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "My modifications to QoL improvements for reMarkable tablets using xovi",
-            "homepage": null,
-            "id": 1081085151,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-07-17T13:07:13Z",
-            "open_issues": 1,
-            "owner": "NohamR",
-            "repo": "xovi-qmd-extensions",
-            "stars": 6,
-            "topics": [
-              "qt-resource-rebuilder",
-              "xovi",
-              "xovi-qmd-extensions"
             ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -3513,7 +3513,7 @@
             "id": 487516230,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T15:29:17Z",
+            "last_commit": "2026-10-14T10:56:12Z",
             "open_issues": 21,
             "owner": "Scrybbling-together",
             "repo": "remarks",
@@ -4040,7 +4040,7 @@
             "id": 1295282743,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-12T00:07:10Z",
+            "last_commit": "2026-10-14T13:15:27Z",
             "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
@@ -4137,7 +4137,7 @@
             "id": 1295893972,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-07-28T15:47:42Z",
+            "last_commit": "2026-10-14T13:13:49Z",
             "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "chiappa",
@@ -4191,7 +4191,7 @@
             "open_issues": 12,
             "owner": "rien",
             "repo": "reStream",
-            "stars": 871,
+            "stars": 872,
             "topics": [
               "ffmpeg",
               "framebuffer",
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:38:57.580Z",
+    "last_updated": "2026-10-14T15:12:43.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 18,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7755,
+      "stars": 7759,
       "topics": [
         "awesome",
         "awesome-list",
