@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-16T11:39:58Z",
-            "open_issues": 1395,
+            "last_commit": "2026-10-17T08:35:01Z",
+            "open_issues": 1392,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30355,
+            "stars": 30377,
             "topics": [
               "cbz",
               "djvu",
@@ -727,7 +727,7 @@
                 "language": "TypeScript",
                 "license": "MIT",
                 "last_commit": "2026-10-14T16:37:06Z",
-                "open_issues": 2,
+                "open_issues": 1,
                 "owner": "hafacc",
                 "repo": "repub",
                 "stars": 93,
@@ -930,7 +930,7 @@
             "open_issues": 22,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 249,
+            "stars": 250,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1431,7 +1431,7 @@
             "open_issues": 0,
             "owner": "paviro",
             "repo": "Syncthing-for-reMarkable",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "remarkable",
               "remarkable-paper-pro",
@@ -1614,7 +1614,7 @@
             "open_issues": 22,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1531,
+            "stars": 1532,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -2641,7 +2641,7 @@
             "id": 944724982,
             "language": "QML",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-24T17:42:29Z",
+            "last_commit": "2026-10-17T09:28:37Z",
             "open_issues": 2,
             "owner": "ingatellent",
             "repo": "xovi-qmd-extensions",
@@ -4040,7 +4040,7 @@
             "id": 1295282743,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-15T22:40:57Z",
+            "last_commit": "2026-10-16T17:00:32Z",
             "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:54:45.208Z",
+    "last_updated": "2026-10-17T13:47:12.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 18,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7761,
+      "stars": 7762,
       "topics": [
         "awesome",
         "awesome-list",
