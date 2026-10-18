@@ -21,7 +21,7 @@
                 "open_issues": 70,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1357,
+                "stars": 1358,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T08:35:01Z",
-            "open_issues": 1392,
+            "last_commit": "2026-10-18T08:52:04Z",
+            "open_issues": 1393,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30377,
+            "stars": 30399,
             "topics": [
               "cbz",
               "djvu",
@@ -2017,7 +2017,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-03T21:39:15Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "rmitchellscott",
             "repo": "reManager",
             "stars": 388,
@@ -2490,7 +2490,7 @@
             "id": 918612096,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-09-11T14:57:31Z",
+            "last_commit": "2026-10-18T09:45:00Z",
             "open_issues": 7,
             "owner": "FouzR",
             "repo": "xovi-extensions",
@@ -2641,7 +2641,7 @@
             "id": 944724982,
             "language": "QML",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-17T09:28:37Z",
+            "last_commit": "2026-10-17T17:26:27Z",
             "open_issues": 2,
             "owner": "ingatellent",
             "repo": "xovi-qmd-extensions",
@@ -3284,7 +3284,7 @@
             "open_issues": 7,
             "owner": "hersle",
             "repo": "rmirro",
-            "stars": 125,
+            "stars": 126,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:47:12.072Z",
+    "last_updated": "2026-10-18T14:02:47.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
