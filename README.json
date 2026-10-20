@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-19T13:40:50Z",
-                "open_issues": 66,
+                "open_issues": 65,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1358,
+                "stars": 1360,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 340,
+                "stars": 341,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-19T15:28:57Z",
-            "open_issues": 1396,
+            "last_commit": "2026-10-20T11:55:31Z",
+            "open_issues": 1386,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30443,
+            "stars": 30462,
             "topics": [
               "cbz",
               "djvu",
@@ -722,7 +722,7 @@
               "repo_info": {
                 "archived": false,
                 "description": "reMarkable ePub generator",
-                "homepage": "https://chrome.google.com/webstore/detail/repub/blkjpagbjaekkpojgcgdapmikoaolpbl",
+                "homepage": "https://chromewebstore.google.com/detail/repub/blkjpagbjaekkpojgcgdapmikoaolpbl",
                 "id": 453542805,
                 "language": "TypeScript",
                 "license": "MIT",
@@ -1825,7 +1825,7 @@
             "open_issues": 4,
             "owner": "PepikVaio",
             "repo": "reMarkable_re-Planner",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "calendar",
               "kalendar",
@@ -2608,6 +2608,32 @@
         },
         {
           "node_type": "item",
+          "title": "xovi-qmd-extensions (ingatellent)",
+          "description": "ingatellent/xovi-qmd-extensions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "QoL qmd extension for xovi",
+            "homepage": null,
+            "id": 944724982,
+            "language": "QML",
+            "license": "GPL-2.0",
+            "last_commit": "2026-10-17T17:26:27Z",
+            "open_issues": 2,
+            "owner": "ingatellent",
+            "repo": "xovi-qmd-extensions",
+            "stars": 31,
+            "topics": [
+              "remarkable-2",
+              "remarkable-paper-pro",
+              "remarkable-paper-pro-move",
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "xovi-qmd-extensions (rmitchellscott)",
           "description": "rmitchellscott/xovi-qmd-extensions",
           "children": [],
@@ -2624,32 +2650,6 @@
             "repo": "xovi-qmd-extensions",
             "stars": 31,
             "topics": [
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "xovi-qmd-extensions (ingatellent)",
-          "description": "ingatellent/xovi-qmd-extensions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "QoL qmd extension for xovi",
-            "homepage": null,
-            "id": 944724982,
-            "language": "QML",
-            "license": "GPL-2.0",
-            "last_commit": "2026-10-17T17:26:27Z",
-            "open_issues": 2,
-            "owner": "ingatellent",
-            "repo": "xovi-qmd-extensions",
-            "stars": 30,
-            "topics": [
-              "remarkable-2",
-              "remarkable-paper-pro",
-              "remarkable-paper-pro-move",
               "remarkable-tablet"
             ]
           },
@@ -2934,7 +2934,7 @@
             "open_issues": 30,
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
-            "stars": 639,
+            "stars": 640,
             "topics": [
               "graphics-tablet",
               "remarkable-tablet",
@@ -2984,7 +2984,7 @@
             "open_issues": 22,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 346,
+            "stars": 347,
             "topics": [
               "epub",
               "frof",
@@ -3181,7 +3181,7 @@
             "open_issues": 23,
             "owner": "jamesf91",
             "repo": "reMarkableSync",
-            "stars": 178,
+            "stars": 179,
             "topics": [
               "onenote-addin",
               "remarkable-tablet"
@@ -4040,7 +4040,7 @@
             "id": 1295282743,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-19T13:35:29Z",
+            "last_commit": "2026-10-19T20:32:09Z",
             "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
@@ -4137,7 +4137,7 @@
             "id": 1295893972,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-10-15T22:36:18Z",
+            "last_commit": "2026-10-19T17:46:48Z",
             "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "chiappa",
@@ -4241,7 +4241,7 @@
             "open_issues": 28,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 756,
+            "stars": 757,
             "topics": [
               "golang",
               "remarkable-tablet"
@@ -4265,7 +4265,7 @@
             "open_issues": 24,
             "owner": "matteodelabre",
             "repo": "vnsee",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "remarkable-tablet",
               "vnc-client"
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T17:00:04.400Z",
+    "last_updated": "2026-10-20T15:09:52.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 19,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7765,
+      "stars": 7768,
       "topics": [
         "awesome",
         "awesome-list",

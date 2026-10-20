@@ -1,6 +1,6 @@
 # Awesome reMarkable with stars
 
-# [<img src="Awesome.png"></p>](https://github.com/sindresorhus/awesome) ⭐ 521,342 | 🐛 105 | 📅 2026-09-02
+# [<img src="Awesome.png"></p>](https://github.com/sindresorhus/awesome) ⭐ 521,787 | 🐛 105 | 📅 2026-09-02
 
 The [reMarkable](https://www.remarkable.com) is a paper tablet for those who prefer writing on paper. Its remarkably fast paper-white display, Linux based operating system and awesome community make it highly attractive amongst hackers and developers.
 
@@ -52,9 +52,9 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ### Cloud API
 
-* [rmfakecloud](https://github.com/ddvk/rmfakecloud) ⭐ 1,358 | 🐛 66 | 🌐 Go | 📅 2026-10-19 - Fake Cloud Sync, server implementation of the Cloud API.
+* [rmfakecloud](https://github.com/ddvk/rmfakecloud) ⭐ 1,360 | 🐛 65 | 🌐 Go | 📅 2026-10-19 - Fake Cloud Sync, server implementation of the Cloud API.
 * (Unmaintained) [reMarkableAPI](https://github.com/splitbrain/ReMarkableAPI) ⚠️ Archived - Docs and implementation of the reMarkable file sync API.
-* [rMAPI](https://github.com/ddvk/rmapi) ⭐ 340 | 🐛 20 | 🌐 Go | 📅 2026-08-23 ReMarkable Cloud Go API.
+* [rMAPI](https://github.com/ddvk/rmapi) ⭐ 341 | 🐛 20 | 🌐 Go | 📅 2026-08-23 ReMarkable Cloud Go API.
 * (Unmaintained) [rmapy](https://github.com/subutux/rmapy) ⚠️ Archived - ReMarkable Cloud Python API.
 * (Unmaintained) [google-drive-remarkable-sync](https://github.com/bsdz/google-drive-remarkable-sync) ⚠️ Archived - Apps Script API for reMarkable Cloud. Includes Synchronizer capability to automate mirroring of documents from Google Drive to reMarkable Cloud.
 * (Unmaintained) [reMarkable-typescript](https://github.com/Ogdentrod/reMarkable-typescript) ⚠️ Archived - TypeScript API for reMarkable Cloud.
@@ -79,11 +79,11 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ## Applications
 
-* [KOReader](https://github.com/koreader/koreader) ⭐ 30,443 | 🐛 1,396 | 🌐 Lua | 📅 2026-10-19 - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.
+* [KOReader](https://github.com/koreader/koreader) ⭐ 30,462 | 🐛 1,386 | 🌐 Lua | 📅 2026-10-20 - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats.
 * [whiteboard-hypercard](https://github.com/fenollp/reMarkable-tools) ⭐ 235 | 🐛 29 | 🌐 Rust | 📅 2026-09-09 - Live collaboration, drawing, chat, whiteboarding.
 * [reMarkable keywriter](https://github.com/dps/remarkable-keywriter) ⭐ 227 | 🐛 17 | 🌐 QML | 📅 2024-01-13 - A distraction free keyboard notes app.
 * [reMarkable wikipedia](https://github.com/dps/remarkable-wikipedia) ⭐ 175 | 🐛 13 | 🌐 QML | 📅 2022-03-16 - Offline wikipedia reader for reMarkable.
-* [darvin/plato](https://github.com/darvin/plato) ⭐ 123 | 🐛 9 | 🌐 Rust | 📅 2019-01-12 [LinusCDE/plato](https://github.com/LinusCDE/plato) ⭐ 53 | 🐛 4 | 🌐 Rust | 📅 2025-09-17 - Plato reader port. Supports pdfs, epubs, many other formats.
+* [darvin/plato](https://github.com/darvin/plato) ⭐ 123 | 🐛 9 | 🌐 Rust | 📅 2019-01-12 [LinusCDE/plato](https://github.com/LinusCDE/plato) ⭐ 53 | 🐛 5 | 🌐 Rust | 📅 2025-09-17 - Plato reader port. Supports pdfs, epubs, many other formats.
 * [Rebook](https://github.com/fsniper/ReBook) ⭐ 89 | 🐛 1 | 🌐 C++ | 📅 2023-08-29 - The missing book store for reMarkable.
 * [reGenda](https://github.com/tenJirka/reGenda) ⭐ 37 | 🐛 2 | 🌐 Python | 📅 2023-10-20 - An agenda-based calendar for reMarkable.
 * (Unmaintained) [remarkaBot](https://github.com/Davide95/remarkaBot) ⚠️ Archived - Fetch your documents from Telegram.
@@ -154,7 +154,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 * [blank\_slate\_pdf](https://github.com/sowcow/blank_slate_pdf) ⭐ 33 | 🐛 11 | 🌐 Rust | 📅 2026-08-14 - Flexible PDFs for nested lists or experiments with no predefined template, separate simple calendar, customization using ruby code.
 * [reMarkable\_templates](https://github.com/steka/reMarkable_templates) ⭐ 22 | 🐛 0 | 📅 2024-03-07 - White lines/squares on gray background.
 * [reMarkabletemplates](https://github.com/equivocates/remarkabletemplates/) ⭐ 20 | 🐛 0 | 📅 2024-10-07 - Planner per 1 or 3 weeks.
-* [re-Planner](https://github.com/PepikVaio/reMarkable_re-Planner) ⭐ 7 | 🐛 4 | 📅 2025-12-27 - Watermarked PDF calendar for reMarkable 1 and 2. You can pay to remove the watermark, and to receive a customized version.
+* [re-Planner](https://github.com/PepikVaio/reMarkable_re-Planner) ⭐ 8 | 🐛 4 | 📅 2025-12-27 - Watermarked PDF calendar for reMarkable 1 and 2. You can pay to remove the watermark, and to receive a customized version.
 * [Mobile UX Sketching Templates](https://github.com/Martes-Delta-Co/Remarkable-Mobile-Prototyping-Templates) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2026-06-10 - Mobile phone templates with 12 column layouts, grids, and multiple combinations of 1/2/4-up layouts with space for note-taking, in iPhone and Android flavors, in Methods format, so you can swap templates on each page of a notebook
 * [remarkable-engineering](https://gitlab.com/asciipip/remarkable-engineering) - Engineering-style grid templates.
 
@@ -178,7 +178,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ## GUI Clients
 
-* [reManager](https://github.com/rmitchellscott/reManager) ⭐ 390 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-03 - Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets using the [Vellum](https://github.com/vellum-dev/vellum) ⭐ 135 | 🐛 12 | 🌐 Shell | 📅 2026-10-09 package manager.
+* [reManager](https://github.com/rmitchellscott/reManager) ⭐ 390 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-03 - Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets using the [Vellum](https://github.com/vellum-dev/vellum) ⭐ 136 | 🐛 13 | 🌐 Shell | 📅 2026-10-09 package manager.
 * [ReMy](https://github.com/bordaigorl/remy) ⭐ 309 | 🐛 25 | 🌐 Python | 📅 2025-05-11 - A GUI to browse, preview documents, export documents with custom settings, all via SSH (no cloud needed); works from local raw backups too.
 * [RemaPy](https://github.com/peerdavid/remapy) ⭐ 182 | 🐛 12 | 🌐 Python | 📅 2022-07-29 - GUI to browse, download/upload files and backup the tablet (also on Linux) using the cloud.
 * [reMarkable-assistant](https://github.com/richeymichael/remarkable-assistant) ⭐ 180 | 🐛 16 | 🌐 Python | 📅 2021-05-29 - Manage templates, splash screens, and settings on your reMarkable tablet.
@@ -219,17 +219,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 * [WebInterface-OnBoot](https://github.com/rM-self-serve/webinterface-onboot) ⭐ 45 | 🐛 5 | 🌐 Shell | 📅 2024-08-18 - Enable the web interface on boot.
 * [WebInterface-Wifi](https://github.com/rM-self-serve/webinterface-wifi) ⭐ 43 | 🐛 4 | 🌐 Rust | 📅 2025-02-04 - View the web interface if running, over wifi.
 * [xovi-tripletap](https://github.com/rmitchellscott/xovi-tripletap) ⭐ 40 | 🐛 1 | 🌐 Shell | 📅 2026-09-22 - Start xovi with a triple-press of the power button.
-* [xovi-qmd-extensions (rmitchellscott)](https://github.com/rmitchellscott/xovi-qmd-extensions) ⭐ 31 | 🐛 3 | 🌐 Shell | 📅 2026-09-24
-  * `createPagesPaperProSize` - Override new page creation to use Paper Pro dimensions.
-  * `createPagesRM2Size` - Override new page creation to use reMarkable 2 dimensions.
-  * `disableSelectionAutoScroll` - Disable auto scrolling when moving a selection.
-  * `hideDevModeIcon` - Hide the developer mode icon next to the battery icon.
-  * `hideZoomIndicator` - Auto-hide zoom indicator after 4 seconds.
-  * `miniLightSleep` - Replaces the light sleep banner with text saying "Sleeping" with a white background at the top right of the screen.
-  * `preventNotebookZoomOut` - Forces all notebook pages to start at 1x zoom with optional horizontal offset. Designed for the Paper Pro Move.
-  * `quickSettingsScreenshot` - Adds a screenshot button to the quick settings menu.
-  * `unlockMethodsContent` - Bypass subscription check for using on-device Methods templates and documents.
-* [xovi-qmd-extensions (ingatellent)](https://github.com/ingatellent/xovi-qmd-extensions) ⭐ 30 | 🐛 2 | 🌐 QML | 📅 2026-10-17
+* [xovi-qmd-extensions (ingatellent)](https://github.com/ingatellent/xovi-qmd-extensions) ⭐ 31 | 🐛 2 | 🌐 QML | 📅 2026-10-17
   * `changeVerticalJump` - Increase page scroll distance.
   * `delayStrokeRefresh` - Delay refresh after a colored stroke.
   * `enableAllColors` - Enable full color palette on greyscale devices.
@@ -242,6 +232,16 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
   * `hidePageLabelsInFullscreen` - Hide page numbers at the bottom of the screen when the toolbar is hidden.
   * `hideShowToolbar` - Hide the button for showing/hiding the toolbar.
   * `miniLightSleep` - Show a line of text at the bottom right corner instead of the light sleep banner.
+* [xovi-qmd-extensions (rmitchellscott)](https://github.com/rmitchellscott/xovi-qmd-extensions) ⭐ 31 | 🐛 3 | 🌐 Shell | 📅 2026-09-24
+  * `createPagesPaperProSize` - Override new page creation to use Paper Pro dimensions.
+  * `createPagesRM2Size` - Override new page creation to use reMarkable 2 dimensions.
+  * `disableSelectionAutoScroll` - Disable auto scrolling when moving a selection.
+  * `hideDevModeIcon` - Hide the developer mode icon next to the battery icon.
+  * `hideZoomIndicator` - Auto-hide zoom indicator after 4 seconds.
+  * `miniLightSleep` - Replaces the light sleep banner with text saying "Sleeping" with a white background at the top right of the screen.
+  * `preventNotebookZoomOut` - Forces all notebook pages to start at 1x zoom with optional horizontal offset. Designed for the Paper Pro Move.
+  * `quickSettingsScreenshot` - Adds a screenshot button to the quick settings menu.
+  * `unlockMethodsContent` - Bypass subscription check for using on-device Methods templates and documents.
 * [rM-signature-patch](https://github.com/Barabazs/rM-signature-patch) ⭐ 22 | 🐛 0 | 🌐 Shell | 📅 2024-03-29 - Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.
 * [reLuminate](https://github.com/unreMarkableLabs/reLuminate) ⭐ 17 | 🐛 1 | 🌐 Shell | 📅 2025-12-02 - Enable enhanced screen brightness levels on the reMarkable Paper Pro.
 * [WebInterface-Upload-Button](https://github.com/rM-self-serve/webinterface-upload-button) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2024-07-01 - Upload button for the web interface, alternative to drag and drop.
@@ -282,9 +282,9 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ## Other
 
-* [reMarkable\_mouse](https://github.com/evidlo/remarkable_mouse) ⭐ 639 | 🐛 30 | 🌐 Python | 📅 2026-08-15 - Use your reMarkable as a graphics tablet.
+* [reMarkable\_mouse](https://github.com/evidlo/remarkable_mouse) ⭐ 640 | 🐛 30 | 🌐 Python | 📅 2026-08-15 - Use your reMarkable as a graphics tablet.
 * [paper2reMarkable](https://github.com/GjjvdBurg/paper2remarkable) ⭐ 385 | 🐛 7 | 🌐 Python | 📅 2025-02-16 - Download an academic paper or HTML article, crop it, and send it to the reMarkable with a single command.
-* [Goosepaper](https://github.com/j6k4m8/goosepaper) ⭐ 346 | 🐛 22 | 🌐 Python | 📅 2026-10-05: Deliver prettily-formatted RSS feeds, news articles, Wikipedia articles-of-the-day, and more to your reMarkable tablet.
+* [Goosepaper](https://github.com/j6k4m8/goosepaper) ⭐ 347 | 🐛 22 | 🌐 Python | 📅 2026-10-05: Deliver prettily-formatted RSS feeds, news articles, Wikipedia articles-of-the-day, and more to your reMarkable tablet.
 * [remarkable\_news](https://github.com/evidlo/remarkable_news) ⭐ 302 | 🐛 4 | 🌐 Go | 📅 2026-04-08 - Use daily news/comics/images as the suspend screen.
 * [remarkable\_printer](https://github.com/Evidlo/remarkable_printer) ⭐ 300 | 🐛 6 | 🌐 Go | 📅 2026-03-30 - Print from any device to reMarkable without browser extensions or reMarkable cloud.
 * [reMouseable](https://github.com/kevinconway/remouseable) ⭐ 253 | 🐛 9 | 🌐 C | 📅 2024-09-20 - Use your reMarkable tablet as a mouse.
@@ -292,7 +292,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 * [morningpaper2reMarkable](https://github.com/jessfraz/morningpaper2remarkable) ⭐ 230 | 🐛 4 | 🌐 Go | 📅 2023-02-23 - A bot to sync the morning paper to a reMarkable tablet.
 * [reMarkable\_entware](http://github.com/evidlo/remarkable_entware) ⭐ 193 | 🐛 6 | 🌐 Shell | 📅 2024-12-27 - Package manager for reMarkable.  Install common Unix utilities through the command line.
 * [pocket2rm](https://github.com/glidergeek/pocket2rm) ⭐ 192 | 🐛 12 | 🌐 Go | 📅 2023-02-01 - Synchronize articles from read-later platform pocket in PDF and epub.
-* [reMarkableSync](https://github.com/jamesf91/reMarkableSync) ⭐ 178 | 🐛 23 | 🌐 C# | 📅 2024-11-09 - A Microsoft OneNote addin for importing notebooks from reMarkable as text or images.
+* [reMarkableSync](https://github.com/jamesf91/reMarkableSync) ⭐ 179 | 🐛 23 | 🌐 C# | 📅 2024-11-09 - A Microsoft OneNote addin for importing notebooks from reMarkable as text or images.
 * [reHackable/maxio](https://github.com/reHackable/maxio) ⭐ 166 | 🐛 21 | 🌐 Shell | 📅 2022-05-05 - Companion daemon for the reMarkable paper tablet.
 * [reMarkablePocket](https://github.com/nov1n/RemarkablePocket) ⭐ 163 | 🐛 0 | 🌐 Java | 📅 2025-05-19 - Synchronize articles from read-later platform Pocket in epub format.
 * [remailable](https://github.com/j6k4m8/remailable) ⭐ 139 | 🐛 16 | 🌐 Python | 📅 2021-12-23 - Email PDFs directly to your reMarkable. ([Free publicly-hosted version available](https://remailable.getneutrality.org/)).
@@ -332,7 +332,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 * [rm-pySAS](https://github.com/tenJirka/rm-pySAS) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2023-08-25 - Python wrapper for [simple](https://rmkit.dev/apps/sas).
 * [remarkable-ssh](https://github.com/Penguin-Guru/remarkable-ssh) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2026-03-05 - A bash script to manage files on reMarkable devices via CLI and SSH.
 * [remarkable-api](https://github.com/Penguin-Guru/remarkable-api) ⭐ 2 | 🐛 1 | 🌐 Shell | 📅 2026-02-19 - A simple bash script to interact with reMarkable devices' USB Web Interface.
-* [chiappa](https://github.com/gitman-101111/chiappa) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2026-10-15 - e-Ink bridge/miscellaneous scripts and tools to port other OS's to a reMarkable Pro Paper Move.
+* [chiappa](https://github.com/gitman-101111/chiappa) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2026-10-19 - e-Ink bridge/miscellaneous scripts and tools to port other OS's to a reMarkable Pro Paper Move.
 * [reCalibre-Driver](https://github.com/zer0trip/reCalibre) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-07-27 - A Calibre plugin for syncing books to a reMarkable, via KOReader or the native UI.
 * [Drawj2d](https://drawj2d.sourceforge.io/) - Create technical line drawings on an editable reMarkable notebook page. ([Guidance how to upload](https://sourceforge.net/p/drawj2d/wiki/reMarkable/) the page to the device using rMAPI.)
 * [microSD](http://www.davisr.me/projects/remarkable-microsd/) - Tutorial for adding a microSD card reader to the reMarkable 1.
@@ -343,8 +343,8 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 * [reStream](https://github.com/rien/reStream) ⭐ 872 | 🐛 12 | 🌐 Shell | 📅 2026-06-10 - Stream your reMarkable screen over SSH.
 * [rMview](https://github.com/bordaigorl/rmview) ⭐ 826 | 🐛 47 | 🌐 Python | 📅 2025-10-08 - A fast GUI to stream your reMarkable screen over vanilla-SSH or VNC.
-* [goMarkableStream](https://github.com/owulveryck/goMarkableStream) ⭐ 756 | 🐛 28 | 🌐 Go | 📅 2026-09-11 - Stream the screen of the reMarkable 2 (FW 2.5) easily (client/server in Go with no installation) along with the colors (with FW > 2.11.x).
-* [VNSee](https://github.com/matteodelabre/vnsee) ⭐ 304 | 🐛 24 | 🌐 C++ | 📅 2021-08-29 - VNC client for the reMarkable tablet allowing you to use the device as a second screen.
+* [goMarkableStream](https://github.com/owulveryck/goMarkableStream) ⭐ 757 | 🐛 28 | 🌐 Go | 📅 2026-09-11 - Stream the screen of the reMarkable 2 (FW 2.5) easily (client/server in Go with no installation) along with the colors (with FW > 2.11.x).
+* [VNSee](https://github.com/matteodelabre/vnsee) ⭐ 305 | 🐛 24 | 🌐 C++ | 📅 2021-08-29 - VNC client for the reMarkable tablet allowing you to use the device as a second screen.
 * [srvfb](https://github.com/merovius/srvfb) ⭐ 246 | 🐛 8 | 🌐 Go | 📅 2023-10-03 - Alternative screen-streaming software. Written in Go.
 * [rM-vnc-server](https://github.com/peter-sa/rM-vnc-server) ⭐ 88 | 🐛 9 | 🌐 C | 📅 2021-07-06 - A fast & efficient damage-tracking (sending only updated regions) VNC server for streaming the reMarkable's screen.
 * (Unmaintained) [pipes and rust](https://github.com/AnyTimeTraveler/pipes-and-rust) ⭐ 66 | 🐛 0 | 🌐 HTML | 📅 2026-09-03 - (Made for rM2) Stream pen strokes to browser. A single executable on the reMarkable that hosts a tiny webserver in the local WLAN.
@@ -354,4 +354,4 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
