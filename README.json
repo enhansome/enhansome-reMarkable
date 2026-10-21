@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-20T11:55:31Z",
-            "open_issues": 1386,
+            "last_commit": "2026-10-21T14:38:12Z",
+            "open_issues": 1388,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30462,
+            "stars": 30494,
             "topics": [
               "cbz",
               "djvu",
@@ -514,8 +514,8 @@
             "id": 256574460,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T06:45:52Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-21T01:06:09Z",
+            "open_issues": 30,
             "owner": "fenollp",
             "repo": "reMarkable-tools",
             "stars": 235,
@@ -703,7 +703,7 @@
             "id": 1402446668,
             "language": "QML",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-06T17:18:22Z",
+            "last_commit": "2026-10-21T14:02:17Z",
             "open_issues": 0,
             "owner": "iacobucci",
             "repo": "rm-ssh-explorer",
@@ -930,7 +930,7 @@
             "open_issues": 22,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 250,
+            "stars": 252,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2020,7 +2020,7 @@
             "open_issues": 13,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 390,
+            "stars": 391,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2358,7 +2358,7 @@
             "open_issues": 165,
             "owner": "mb1986",
             "repo": "rm-hacks",
-            "stars": 664,
+            "stars": 663,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2470,7 +2470,7 @@
             "open_issues": 11,
             "owner": "asivery",
             "repo": "rm-appload",
-            "stars": 108,
+            "stars": 110,
             "topics": [
               "qml",
               "remarkable-tablet"
@@ -2984,7 +2984,7 @@
             "open_issues": 22,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 347,
+            "stars": 353,
             "topics": [
               "epub",
               "frof",
@@ -3257,7 +3257,7 @@
             "open_issues": 16,
             "owner": "remailable",
             "repo": "remailable",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "email",
               "ohp",
@@ -3761,6 +3761,29 @@
         },
         {
           "node_type": "item",
+          "title": "RMPP Entware",
+          "description": "Package manager for reMarkable Paper Pro. Install okpg package manager.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "RMPP Entware allows you to install additional software packages from the Entware repositories on your reMarkable device.",
+            "homepage": null,
+            "id": 907047242,
+            "language": "Shell",
+            "license": "MIT",
+            "last_commit": "2026-03-24T15:56:01Z",
+            "open_issues": 1,
+            "owner": "hmenzagh",
+            "repo": "rmpp-entware",
+            "stars": 26,
+            "topics": [
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "Funcky reMarkable Exporter",
           "description": "Export notes from a reMarkable Tablet to File System and External Services.",
           "children": [],
@@ -3779,29 +3802,6 @@
             "topics": [
               "csharp",
               "dotnet",
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "RMPP Entware",
-          "description": "Package manager for reMarkable Paper Pro. Install okpg package manager.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "RMPP Entware allows you to install additional software packages from the Entware repositories on your reMarkable device.",
-            "homepage": null,
-            "id": 907047242,
-            "language": "Shell",
-            "license": "MIT",
-            "last_commit": "2026-03-24T15:56:01Z",
-            "open_issues": 1,
-            "owner": "hmenzagh",
-            "repo": "rmpp-entware",
-            "stars": 25,
-            "topics": [
               "remarkable-tablet"
             ]
           },
@@ -4265,7 +4265,7 @@
             "open_issues": 24,
             "owner": "matteodelabre",
             "repo": "vnsee",
-            "stars": 305,
+            "stars": 306,
             "topics": [
               "remarkable-tablet",
               "vnc-client"
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:09:52.118Z",
+    "last_updated": "2026-10-21T15:20:17.989Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 19,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7768,
+      "stars": 7772,
       "topics": [
         "awesome",
         "awesome-list",
