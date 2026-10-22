@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1360,
+                "stars": 1359,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "canselcik",
                 "repo": "libremarkable",
-                "stars": 708,
+                "stars": 709,
                 "topics": [
                   "digitizer",
                   "framebuffer",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-21T14:38:12Z",
-            "open_issues": 1388,
+            "last_commit": "2026-10-22T15:08:46Z",
+            "open_issues": 1386,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30494,
+            "stars": 30520,
             "topics": [
               "cbz",
               "djvu",
@@ -514,8 +514,8 @@
             "id": 256574460,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T01:06:09Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-21T15:25:24Z",
+            "open_issues": 21,
             "owner": "fenollp",
             "repo": "reMarkable-tools",
             "stars": 235,
@@ -703,7 +703,7 @@
             "id": 1402446668,
             "language": "QML",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-21T14:02:17Z",
+            "last_commit": "2026-10-22T09:56:32Z",
             "open_issues": 0,
             "owner": "iacobucci",
             "repo": "rm-ssh-explorer",
@@ -1666,7 +1666,7 @@
             "open_issues": 0,
             "owner": "msencer",
             "repo": "remarkable_templates",
-            "stars": 140,
+            "stars": 141,
             "topics": [
               "remarkable-2",
               "remarkable-tablet"
@@ -1690,7 +1690,7 @@
             "open_issues": 0,
             "owner": "BartKeulen",
             "repo": "remarkable-gtd-templates",
-            "stars": 85,
+            "stars": 86,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2017,7 +2017,7 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-09-03T21:39:15Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "rmitchellscott",
             "repo": "reManager",
             "stars": 391,
@@ -2091,7 +2091,7 @@
             "open_issues": 16,
             "owner": "richeymichael",
             "repo": "remarkable-assistant",
-            "stars": 180,
+            "stars": 181,
             "topics": [
               "remarkable-tablet",
               "remarkable-tablets"
@@ -2273,7 +2273,7 @@
             "id": 1082138733,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-27T14:26:05Z",
+            "last_commit": "2026-10-21T15:55:44Z",
             "open_issues": 2,
             "owner": "NohamR",
             "repo": "RMHook",
@@ -2446,7 +2446,7 @@
             "open_issues": 4,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "remarkable-paper-pro",
               "remarkable-tablet"
@@ -2984,7 +2984,7 @@
             "open_issues": 22,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 353,
+            "stars": 354,
             "topics": [
               "epub",
               "frof",
@@ -4040,7 +4040,7 @@
             "id": 1295282743,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-19T20:32:09Z",
+            "last_commit": "2026-10-22T11:17:10Z",
             "open_issues": 0,
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T15:20:17.989Z",
+    "last_updated": "2026-10-22T15:20:58.682Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4401,10 +4401,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-05T23:03:09Z",
-      "open_issues": 19,
+      "open_issues": 20,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7772,
+      "stars": 7773,
       "topics": [
         "awesome",
         "awesome-list",
