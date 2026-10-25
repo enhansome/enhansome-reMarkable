@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1364,
+                "stars": 1365,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -90,7 +90,7 @@
                 "open_issues": 11,
                 "owner": "subutux",
                 "repo": "rmapy",
-                "stars": 130,
+                "stars": 129,
                 "topics": [
                   "api",
                   "cloud",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T13:24:12Z",
+            "last_commit": "2026-10-25T10:30:46Z",
             "open_issues": 1389,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30563,
+            "stars": 30596,
             "topics": [
               "cbz",
               "djvu",
@@ -2020,7 +2020,7 @@
             "open_issues": 14,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 392,
+            "stars": 393,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:02:07.556Z",
+    "last_updated": "2026-10-25T14:26:04.267Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 20,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7779,
+      "stars": 7782,
       "topics": [
         "awesome",
         "awesome-list",
