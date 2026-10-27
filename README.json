@@ -17,7 +17,7 @@
                 "id": 251136180,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-19T13:40:50Z",
+                "last_commit": "2026-10-26T22:04:36Z",
                 "open_issues": 65,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T14:40:42Z",
+            "last_commit": "2026-10-27T14:03:31Z",
             "open_issues": 1390,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30634,
+            "stars": 30654,
             "topics": [
               "cbz",
               "djvu",
@@ -930,7 +930,7 @@
             "open_issues": 24,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 255,
+            "stars": 257,
             "topics": [
               "remarkable-tablet"
             ]
@@ -953,7 +953,7 @@
             "open_issues": 2,
             "owner": "Evidlo",
             "repo": "remarkable_syncthing",
-            "stars": 212,
+            "stars": 211,
             "topics": [
               "remarkable-tablet",
               "syncthing"
@@ -2091,7 +2091,7 @@
             "open_issues": 16,
             "owner": "richeymichael",
             "repo": "remarkable-assistant",
-            "stars": 181,
+            "stars": 180,
             "topics": [
               "remarkable-tablet",
               "remarkable-tablets"
@@ -2138,7 +2138,7 @@
             "open_issues": 6,
             "owner": "moovida",
             "repo": "remarkable-hyutilities",
-            "stars": 85,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2425,7 +2425,7 @@
             "open_issues": 12,
             "owner": "funkey",
             "repo": "recept",
-            "stars": 171,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2443,7 +2443,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-09-08T00:46:33Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
             "stars": 134,
@@ -2644,8 +2644,8 @@
             "id": 1080565105,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-24T20:20:00Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-26T18:25:45Z",
+            "open_issues": 2,
             "owner": "rmitchellscott",
             "repo": "xovi-qmd-extensions",
             "stars": 31,
@@ -3423,7 +3423,7 @@
             "open_issues": 3,
             "owner": "jmpinit",
             "repo": "rm-dl-annotated",
-            "stars": 84,
+            "stars": 83,
             "topics": [
               "remarkable-tablet",
               "remarkable-tablets"
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:49:08.744Z",
+    "last_updated": "2026-10-27T15:54:29.751Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 20,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7785,
+      "stars": 7784,
       "topics": [
         "awesome",
         "awesome-list",
