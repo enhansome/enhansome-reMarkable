@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -69,7 +69,7 @@
                 "open_issues": 20,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 342,
+                "stars": 344,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-29T15:21:04Z",
-            "open_issues": 1397,
+            "last_commit": "2026-10-30T15:57:46Z",
+            "open_issues": 1396,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30732,
+            "stars": 30748,
             "topics": [
               "cbz",
               "djvu",
@@ -927,10 +927,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-29T16:07:06Z",
-            "open_issues": 25,
+            "open_issues": 27,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "remarkable-tablet"
             ]
@@ -1614,7 +1614,7 @@
             "open_issues": 23,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1530,
+            "stars": 1532,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -2020,7 +2020,7 @@
             "open_issues": 15,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 393,
+            "stars": 395,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2299,7 +2299,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-25T22:02:56Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "NohamR",
             "repo": "RMHook-Win",
             "stars": 4,
@@ -3604,7 +3604,7 @@
             "id": 970899648,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-31T21:00:27Z",
+            "last_commit": "2026-10-29T18:21:10Z",
             "open_issues": 1,
             "owner": "rmitchellscott",
             "repo": "Ephemeris",
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T16:58:09.171Z",
+    "last_updated": "2026-10-30T16:43:15.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
