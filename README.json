@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "canselcik",
                 "repo": "libremarkable",
-                "stars": 711,
+                "stars": 713,
                 "topics": [
                   "digitizer",
                   "framebuffer",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T14:25:18Z",
-            "open_issues": 1394,
+            "last_commit": "2026-11-01T15:50:48Z",
+            "open_issues": 1399,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30769,
+            "stars": 30794,
             "topics": [
               "cbz",
               "djvu",
@@ -563,7 +563,7 @@
             "open_issues": 13,
             "owner": "dps",
             "repo": "remarkable-wikipedia",
-            "stars": 175,
+            "stars": 176,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -726,11 +726,11 @@
                 "id": 453542805,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T00:21:51Z",
+                "last_commit": "2026-11-01T03:20:44Z",
                 "open_issues": 1,
                 "owner": "hafacc",
                 "repo": "repub",
-                "stars": 93,
+                "stars": 94,
                 "topics": [
                   "chrome-extension",
                   "remarkable-tablet",
@@ -2020,7 +2020,7 @@
             "open_issues": 15,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2404,7 +2404,7 @@
             "open_issues": 12,
             "owner": "asivery",
             "repo": "rm-hacks-qmd",
-            "stars": 226,
+            "stars": 225,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2446,7 +2446,7 @@
             "open_issues": 5,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "remarkable-paper-pro",
               "remarkable-tablet"
@@ -2470,7 +2470,7 @@
             "open_issues": 11,
             "owner": "asivery",
             "repo": "rm-appload",
-            "stars": 110,
+            "stars": 112,
             "topics": [
               "qml",
               "remarkable-tablet"
@@ -2494,7 +2494,7 @@
             "open_issues": 4,
             "owner": "FouzR",
             "repo": "xovi-extensions",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -2622,7 +2622,7 @@
             "open_issues": 2,
             "owner": "ingatellent",
             "repo": "xovi-qmd-extensions",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "remarkable-2",
               "remarkable-paper-pro",
@@ -2716,6 +2716,29 @@
         },
         {
           "node_type": "item",
+          "title": "xovi-qmd-extensions (StarNumber12046)",
+          "description": "StarNumber12046/xovi-qmd-extensions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Some QMD extensions I made",
+            "homepage": null,
+            "id": 934401549,
+            "language": null,
+            "license": "MIT",
+            "last_commit": "2025-12-30T20:18:38Z",
+            "open_issues": 2,
+            "owner": "StarNumber12046",
+            "repo": "xovi-qmd-extensions",
+            "stars": 13,
+            "topics": [
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "WebInterface-Upload-Button",
           "description": "Upload button for the web interface, alternative to drag and drop.",
           "children": [],
@@ -2738,29 +2761,6 @@
               "remarkable-tablet",
               "upload",
               "webinterface"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "xovi-qmd-extensions (StarNumber12046)",
-          "description": "StarNumber12046/xovi-qmd-extensions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Some QMD extensions I made",
-            "homepage": null,
-            "id": 934401549,
-            "language": null,
-            "license": "MIT",
-            "last_commit": "2025-12-30T20:18:38Z",
-            "open_issues": 2,
-            "owner": "StarNumber12046",
-            "repo": "xovi-qmd-extensions",
-            "stars": 12,
-            "topics": [
-              "remarkable-tablet"
             ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -4217,7 +4217,7 @@
             "open_issues": 47,
             "owner": "bordaigorl",
             "repo": "rmview",
-            "stars": 826,
+            "stars": 825,
             "topics": [
               "pyqt5",
               "remarkable-tablet"
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T15:46:22.994Z",
+    "last_updated": "2026-11-01T16:50:28.915Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 20,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7791,
+      "stars": 7794,
       "topics": [
         "awesome",
         "awesome-list",
