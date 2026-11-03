@@ -21,7 +21,7 @@
                 "open_issues": 65,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1369,
+                "stars": 1372,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T20:03:54Z",
-            "open_issues": 1399,
+            "last_commit": "2026-11-03T17:42:57Z",
+            "open_issues": 1397,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30819,
+            "stars": 30849,
             "topics": [
               "cbz",
               "djvu",
@@ -726,8 +726,8 @@
                 "id": 453542805,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-01T20:46:14Z",
-                "open_issues": 1,
+                "last_commit": "2026-11-03T03:00:57Z",
+                "open_issues": 0,
                 "owner": "hafacc",
                 "repo": "repub",
                 "stars": 94,
@@ -930,7 +930,7 @@
             "open_issues": 28,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 261,
+            "stars": 262,
             "topics": [
               "remarkable-tablet"
             ]
@@ -977,7 +977,7 @@
             "open_issues": 5,
             "owner": "michaelmior",
             "repo": "zotero-remarkable",
-            "stars": 192,
+            "stars": 193,
             "topics": [
               "remarkable-tablet",
               "zotero",
@@ -1431,7 +1431,7 @@
             "open_issues": 0,
             "owner": "paviro",
             "repo": "Syncthing-for-reMarkable",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "remarkable",
               "remarkable-paper-pro",
@@ -2014,13 +2014,13 @@
             "description": "Linux, MacOS, and Windows desktop app for managing mods on reMarkable tablets",
             "homepage": "https://remanager.io",
             "id": 1134595696,
-            "language": "TypeScript",
+            "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-03T21:39:15Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-03T16:12:13Z",
+            "open_issues": 10,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 399,
+            "stars": 403,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2446,7 +2446,7 @@
             "open_issues": 5,
             "owner": "asivery",
             "repo": "rm-xovi-extensions",
-            "stars": 135,
+            "stars": 137,
             "topics": [
               "remarkable-paper-pro",
               "remarkable-tablet"
@@ -2470,7 +2470,7 @@
             "open_issues": 11,
             "owner": "asivery",
             "repo": "rm-appload",
-            "stars": 112,
+            "stars": 113,
             "topics": [
               "qml",
               "remarkable-tablet"
@@ -2622,7 +2622,7 @@
             "open_issues": 2,
             "owner": "ingatellent",
             "repo": "xovi-qmd-extensions",
-            "stars": 32,
+            "stars": 33,
             "topics": [
               "remarkable-2",
               "remarkable-paper-pro",
@@ -2827,7 +2827,7 @@
             "open_issues": 1,
             "owner": "NohamR",
             "repo": "xovi-qmd-extensions",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "qt-resource-rebuilder",
               "xovi",
@@ -4241,7 +4241,7 @@
             "open_issues": 28,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 758,
+            "stars": 759,
             "topics": [
               "golang",
               "remarkable-tablet"
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T20:23:57.906Z",
+    "last_updated": "2026-11-03T17:53:49.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 20,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7798,
+      "stars": 7799,
       "topics": [
         "awesome",
         "awesome-list",
