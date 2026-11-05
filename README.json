@@ -21,7 +21,7 @@
                 "open_issues": 67,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1373,
+                "stars": 1374,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -257,7 +257,7 @@
                 "open_issues": 14,
                 "owner": "ricklupton",
                 "repo": "rmscene",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-04T15:06:25Z",
-            "open_issues": 1403,
+            "last_commit": "2026-11-05T13:59:55Z",
+            "open_issues": 1404,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30864,
+            "stars": 30887,
             "topics": [
               "cbz",
               "djvu",
@@ -926,11 +926,11 @@
             "id": 1105221013,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T16:07:06Z",
+            "last_commit": "2026-11-05T16:04:29Z",
             "open_issues": 28,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 262,
+            "stars": 263,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2020,7 +2020,7 @@
             "open_issues": 11,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 402,
+            "stars": 403,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2401,7 +2401,7 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-04-08T21:08:09Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "asivery",
             "repo": "rm-hacks-qmd",
             "stars": 225,
@@ -2648,7 +2648,7 @@
             "open_issues": 0,
             "owner": "rmitchellscott",
             "repo": "xovi-qmd-extensions",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2880,7 +2880,7 @@
             "open_issues": 0,
             "owner": "Samarkin",
             "repo": "rm-hacks-xovi-qmd",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "remarkable-paper-pro-move",
               "remarkable-tablet",
@@ -2934,7 +2934,7 @@
             "open_issues": 30,
             "owner": "Evidlo",
             "repo": "remarkable_mouse",
-            "stars": 641,
+            "stars": 642,
             "topics": [
               "graphics-tablet",
               "remarkable-tablet",
@@ -3102,8 +3102,8 @@
             "id": 162478551,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2023-02-23T23:56:12Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-05T08:54:03Z",
+            "open_issues": 3,
             "owner": "jessfraz",
             "repo": "morningpaper2remarkable",
             "stars": 230,
@@ -3706,7 +3706,7 @@
             "open_issues": 2,
             "owner": "Evidlo",
             "repo": "remarkable_keyboard",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T18:03:27.893Z",
+    "last_updated": "2026-11-05T18:05:07.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 20,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7800,
+      "stars": 7802,
       "topics": [
         "awesome",
         "awesome-list",
