@@ -18,10 +18,10 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-28T14:35:12Z",
-                "open_issues": 68,
+                "open_issues": 71,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1374,
+                "stars": 1375,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-08T16:20:05Z",
-            "open_issues": 1395,
+            "last_commit": "2026-11-09T16:52:12Z",
+            "open_issues": 1389,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 30959,
+            "stars": 31000,
             "topics": [
               "cbz",
               "djvu",
@@ -2017,10 +2017,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-11-06T23:28:56Z",
-            "open_issues": 11,
+            "open_issues": 13,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 407,
+            "stars": 409,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2619,7 +2619,7 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-10-27T20:24:36Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "rmitchellscott",
             "repo": "xovi-qmd-extensions",
             "stars": 34,
@@ -4040,7 +4040,7 @@
             "id": 1295282743,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-11-02T15:41:54Z",
+            "last_commit": "2026-11-09T16:09:12Z",
             "open_issues": 1,
             "owner": "gitman-101111",
             "repo": "remarkable-nixos",
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T16:43:17.371Z",
+    "last_updated": "2026-11-09T20:49:41.518Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4401,7 +4401,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-05T23:03:09Z",
-      "open_issues": 21,
+      "open_issues": 23,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
       "stars": 7803,
