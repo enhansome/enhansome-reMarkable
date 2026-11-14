@@ -21,7 +21,7 @@
                 "open_issues": 70,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1377,
+                "stars": 1378,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T17:09:10Z",
-            "open_issues": 1387,
+            "last_commit": "2026-11-14T16:17:57Z",
+            "open_issues": 1390,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 31078,
+            "stars": 31090,
             "topics": [
               "cbz",
               "djvu",
@@ -707,7 +707,7 @@
             "open_issues": 0,
             "owner": "iacobucci",
             "repo": "rm-ssh-explorer",
-            "stars": 0,
+            "stars": 1,
             "topics": []
           },
           "first_seen": "2026-10-06T10:30:18.286Z"
@@ -930,7 +930,7 @@
             "open_issues": 19,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 264,
+            "stars": 265,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2016,8 +2016,8 @@
             "id": 1134595696,
             "language": "Go",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-11T19:28:17Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-14T04:35:59Z",
+            "open_issues": 9,
             "owner": "rmitchellscott",
             "repo": "reManager",
             "stars": 410,
@@ -2980,8 +2980,8 @@
             "id": 246181153,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T13:31:06Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-13T19:51:07Z",
+            "open_issues": 19,
             "owner": "j6k4m8",
             "repo": "goosepaper",
             "stars": 358,
@@ -3513,8 +3513,8 @@
             "id": 487516230,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-13T10:22:59Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-14T10:22:10Z",
+            "open_issues": 22,
             "owner": "Scrybbling-together",
             "repo": "remarks",
             "stars": 65,
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:50:44.232Z",
+    "last_updated": "2026-11-14T16:37:54.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 24,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7813,
+      "stars": 7814,
       "topics": [
         "awesome",
         "awesome-list",
