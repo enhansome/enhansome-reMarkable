@@ -21,7 +21,7 @@
                 "open_issues": 70,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1378,
+                "stars": 1380,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "canselcik",
                 "repo": "libremarkable",
-                "stars": 714,
+                "stars": 715,
                 "topics": [
                   "digitizer",
                   "framebuffer",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-14T16:17:57Z",
-            "open_issues": 1390,
+            "last_commit": "2026-11-15T17:04:36Z",
+            "open_issues": 1394,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 31090,
+            "stars": 31109,
             "topics": [
               "cbz",
               "djvu",
@@ -1614,7 +1614,7 @@
             "open_issues": 23,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1535,
+            "stars": 1536,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -2017,10 +2017,10 @@
             "language": "Go",
             "license": "GPL-3.0",
             "last_commit": "2026-11-14T04:35:59Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 410,
+            "stars": 411,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2250,7 +2250,7 @@
             "open_issues": 2,
             "owner": "chopikus",
             "repo": "rm-exporter",
-            "stars": 47,
+            "stars": 49,
             "topics": [
               "golang",
               "pdf",
@@ -3513,7 +3513,7 @@
             "id": 487516230,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T10:22:10Z",
+            "last_commit": "2026-11-14T20:33:53Z",
             "open_issues": 22,
             "owner": "Scrybbling-together",
             "repo": "remarks",
@@ -4238,7 +4238,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-13T16:42:40Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
             "stars": 760,
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T16:37:54.285Z",
+    "last_updated": "2026-11-15T17:15:26.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4401,7 +4401,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-05T23:03:09Z",
-      "open_issues": 24,
+      "open_issues": 25,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
       "stars": 7814,
