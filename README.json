@@ -21,7 +21,7 @@
                 "open_issues": 69,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1381,
+                "stars": 1380,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -435,7 +435,7 @@
                 "open_issues": 11,
                 "owner": "canselcik",
                 "repo": "libremarkable",
-                "stars": 715,
+                "stars": 712,
                 "topics": [
                   "digitizer",
                   "framebuffer",
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T17:26:32Z",
-            "open_issues": 1401,
+            "last_commit": "2026-11-18T18:03:11Z",
+            "open_issues": 1398,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 31151,
+            "stars": 31172,
             "topics": [
               "cbz",
               "djvu",
@@ -2491,7 +2491,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-11-15T19:48:47Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "FouzR",
             "repo": "xovi-extensions",
             "stars": 95,
@@ -2618,7 +2618,7 @@
             "id": 1080565105,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-12T19:51:39Z",
+            "last_commit": "2026-11-17T22:32:34Z",
             "open_issues": 1,
             "owner": "rmitchellscott",
             "repo": "xovi-qmd-extensions",
@@ -2984,7 +2984,7 @@
             "open_issues": 19,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 358,
+            "stars": 357,
             "topics": [
               "epub",
               "frof",
@@ -3228,7 +3228,7 @@
             "open_issues": 0,
             "owner": "nov1n",
             "repo": "RemarkablePocket",
-            "stars": 163,
+            "stars": 162,
             "topics": [
               "articles",
               "downloader",
@@ -3284,7 +3284,7 @@
             "open_issues": 7,
             "owner": "hersle",
             "repo": "rmirro",
-            "stars": 126,
+            "stars": 125,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4138,7 +4138,7 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-10-19T17:46:48Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "gitman-101111",
             "repo": "chiappa",
             "stars": 1,
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T19:13:13.192Z",
+    "last_updated": "2026-11-18T18:53:09.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
