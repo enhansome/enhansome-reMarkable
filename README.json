@@ -21,7 +21,7 @@
                 "open_issues": 70,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1380,
+                "stars": 1383,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-20T17:42:37Z",
-            "open_issues": 1394,
+            "last_commit": "2026-11-21T17:04:21Z",
+            "open_issues": 1399,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 31231,
+            "stars": 31248,
             "topics": [
               "cbz",
               "djvu",
@@ -930,7 +930,7 @@
             "open_issues": 23,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2043,7 +2043,7 @@
             "open_issues": 25,
             "owner": "bordaigorl",
             "repo": "remy",
-            "stars": 310,
+            "stars": 311,
             "topics": [
               "gplv3",
               "pyqt5",
@@ -2277,7 +2277,7 @@
             "open_issues": 2,
             "owner": "NohamR",
             "repo": "RMHook",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "remarkable",
               "remarkable-tablet",
@@ -2490,8 +2490,8 @@
             "id": 918612096,
             "language": null,
             "license": "GPL-3.0",
-            "last_commit": "2026-11-15T19:48:47Z",
-            "open_issues": 6,
+            "last_commit": "2026-11-21T14:33:51Z",
+            "open_issues": 5,
             "owner": "FouzR",
             "repo": "xovi-extensions",
             "stars": 95,
@@ -2802,7 +2802,7 @@
             "id": 460649011,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-23T09:00:15Z",
+            "last_commit": "2026-11-20T19:25:06Z",
             "open_issues": 12,
             "owner": "yara-blue",
             "repo": "Book-safe",
@@ -3494,7 +3494,7 @@
             "open_issues": 6,
             "owner": "JCN-9000",
             "repo": "pdf2rmnotebook",
-            "stars": 67,
+            "stars": 68,
             "topics": [
               "remarkable-tablet"
             ]
@@ -3541,7 +3541,7 @@
             "open_issues": 0,
             "owner": "LinusCDE",
             "repo": "rmWacomToMouse",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T18:38:42.879Z",
+    "last_updated": "2026-11-21T17:37:30.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 25,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7820,
+      "stars": 7822,
       "topics": [
         "awesome",
         "awesome-list",
