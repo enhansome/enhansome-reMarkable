@@ -21,7 +21,7 @@
                 "open_issues": 70,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
-                "stars": 1388,
+                "stars": 1390,
                 "topics": [
                   "remarkable-tablet"
                 ]
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-24T17:39:11Z",
-            "open_issues": 1399,
+            "last_commit": "2026-11-25T19:25:52Z",
+            "open_issues": 1401,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 31307,
+            "stars": 31324,
             "topics": [
               "cbz",
               "djvu",
@@ -1614,7 +1614,7 @@
             "open_issues": 23,
             "owner": "kudrykv",
             "repo": "latex-yearly-planner",
-            "stars": 1540,
+            "stars": 1541,
             "topics": [
               "digital-planner",
               "digitalplanner",
@@ -2020,7 +2020,7 @@
             "open_issues": 13,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 413,
+            "stars": 415,
             "topics": [
               "remarkable-tablet"
             ]
@@ -3513,8 +3513,8 @@
             "id": 487516230,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T13:24:09Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-25T17:58:15Z",
+            "open_issues": 28,
             "owner": "Scrybbling-together",
             "repo": "remarks",
             "stars": 65,
@@ -4002,6 +4002,31 @@
         },
         {
           "node_type": "item",
+          "title": "remarkable-nixos",
+          "description": "Run NixOS on your reMarkable Pro Paper Move (others possible)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "NixOS on the reMarkable Pro (Paper Move for now, others possible)",
+            "homepage": null,
+            "id": 1295282743,
+            "language": "Nix",
+            "license": "MIT",
+            "last_commit": "2026-11-23T17:59:13Z",
+            "open_issues": 1,
+            "owner": "gitman-101111",
+            "repo": "remarkable-nixos",
+            "stars": 9,
+            "topics": [
+              "nixos",
+              "remarkable-paper-pro-move",
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "neofetch",
           "description": "A command-line system information tool written in bash 3.2+.",
           "children": [],
@@ -4024,31 +4049,6 @@
               "remarkable-tablet",
               "system",
               "system-information"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "remarkable-nixos",
-          "description": "Run NixOS on your reMarkable Pro Paper Move (others possible)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "NixOS on the reMarkable Pro (Paper Move for now, others possible)",
-            "homepage": null,
-            "id": 1295282743,
-            "language": "Nix",
-            "license": "MIT",
-            "last_commit": "2026-11-23T17:59:13Z",
-            "open_issues": 1,
-            "owner": "gitman-101111",
-            "repo": "remarkable-nixos",
-            "stars": 8,
-            "topics": [
-              "nixos",
-              "remarkable-paper-pro-move",
-              "remarkable-tablet"
             ]
           },
           "first_seen": "2026-08-28T21:11:43.125Z"
@@ -4241,7 +4241,7 @@
             "open_issues": 30,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 759,
+            "stars": 760,
             "topics": [
               "golang",
               "remarkable-tablet"
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T20:41:56.147Z",
+    "last_updated": "2026-11-25T19:58:14.775Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 25,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7830,
+      "stars": 7831,
       "topics": [
         "awesome",
         "awesome-list",
