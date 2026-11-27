@@ -18,7 +18,7 @@
                 "language": "Go",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-28T14:35:12Z",
-                "open_issues": 71,
+                "open_issues": 72,
                 "owner": "ddvk",
                 "repo": "rmfakecloud",
                 "stars": 1391,
@@ -69,7 +69,7 @@
                 "open_issues": 25,
                 "owner": "ddvk",
                 "repo": "rmapi",
-                "stars": 347,
+                "stars": 348,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:11:43.125Z"
@@ -472,11 +472,11 @@
             "id": 8986217,
             "language": "Lua",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T18:39:26Z",
-            "open_issues": 1398,
+            "last_commit": "2026-11-27T19:02:29Z",
+            "open_issues": 1401,
             "owner": "koreader",
             "repo": "koreader",
-            "stars": 31346,
+            "stars": 31370,
             "topics": [
               "cbz",
               "djvu",
@@ -612,7 +612,7 @@
             "open_issues": 1,
             "owner": "fsniper",
             "repo": "ReBook",
-            "stars": 88,
+            "stars": 89,
             "topics": [
               "remarkable-tablet"
             ]
@@ -635,7 +635,7 @@
             "open_issues": 2,
             "owner": "tenJirka",
             "repo": "reGenda",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "caldav-client",
               "remarkable-tablet"
@@ -730,7 +730,7 @@
                 "open_issues": 0,
                 "owner": "hafacc",
                 "repo": "repub",
-                "stars": 94,
+                "stars": 95,
                 "topics": [
                   "chrome-extension",
                   "remarkable-tablet",
@@ -930,7 +930,7 @@
             "open_issues": 24,
             "owner": "SamMorrowDrums",
             "repo": "remarkable-mcp",
-            "stars": 267,
+            "stars": 268,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2020,7 +2020,7 @@
             "open_issues": 13,
             "owner": "rmitchellscott",
             "repo": "reManager",
-            "stars": 416,
+            "stars": 418,
             "topics": [
               "remarkable-tablet"
             ]
@@ -2043,7 +2043,7 @@
             "open_issues": 25,
             "owner": "bordaigorl",
             "repo": "remy",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "gplv3",
               "pyqt5",
@@ -2467,10 +2467,10 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-10-06T12:02:44Z",
-            "open_issues": 14,
+            "open_issues": 16,
             "owner": "asivery",
             "repo": "rm-appload",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "qml",
               "remarkable-tablet"
@@ -2491,7 +2491,7 @@
             "language": null,
             "license": "GPL-3.0",
             "last_commit": "2026-11-21T14:33:51Z",
-            "open_issues": 6,
+            "open_issues": 8,
             "owner": "FouzR",
             "repo": "xovi-extensions",
             "stars": 95,
@@ -2608,6 +2608,29 @@
         },
         {
           "node_type": "item",
+          "title": "xovi-qmd-extensions (rmitchellscott)",
+          "description": "rmitchellscott/xovi-qmd-extensions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "My modifications, fixes, and QoL improvements for reMarkable tablets using xovi",
+            "homepage": null,
+            "id": 1080565105,
+            "language": "Shell",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-18T20:56:16Z",
+            "open_issues": 0,
+            "owner": "rmitchellscott",
+            "repo": "xovi-qmd-extensions",
+            "stars": 36,
+            "topics": [
+              "remarkable-tablet"
+            ]
+          },
+          "first_seen": "2026-08-28T21:11:43.125Z"
+        },
+        {
+          "node_type": "item",
           "title": "xovi-qmd-extensions (ingatellent)",
           "description": "ingatellent/xovi-qmd-extensions",
           "children": [],
@@ -2627,29 +2650,6 @@
               "remarkable-2",
               "remarkable-paper-pro",
               "remarkable-paper-pro-move",
-              "remarkable-tablet"
-            ]
-          },
-          "first_seen": "2026-08-28T21:11:43.125Z"
-        },
-        {
-          "node_type": "item",
-          "title": "xovi-qmd-extensions (rmitchellscott)",
-          "description": "rmitchellscott/xovi-qmd-extensions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "My modifications, fixes, and QoL improvements for reMarkable tablets using xovi",
-            "homepage": null,
-            "id": 1080565105,
-            "language": "Shell",
-            "license": "GPL-3.0",
-            "last_commit": "2026-11-18T20:56:16Z",
-            "open_issues": 0,
-            "owner": "rmitchellscott",
-            "repo": "xovi-qmd-extensions",
-            "stars": 35,
-            "topics": [
               "remarkable-tablet"
             ]
           },
@@ -2984,7 +2984,7 @@
             "open_issues": 19,
             "owner": "j6k4m8",
             "repo": "goosepaper",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "epub",
               "frof",
@@ -3706,7 +3706,7 @@
             "open_issues": 2,
             "owner": "Evidlo",
             "repo": "remarkable_keyboard",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "remarkable-tablet"
             ]
@@ -4217,7 +4217,7 @@
             "open_issues": 47,
             "owner": "bordaigorl",
             "repo": "rmview",
-            "stars": 825,
+            "stars": 826,
             "topics": [
               "pyqt5",
               "remarkable-tablet"
@@ -4241,7 +4241,7 @@
             "open_issues": 30,
             "owner": "owulveryck",
             "repo": "goMarkableStream",
-            "stars": 761,
+            "stars": 762,
             "topics": [
               "golang",
               "remarkable-tablet"
@@ -4392,7 +4392,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:42:08.923Z",
+    "last_updated": "2026-11-27T19:30:50.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of projects related to the reMarkable tablet",
@@ -4404,7 +4404,7 @@
       "open_issues": 25,
       "owner": "reHackable",
       "repo": "awesome-reMarkable",
-      "stars": 7830,
+      "stars": 7831,
       "topics": [
         "awesome",
         "awesome-list",
